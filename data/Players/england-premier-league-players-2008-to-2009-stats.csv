@@ -1,0 +1,619 @@
+full_name,age,birthday,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Aaron Doran,29,674092800,Premier League,2008/2009,Midfielder,Blackburn Rovers,117,0,117,Republic of Ireland,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,1.54,59,39,117,0,0.77,-1,-1,-1,28
+Aaron Hughes,40,310867200,Premier League,2008/2009,Defender,Fulham,3394,1684,1710,Northern Ireland,38,19,19,0,0,0,0,0,0,0,0,15,7,8,30,12,18,0,0,0,0,0,0,0,0,0.8,113,89,0,0,0,356,314,34,24
+Aaron Lennon,33,545529600,Premier League,2008/2009,Midfielder,Tottenham Hotspur,2518,1356,1162,England,35,15,11,5,3,2,4,2,2,0,0,12,11,1,27,7,20,2,0,0.32,0.14,0.18,0.2,0.15,504,0.97,93,72,1259,630,0.07,103,101,-1,4
+Aaron Mokoena,39,343958400,Premier League,2008/2009,Defender,Blackburn Rovers,836,425,411,South Africa,18,4,5,0,0,0,0,0,0,0,0,4,3,1,16,7,9,3,0,0,0,0,0,0,0,1.72,52,46,279,0,0.32,308,323,164,27
+Aaron Ramsey,29,662169600,Premier League,2008/2009,Midfielder,Arsenal,222,28,194,Wales,9,0,1,0,0,0,1,0,1,0,0,5,3,2,1,0,1,1,0,0.41,0.41,0,0,0,0,0.41,222,25,222,222,0.41,-1,-1,-1,21
+Abdoulaye Diagne-Fayé,42,257299200,Premier League,2008/2009,Defender,Stoke City,3168,1683,1485,Senegal,36,19,17,3,1,2,0,0,0,0,0,12,9,3,43,12,31,6,0,0.09,0,0.09,0.05,0.12,1056,1.22,74,88,528,0,0.17,166,301,97,3
+Abdoulaye Méïté,39,339638400,Premier League,2008/2009,Defender,West Bromwich Albion,1446,564,882,Côte d'Ivoire,18,7,11,0,0,0,0,0,0,0,0,2,1,1,33,13,20,3,0,0,0,0,0,0,0,2.05,44,80,482,0,0.19,297,335,171,22
+Ádám Bogdán,33,559699200,Premier League,2008/2009,Goalkeeper,Bolton Wanderers,0,0,0,Hungary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adam Clayton,31,600739200,Premier League,2008/2009,Midfielder,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adam Johnson,33,553219200,Premier League,2008/2009,Midfielder,Middlesbrough,1095,589,506,England,26,5,5,0,0,0,0,0,0,0,0,6,5,1,20,8,12,1,0,0,0,0,0,0,0,1.64,55,42,1095,0,0.08,339,315,-1,20
+Adel Taarabt,31,611971200,Premier League,2008/2009,Midfielder,Tottenham Hotspur,3,3,0,Morocco,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,28
+Afonso Alves Martins Júnior,39,349660800,Premier League,2008/2009,Forward,Middlesbrough,2170,1048,1122,Brazil,31,11,13,4,3,1,3,2,1,1,0,6,5,1,27,8,19,2,0,0.29,0.12,0.17,0.26,0.08,543,1.12,80,70,1085,723,0.08,105,119,-1,4
+Ahmed Hossam Hussein Abdelhamid,37,414806400,Premier League,2008/2009,Midfielder,Wigan Athletic,1371,763,608,Egypt,25,9,6,6,4,2,0,0,0,1,0,6,4,2,22,10,12,4,0,0.39,0,0.39,0.47,0.3,229,1.44,62,55,343,0,0.26,31,355,-1,2
+Akenhaton Carlos Edwards,41,278035200,Premier League,2008/2009,Midfielder,Sunderland,778,406,372,Trinidad and Tobago,22,3,3,0,0,0,1,1,0,0,0,5,4,1,13,6,7,0,0,0.12,0.12,0,0,0,0,1.5,60,35,0,778,0,396,122,-1,25
+Alain Didier Zokora-Déguy,39,345600000,Premier League,2008/2009,Midfielder,Tottenham Hotspur,2058,1013,1045,Côte d'Ivoire,29,11,13,0,0,0,0,0,0,0,0,7,6,1,24,8,16,3,0,0,0,0,0,0,0,1.05,86,71,686,0,0.13,342,304,-1,26
+Alan Hutton,35,470620800,Premier League,2008/2009,Defender,Tottenham Hotspur,585,236,349,Scotland,8,1,4,0,0,0,0,0,0,0,0,3,2,1,10,1,9,2,0,0,0,0,0,0,0,1.54,59,73,293,0,0.31,267,263,145,19
+Alan Judge,31,595209600,Premier League,2008/2009,Midfielder,Blackburn Rovers,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Alan Smith,39,341539200,Premier League,2008/2009,Forward,Newcastle United,395,185,210,England,6,2,2,0,0,0,0,0,0,0,0,2,2,0,6,2,4,2,0,0,0,0,0,0,0,1.37,66,66,198,0,0.46,383,358,-1,19
+Albert Riera Ortega,38,387676800,Premier League,2008/2009,Midfielder,Liverpool,1901,1276,625,Spain,28,16,8,3,3,0,2,2,0,0,0,15,11,4,17,11,6,1,0,0.24,0.09,0.14,0.21,0,634,0.8,112,68,1901,951,0.05,125,155,-1,6
+Alberto Mateus Contreiras Gonçalves,37,415843200,Premier League,2008/2009,Forward,Hull City,666,229,437,Angola,14,1,5,2,0,2,1,1,0,0,0,3,2,1,12,5,7,0,0,0.41,0.14,0.27,0,0.41,333,1.62,56,48,0,666,0,67,96,-1,7
+Alex Rodrigo Dias da Costa,38,393120000,Premier League,2008/2009,Defender,Chelsea,1971,933,1038,Brazil,24,10,12,2,1,1,1,1,0,0,0,14,6,8,9,5,4,1,0,0.14,0.05,0.09,0.1,0.09,986,0.41,219,82,1971,1971,0.05,162,215,2,10
+Alexandre Dimitri Song-Billong,33,558144000,Premier League,2008/2009,Midfielder,Arsenal,2060,720,1340,Cameroon,31,8,15,1,0,1,0,0,0,0,0,11,6,5,21,7,14,7,0,0.04,0,0.04,0,0.07,2060,0.92,98,66,294,0,0.31,210,257,-1,16
+Ali Abdullah Harib Al Habsi,38,378518400,Premier League,2008/2009,Goalkeeper,Bolton Wanderers,0,0,0,Oman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Álvaro Arbeloa Coca,37,411609600,Premier League,2008/2009,Defender,Liverpool,2579,1319,1260,Spain,29,15,14,1,1,0,1,0,1,0,0,16,9,7,19,10,9,8,0,0.07,0.03,0.03,0.07,0,2579,0.66,136,89,322,2579,0.28,237,235,18,13
+Amaury Armindo Bischoff,33,544147200,Premier League,2008/2009,Midfielder,Arsenal,25,0,25,Portugal,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,18
+Amdy Moustapha Faye,43,226972800,Premier League,2008/2009,Midfielder,Stoke City,1427,833,594,Senegal,21,9,9,0,0,0,0,0,0,0,0,7,6,1,21,5,16,4,1,0,0,0,0,0,0,1.32,68,68,285,0,0.32,387,401,-1,19
+Amr Hassan Zaky Mansour,37,418003200,Premier League,2008/2009,Forward,Wigan Athletic,2060,1023,1037,Egypt,29,11,11,10,3,7,1,0,1,4,0,10,6,4,22,9,13,3,0,0.48,0.04,0.44,0.26,0.61,206,0.96,94,71,687,2060,0.13,22,230,-1,1
+Anderson Luis de Abreu Oliveira,32,576892800,Premier League,2008/2009,Midfielder,Manchester United,935,452,483,Brazil,17,5,6,0,0,0,0,0,0,0,0,10,6,4,10,5,5,0,0,0,0,0,0,0,0,0.96,94,55,0,0,0,257,290,-1,23
+Anderson Luís de Souza,43,241488000,Premier League,2008/2009,Midfielder,Chelsea,1545,722,823,Portugal,24,8,9,3,1,2,1,1,0,0,0,15,7,8,12,8,4,3,0,0.23,0.06,0.17,0.12,0.22,515,0.7,129,64,515,1545,0.17,107,199,-1,6
+Andranik Timotian-Samarani,37,415756800,Premier League,2008/2009,Midfielder,Fulham,8,8,0,Iran,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8,8,0,11.25,-1,-1,-1,22
+André Ooijer,46,142732800,Premier League,2008/2009,Defender,Blackburn Rovers,2674,1228,1446,Netherlands,32,14,16,2,1,1,3,2,1,0,0,8,5,3,41,13,28,8,0,0.17,0.1,0.07,0.07,0.06,1337,1.38,65,84,334,891,0.27,181,147,119,8
+Andrea Dossena,39,369014400,Premier League,2008/2009,Defender,Liverpool,1040,499,541,Italy,16,6,6,1,0,1,0,0,0,0,0,7,2,5,8,6,2,2,0,0.09,0,0.09,0,0.17,1040,0.69,130,65,520,0,0.17,165,406,23,12
+Andrew Davies,35,472089600,Premier League,2008/2009,Defender,Stoke City,48,16,32,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,3.75,24,24,0,0,0,-1,-1,-1,17
+Andrew Taylor,34,523238400,Premier League,2008/2009,Defender,Middlesbrough,1940,949,991,England,26,10,10,0,0,0,0,0,0,0,0,3,3,0,29,11,18,3,0,0,0,0,0,0,0,1.35,67,75,647,0,0.14,333,353,115,26
+Andrey Arshavin,39,359942400,Premier League,2008/2009,Forward,Arsenal,997,494,503,Russia,12,6,6,6,1,5,7,2,5,0,0,7,5,2,7,1,6,2,0,1.17,0.63,0.54,0.18,0.89,166,0.63,142,83,499,142,0.18,11,1,-1,4
+Andy Carroll,31,600048000,Premier League,2008/2009,Forward,Newcastle United,527,245,282,England,14,2,3,3,1,2,0,0,0,0,0,1,1,0,11,4,7,2,0,0.51,0,0.51,0.37,0.64,176,1.88,48,38,264,0,0.34,12,258,-1,7
+Andy Dawson,41,277689600,Premier League,2008/2009,Defender,Hull City,2044,1036,1008,England,25,12,13,1,1,0,3,1,2,0,0,5,2,3,34,20,14,7,0,0.18,0.13,0.04,0.09,0,2044,1.5,60,82,292,681,0.31,211,111,139,8
+Andy Griffin,41,290476800,Premier League,2008/2009,Defender,Stoke City,1600,732,868,England,20,8,9,0,0,0,0,0,0,0,0,5,3,2,26,9,17,4,0,0,0,0,0,0,0,1.46,62,80,400,0,0.23,325,393,136,28
+Andy Johnson,39,350611200,Premier League,2008/2009,Forward,Fulham,2582,1310,1272,England,31,16,14,7,6,1,4,4,0,0,0,14,6,8,18,9,9,2,1,0.38,0.14,0.24,0.41,0.07,369,0.63,143,83,1291,646,0.07,76,98,-1,2
+Andy O'Brien,41,299462400,Premier League,2008/2009,Defender,Bolton Wanderers,2767,1365,1402,Republic of Ireland,34,15,15,1,0,1,2,2,0,0,0,7,5,2,39,13,26,5,0,0.1,0.07,0.03,0,0.06,2767,1.27,71,81,553,1384,0.16,242,178,104,9
+Andy Reid,38,396748800,Premier League,2008/2009,Midfielder,Sunderland,1812,1161,651,Republic of Ireland,32,14,6,1,1,0,4,4,0,0,0,9,6,3,21,16,5,2,0,0.25,0.2,0.05,0.08,0,1812,1.04,86,57,906,453,0.1,203,57,-1,11
+Andy van der Meyde,40,307497600,Premier League,2008/2009,Forward,Everton,10,10,0,Netherlands,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,26
+Andy Wilkinson,36,460598400,Premier League,2008/2009,Defender,Stoke City,1580,867,713,England,22,11,9,0,0,0,0,0,0,0,0,8,7,1,21,3,18,8,1,0,0,0,0,0,0,1.2,75,72,198,0,0.46,326,394,91,27
+Angelos Basinas,44,189475200,Premier League,2008/2009,Midfielder,Portsmouth,229,157,72,Greece,3,2,1,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,0.79,115,76,0,0,0,-1,-1,-1,26
+Anthony Gardner,40,338169600,Premier League,2008/2009,Defender,Hull City,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,6,4,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,348,309,57,26
+Anthony McMahon,34,512006400,Premier League,2008/2009,Defender,Middlesbrough,1044,595,449,England,13,7,6,0,0,0,2,2,0,0,0,1,1,0,18,7,11,3,0,0.17,0.17,0,0,0,0,1.55,58,80,348,522,0.26,272,76,147,9
+Anthony Randolph Warner,46,137462400,Premier League,2008/2009,Goalkeeper,Hull City,0,0,0,Trinidad and Tobago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Anthony Stokes,32,585792000,Premier League,2008/2009,Forward,Sunderland,41,30,11,Republic of Ireland,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,-1,-1,-1,22
+Antoine Sibierski,46,144892800,Premier League,2008/2009,Midfielder,Wigan Athletic,19,0,19,France,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,16
+Anton Ferdinand,35,477532800,Premier League,2008/2009,Defender,Sunderland,2790,1260,1530,England,31,14,17,0,0,0,0,0,0,0,0,9,6,3,36,12,24,5,0,0,0,0,0,0,0,1.16,78,90,558,0,0.16,286,297,85,16
+Antonio Valencia,35,491961600,Premier League,2008/2009,Defender,Wigan Athletic,2680,1365,1315,Ecuador,31,16,15,3,2,1,5,3,2,0,0,10,7,3,32,11,21,5,1,0.27,0.17,0.1,0.13,0.07,893,1.07,84,86,536,536,0.17,158,75,67,4
+Armand Traoré,30,623808000,Premier League,2008/2009,Defender,Portsmouth,1277,652,625,Senegal,19,7,7,1,1,0,1,1,0,0,0,4,1,3,20,11,9,0,0,0.14,0.07,0.07,0.14,0,1277,1.41,64,67,0,1277,0,186,182,126,10
+Arnold Mvuemba,35,475718400,Premier League,2008/2009,Midfielder,Portsmouth,136,66,70,France,6,1,0,0,0,0,0,0,0,0,0,2,0,2,4,2,2,0,0,0,0,0,0,0,0,2.65,34,23,0,0,0,-1,-1,-1,13
+Ashley Cole,39,346118400,Premier League,2008/2009,Defender,Chelsea,2941,1657,1284,England,34,19,14,1,0,1,1,1,0,0,0,18,10,8,21,12,9,5,0,0.06,0.03,0.03,0,0.07,2941,0.64,140,87,588,2941,0.15,240,251,17,13
+Ashley Young,35,489715200,Premier League,2008/2009,Midfielder,Aston Villa,3167,1585,1582,England,36,18,18,7,2,5,7,4,3,0,1,11,6,5,41,17,24,8,1,0.4,0.2,0.2,0.11,0.28,452,1.17,77,88,352,452,0.26,90,61,-1,3
+Asmir Begović,33,551145600,Premier League,2008/2009,Goalkeeper,Portsmouth,180,90,90,Bosnia and Herzegovina,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,25
+Aziza Makukula,39,352512000,Premier League,2008/2009,Forward,Bolton Wanderers,292,126,166,Portugal,6,2,2,0,0,0,1,0,1,0,0,0,0,0,3,0,3,1,0,0.31,0.31,0,0,0,0,0.92,97,49,292,292,0.31,274,14,-1,11
+Bacary Sagna,37,414028800,Premier League,2008/2009,Defender,Arsenal,2937,1458,1479,France,35,17,17,0,0,0,1,1,0,0,0,15,10,5,27,12,15,4,0,0.03,0.03,0,0,0,0,0.83,109,84,734,2937,0.12,276,243,39,27
+Ben Alnwick,33,536457600,Premier League,2008/2009,Goalkeeper,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Amos,30,639705600,Premier League,2008/2009,Goalkeeper,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Foster,37,418176000,Premier League,2008/2009,Goalkeeper,Manchester United,180,0,180,England,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,18
+Ben Peter Anthony Tozer,30,636249600,Premier League,2008/2009,Defender,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Sahar,31,618710400,Premier League,2008/2009,Forward,Portsmouth,0,0,0,Israel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Watson,35,489715200,Premier League,2008/2009,Midfielder,Wigan Athletic,650,258,392,England,10,2,4,2,1,1,0,0,0,0,0,4,2,2,11,2,9,1,0,0.28,0,0.28,0.35,0.23,325,1.52,59,65,650,0,0.14,60,276,-1,5
+Benjamin 'Benjani' Mwaruwari,42,271814400,Premier League,2008/2009,Forward,Manchester City,553,313,240,Zimbabwe,8,4,3,1,0,1,1,0,1,0,0,1,1,0,7,3,4,0,0,0.33,0.16,0.16,0,0.38,553,1.14,79,69,0,553,0,114,89,-1,8
+Benni McCarthy,42,248140800,Premier League,2008/2009,Forward,Blackburn Rovers,1522,911,611,South Africa,28,10,8,10,9,1,3,2,1,4,1,8,5,3,16,7,9,6,1,0.77,0.18,0.59,0.89,0.15,152,0.95,95,54,254,507,0.35,6,70,-1,1
+Benoît Assou-Ekotto,36,448934400,Premier League,2008/2009,Defender,Tottenham Hotspur,2441,1340,1101,Cameroon,29,16,13,0,0,0,1,0,1,0,0,12,11,1,29,5,24,6,2,0.04,0.04,0,0,0,0,1.07,84,84,349,2441,0.26,341,227,66,27
+Bernard Mendy,39,367113600,Premier League,2008/2009,Defender,Hull City,1585,883,702,France,28,8,7,2,1,1,2,1,1,0,0,3,1,2,31,19,12,5,0,0.23,0.11,0.11,0.1,0.13,793,1.76,51,57,317,793,0.28,149,129,166,6
+Blerim Džemaili,34,513648000,Premier League,2008/2009,Midfielder,Bolton Wanderers,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bobby Zamora,39,348451200,Premier League,2008/2009,Forward,Fulham,2722,1282,1440,England,35,15,17,2,2,0,3,3,0,0,0,13,7,6,25,9,16,1,0,0.17,0.1,0.07,0.14,0,1361,0.83,109,78,2722,907,0.03,183,142,-1,7
+Bondz Bondzanga N'Gala,31,621648000,Premier League,2008/2009,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Borja Valero,35,474336000,Premier League,2008/2009,Midfielder,West Bromwich Albion,2303,1123,1180,Spain,30,13,14,0,0,0,3,3,0,0,0,6,3,3,47,25,22,5,0,0.12,0.12,0,0,0,0,1.84,49,77,461,768,0.2,252,120,-1,17
+Brad Friedel,49,43372800,Premier League,2008/2009,Goalkeeper,Aston Villa,3394,1710,1684,USA,38,19,19,0,0,0,0,0,0,0,0,13,7,6,41,18,23,2,1,0,0,0,0,0,0,1.09,83,89,1131,0,0.08,302,360,70,14
+Brad Jones,38,385344000,Premier League,2008/2009,Goalkeeper,Middlesbrough,1440,810,630,Australia,16,9,7,0,0,0,0,0,0,0,0,4,4,0,22,5,17,0,0,0,0,0,0,0,0,1.38,65,90,0,0,0,258,350,121,17
+Bradden Inman,28,692323200,Premier League,2008/2009,Midfielder,Newcastle United,0,0,0,Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bradley Guzan,36,463536000,Premier League,2008/2009,Goalkeeper,Aston Villa,25,0,25,USA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,19
+Branislav Ivanović,36,446256000,Premier League,2008/2009,Defender,Chelsea,1098,585,513,Serbia,16,6,5,0,0,0,1,1,0,0,0,10,4,6,7,5,2,2,0,0.08,0.08,0,0,0,0,0.57,157,69,549,1098,0.16,249,173,12,22
+Brede Hangeland,39,361843200,Premier League,2008/2009,Defender,Fulham,3330,1710,1620,Norway,37,19,18,1,1,0,1,1,0,0,0,14,7,7,32,14,18,3,0,0.05,0.03,0.03,0.05,0,3330,0.86,104,90,1110,3330,0.08,238,242,45,10
+Brett Emerton,41,288489600,Premier League,2008/2009,Midfielder,Blackburn Rovers,1677,849,828,Australia,20,9,10,1,0,1,2,1,1,0,0,6,3,3,26,11,15,4,0,0.16,0.11,0.05,0,0.11,1677,1.4,65,84,419,839,0.21,204,130,-1,11
+Bryan Hughes,44,203990400,Premier League,2008/2009,Midfielder,Hull City,126,23,103,England,6,0,1,0,0,0,0,0,0,0,0,2,1,1,6,1,5,0,0,0,0,0,0,0,0,4.29,21,21,0,0,0,-1,-1,-1,16
+Caleb Colman Folan,36,435974400,Premier League,2008/2009,Forward,Hull City,390,256,134,Republic of Ireland,15,2,0,1,1,0,0,0,0,0,0,2,1,1,10,8,2,2,1,0.23,0,0.23,0.35,0,390,2.31,39,26,130,0,0.69,82,312,-1,11
+Callum McManaman,29,672537600,Premier League,2008/2009,Midfielder,Wigan Athletic,12,12,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,23
+Calum Davenport,37,410227200,Premier League,2008/2009,Defender,Sunderland,1316,613,703,Scotland,15,7,7,1,1,0,3,1,2,0,0,2,1,1,24,9,15,3,0,0.27,0.21,0.07,0.15,0,1316,1.64,55,88,439,439,0.21,182,53,158,8
+Carl Dickinson,33,544147200,Premier League,2008/2009,Defender,Stoke City,265,90,175,England,5,1,2,0,0,0,1,0,1,0,0,0,0,0,7,2,5,0,0,0.34,0.34,0,0,0,0,2.38,38,53,0,265,0,-1,-1,-1,18
+Carl Hoefkens,41,276393600,Premier League,2008/2009,Defender,West Bromwich Albion,661,423,238,Belgium,10,4,2,0,0,0,0,0,0,0,0,3,2,1,14,11,3,0,0,0,0,0,0,0,0,1.91,47,66,0,0,0,284,337,169,26
+Carlo Cudicini,47,116121600,Premier League,2008/2009,Goalkeeper,Tottenham Hotspur,540,180,360,Republic of Ireland,6,2,4,0,0,0,0,0,0,0,0,3,1,2,5,1,4,0,0,0,0,0,0,0,0,0.83,108,90,0,0,0,281,273,40,17
+Carlo Nash,47,116726400,Premier League,2008/2009,Goalkeeper,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,18
+Carlos Alberto Tevez,36,444787200,Premier League,2008/2009,Forward,Manchester United,1856,962,894,Argentina,29,9,9,5,1,4,1,1,0,0,0,18,9,9,11,7,4,3,0,0.29,0.05,0.24,0.09,0.4,371,0.53,169,64,619,1856,0.15,80,214,-1,4
+Carlos Andrés Villanueva Roland,34,507945600,Premier League,2008/2009,Midfielder,Blackburn Rovers,646,241,405,Chile,13,2,4,0,0,0,1,0,1,0,0,3,2,1,12,4,8,1,0,0.14,0.14,0,0,0,0,1.67,54,50,646,646,0.14,312,104,-1,21
+Carlos Javier Cuéllar Jiménez,39,367372800,Premier League,2008/2009,Defender,Aston Villa,2130,994,1136,Spain,28,11,13,0,0,0,0,0,0,0,0,9,4,5,24,10,14,2,0,0,0,0,0,0,0,1.01,89,76,1065,0,0.08,300,285,58,20
+Carlos Luciano da Silva,45,176169600,Premier League,2008/2009,Midfielder,Chelsea,15,15,0,Brazil,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,-1,-1,-1,16
+Carlos Vela,31,604713600,Premier League,2008/2009,Forward,Arsenal,415,285,130,Mexico,14,1,1,1,0,1,1,1,0,0,0,8,7,1,2,2,0,1,0,0.43,0.22,0.22,0,0.69,415,0.43,208,30,415,415,0.22,85,45,-1,15
+Carlton Cole Okirie,36,434764800,Premier League,2008/2009,Forward,West Ham United,2240,1230,1010,England,27,14,12,10,6,4,5,4,1,0,0,7,3,4,26,13,13,5,2,0.6,0.2,0.4,0.44,0.36,224,1.04,86,83,373,448,0.24,28,60,-1,1
+César Sánchez Domínguez,49,52617600,Premier League,2008/2009,Goalkeeper,Tottenham Hotspur,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cesc Fabregas,33,547084800,Premier League,2008/2009,Midfielder,Arsenal,1902,1002,900,Spain,22,12,10,3,2,1,9,4,5,0,0,7,4,3,24,14,10,7,0,0.57,0.43,0.14,0.18,0.1,634,1.14,79,86,272,211,0.33,123,6,-1,9
+Charles N'Zogbia,34,517622400,Premier League,2008/2009,Midfielder,Wigan Athletic,2405,1077,1328,France,31,12,15,2,1,1,3,3,0,0,0,9,5,4,40,15,25,3,0,0.19,0.11,0.07,0.08,0.07,1203,1.5,60,78,802,802,0.11,187,127,-1,6
+Ched Evans,31,599270400,Premier League,2008/2009,Forward,Manchester City,401,135,266,Wales,16,1,2,1,1,0,1,1,0,0,0,4,4,0,6,2,4,1,0,0.45,0.22,0.22,0.67,0,401,1.35,67,25,401,401,0.22,86,41,-1,17
+Chinedum Onuoha,33,532137600,Premier League,2008/2009,Defender,Manchester City,1871,875,996,England,23,9,11,1,1,0,1,1,0,0,0,6,6,0,23,8,15,1,0,0.1,0.05,0.05,0.1,0,1871,1.11,81,81,1871,1871,0.05,201,218,77,12
+Chris Baird,38,383443200,Premier League,2008/2009,Defender,Fulham,259,27,232,Northern Ireland,10,0,3,0,0,0,0,0,0,0,0,6,3,3,4,0,4,0,0,0,0,0,0,0,0,1.39,65,26,0,0,0,-1,-1,-1,19
+Chris Basham,32,585360000,Premier League,2008/2009,Defender,Bolton Wanderers,463,109,354,England,11,1,3,1,0,1,0,0,0,0,0,0,0,0,4,0,4,0,0,0.19,0,0.19,0,0.25,463,0.78,116,42,0,0,0,92,294,32,10
+Chris Brunt,35,471830400,Premier League,2008/2009,Midfielder,West Bromwich Albion,2372,1139,1233,Northern Ireland,34,14,14,9,5,4,2,2,0,1,1,5,3,2,50,24,26,3,0,0.42,0.08,0.34,0.4,0.29,264,1.9,47,70,791,1186,0.11,40,175,-1,1
+Chris Gunter,31,616982400,Premier League,2008/2009,Defender,Tottenham Hotspur,129,55,74,Wales,3,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.4,65,43,0,0,0,-1,-1,-1,22
+Chris Kirkland,39,357609600,Premier League,2008/2009,Goalkeeper,Wigan Athletic,2800,1350,1450,England,32,15,17,0,0,0,0,0,0,0,0,11,7,4,33,11,22,2,0,0,0,0,0,0,0,1.06,85,88,1400,0,0.06,388,346,65,12
+Chris Riggott,40,336614400,Premier League,2008/2009,Defender,Middlesbrough,1416,630,786,England,17,7,10,0,0,0,0,0,0,0,0,3,2,1,20,9,11,3,0,0,0,0,0,0,0,1.27,71,83,472,0,0.19,255,277,105,16
+Chris Smalling,30,627696000,Premier League,2008/2009,Defender,Fulham,13,13,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.92,13,13,0,0,0,-1,-1,-1,13
+Chris Wood,28,692064000,Premier League,2008/2009,Forward,West Bromwich Albion,15,0,15,New Zealand,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,30
+Christopher Veijeany Samba,36,449280000,Premier League,2008/2009,Defender,Blackburn Rovers,3048,1454,1594,Congo,35,17,18,2,1,1,3,2,1,0,0,10,7,3,47,16,31,4,0,0.15,0.09,0.06,0.06,0.06,1524,1.39,65,87,762,1016,0.12,189,154,122,6
+Ciaran Clark,31,622771200,Premier League,2008/2009,Defender,Aston Villa,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cláudio Roberto da Silva,44,202176000,Premier League,2008/2009,Defender,Newcastle United,361,99,262,Brazil,6,1,3,0,0,0,1,0,1,0,0,1,1,0,9,2,7,0,0,0.25,0.25,0,0,0,0,2.24,40,60,0,361,0,291,28,174,15
+Clint Dempsey,37,416016000,Premier League,2008/2009,Forward,Fulham,2596,1227,1369,USA,35,13,15,7,4,3,2,1,1,0,0,15,7,8,23,10,13,5,0,0.31,0.07,0.24,0.29,0.2,371,0.8,113,74,519,1298,0.17,75,192,-1,1
+Corry Evans,30,649296000,Premier League,2008/2009,Midfielder,Manchester United,0,0,0,Northern Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Craig Beattie,36,443059200,Premier League,2008/2009,Forward,West Bromwich Albion,149,57,92,Scotland,7,0,1,1,1,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0.6,0,0.6,1.58,0,149,1.81,50,21,0,0,0,-1,-1,-1,12
+Craig Bellamy,41,300672000,Premier League,2008/2009,Forward,Manchester City,1866,714,1152,Wales,24,7,13,7,3,4,0,0,0,0,0,5,3,2,22,8,14,6,0,0.34,0,0.34,0.38,0.31,267,1.06,85,78,311,0,0.29,42,299,-1,3
+Craig Fagan,37,408412800,Premier League,2008/2009,Forward,Hull City,1420,609,811,England,22,7,8,3,1,2,3,2,1,0,0,3,1,2,20,13,7,7,0,0.38,0.19,0.19,0.15,0.22,473,1.27,71,65,203,473,0.44,95,62,-1,4
+Craig Gardner,33,533260800,Premier League,2008/2009,Midfielder,Aston Villa,308,165,143,England,14,2,1,0,0,0,0,0,0,0,0,7,4,3,2,1,1,1,0,0,0,0,0,0,0,0.58,154,22,308,0,0.29,385,365,-1,18
+Craig Gordon,37,410140800,Premier League,2008/2009,Goalkeeper,Sunderland,1080,630,450,Scotland,12,7,5,0,0,0,0,0,0,0,0,3,2,1,16,10,6,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,389,402,110,23
+Cristiano Ronaldo,35,476409600,Premier League,2008/2009,Forward,Manchester United,2748,1552,1196,Portugal,33,18,13,18,16,2,5,4,1,4,0,21,13,8,19,11,8,7,1,0.75,0.16,0.59,0.93,0.15,153,0.62,145,83,393,550,0.23,5,82,-1,1
+Curtis Davies,35,479692800,Premier League,2008/2009,Defender,Aston Villa,2962,1510,1452,England,35,17,17,1,1,0,0,0,0,0,0,13,7,6,36,15,21,2,0,0.03,0,0.03,0.06,0,2962,1.09,82,85,1481,0,0.06,229,362,69,9
+Damien Duff,41,289180800,Premier League,2008/2009,Midfielder,Newcastle United,2468,1219,1249,Republic of Ireland,30,14,14,3,1,2,2,1,1,0,0,5,4,1,46,22,24,4,0,0.18,0.07,0.11,0.07,0.14,823,1.68,54,82,617,1234,0.15,142,188,-1,6
+Damien Plessis,32,573523200,Premier League,2008/2009,Midfielder,Liverpool,45,0,45,France,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,-1,-1,-1,20
+Dan Gosling,30,633830400,Premier League,2008/2009,Midfielder,Everton,587,318,269,England,11,3,3,2,2,0,0,0,0,0,0,9,5,4,0,0,0,1,0,0.31,0,0.31,0.57,0,294,0,0,53,587,0,0.15,52,321,-1,10
+Daniel Cousin,43,224121600,Premier League,2008/2009,Forward,Hull City,1583,848,735,Gabon,27,10,8,4,2,2,1,1,0,0,0,4,1,3,28,17,11,1,0,0.28,0.06,0.23,0.21,0.24,396,1.59,57,59,1583,1583,0.06,83,206,-1,2
+Daniël de Ridder,36,447379200,Premier League,2008/2009,Forward,Wigan Athletic,574,344,230,Netherlands,18,3,2,0,0,0,1,0,1,0,0,4,3,1,7,5,2,0,0,0.16,0.16,0,0,0,0,1.1,82,32,0,574,0,345,88,-1,19
+Daniel Munthe Agger,35,471657600,Premier League,2008/2009,Defender,Liverpool,1365,733,632,Denmark,18,8,7,1,1,0,2,1,1,0,0,10,6,4,11,6,5,2,0,0.2,0.13,0.07,0.12,0,1365,0.73,124,76,683,683,0.13,180,109,28,10
+Daniel Olusola 'Danny' Shittu,40,336700800,Premier League,2008/2009,Defender,Bolton Wanderers,789,450,339,Nigeria,10,5,4,0,0,0,0,0,0,0,0,1,1,0,12,6,6,1,0,0,0,0,0,0,0,1.37,66,79,789,0,0.11,323,391,117,17
+Daniel Sturridge,31,620611200,Premier League,2008/2009,Forward,Manchester City,436,284,152,England,16,2,1,4,3,1,2,1,1,1,0,5,5,0,5,1,4,0,0,1.24,0.41,0.83,0.95,0.59,109,1.03,87,27,0,218,0,2,7,-1,6
+Danny Collins,40,334368000,Premier League,2008/2009,Defender,Sunderland,3121,1591,1530,Wales,35,18,17,1,1,0,2,1,1,0,0,8,5,3,44,22,22,3,0,0.09,0.06,0.03,0.06,0,3121,1.27,71,89,1040,1561,0.09,233,211,106,10
+Danny Drinkwater,30,636595200,Premier League,2008/2009,Midfielder,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Guthrie,33,545702400,Premier League,2008/2009,Midfielder,Newcastle United,1947,984,963,England,24,10,11,2,0,2,2,2,0,1,0,5,2,3,31,16,15,4,1,0.18,0.09,0.09,0,0.19,974,1.43,63,81,389,974,0.23,171,150,-1,8
+Danny Higginbotham,41,283737600,Premier League,2008/2009,Defender,Stoke City,2583,1379,1204,Gibraltar,30,15,14,1,1,0,2,1,1,1,0,10,7,3,35,10,25,3,0,0.1,0.07,0.03,0.07,0,2583,1.22,74,86,861,1292,0.1,236,181,96,11
+Danny Murphy,43,227491200,Premier League,2008/2009,Midfielder,Fulham,3341,1649,1692,England,38,19,19,5,5,0,5,2,3,5,0,15,7,8,32,14,18,8,0,0.27,0.13,0.13,0.27,0,668,0.86,104,88,418,668,0.22,135,112,-1,3
+Danny Pugh,37,403833600,Premier League,2008/2009,Midfielder,Stoke City,931,467,464,England,17,5,4,0,0,0,2,1,1,0,0,5,4,1,11,4,7,0,0,0.19,0.19,0,0,0,0,1.06,85,55,0,466,0,271,66,-1,15
+Danny Rose,30,646876800,Premier League,2008/2009,Defender,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Simpson,33,536716800,Premier League,2008/2009,Defender,Blackburn Rovers,896,439,457,England,12,5,5,0,0,0,0,0,0,0,0,3,2,1,14,7,7,2,0,0,0,0,0,0,0,1.41,64,75,448,0,0.2,313,329,127,24
+Danny Welbeck,29,659577600,Premier League,2008/2009,Forward,Manchester United,117,29,88,England,3,0,1,1,1,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0.77,0,0.77,3.1,0,117,0,0,39,0,0,0,-1,-1,-1,15
+Darius Vassell,40,329702400,Premier League,2008/2009,Forward,Manchester City,446,157,289,England,8,3,3,0,0,0,1,1,0,0,0,1,1,0,7,2,5,1,0,0.2,0.2,0,0,0,0,1.41,64,56,446,446,0.2,260,56,-1,21
+Darren Bent,36,444873600,Premier League,2008/2009,Forward,Tottenham Hotspur,2168,1045,1123,England,33,10,11,12,3,9,2,1,1,1,0,11,10,1,30,7,23,1,0,0.58,0.08,0.5,0.26,0.72,181,1.25,72,66,2168,1084,0.04,13,161,-1,1
+Darren Fletcher,36,444441600,Premier League,2008/2009,Midfielder,Manchester United,2060,1123,937,Scotland,26,14,11,3,1,2,0,0,0,0,0,19,12,7,10,5,5,4,0,0.13,0,0.13,0.08,0.19,687,0.44,206,79,515,0,0.17,129,375,-1,7
+Darren Ward,46,137462400,Premier League,2008/2009,Goalkeeper,Sunderland,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Darron Gibson,32,562118400,Premier League,2008/2009,Midfielder,Manchester United,138,48,90,Republic of Ireland,3,0,1,1,0,1,0,0,0,0,0,3,2,1,0,0,0,1,0,0.65,0,0.65,0,1,138,0,0,46,138,0,0.65,-1,-1,-1,16
+Daryl Murphy,37,416534400,Premier League,2008/2009,Forward,Sunderland,620,288,332,Republic of Ireland,23,2,4,0,0,0,1,0,1,0,0,6,4,2,10,2,8,0,0,0.15,0.15,0,0,0,0,1.45,62,27,0,620,0,394,93,-1,20
+Dave Kitson,40,317260800,Premier League,2008/2009,Forward,Stoke City,771,366,405,England,16,6,4,0,0,0,1,0,1,0,0,5,3,2,16,6,10,2,0,0.12,0.12,0,0,0,0,1.87,48,48,386,771,0.23,328,121,-1,25
+David Bentley,36,462412800,Premier League,2008/2009,Midfielder,Tottenham Hotspur,1830,850,980,England,25,9,11,1,0,1,2,1,1,0,0,6,5,1,26,6,20,4,0,0.15,0.1,0.05,0,0.09,1830,1.28,70,73,458,915,0.2,198,145,-1,12
+David Di Michele,44,189734400,Premier League,2008/2009,Forward,West Ham United,1899,1000,899,Italy,30,12,10,4,4,0,4,2,2,0,0,8,4,4,21,10,11,4,0,0.38,0.19,0.19,0.36,0,475,1,90,63,475,475,0.19,94,65,-1,2
+David Dunn,40,315100800,Premier League,2008/2009,Midfielder,Blackburn Rovers,758,298,460,England,15,3,4,1,0,1,0,0,0,0,0,5,3,2,12,3,9,0,0,0.12,0,0.12,0,0.2,758,1.42,63,51,0,0,0,137,325,-1,12
+David Edgar,33,548380800,Premier League,2008/2009,Defender,Newcastle United,599,166,433,Canada,11,2,5,1,1,0,1,0,1,0,0,0,0,0,17,7,10,3,1,0.3,0.15,0.15,0.54,0,599,2.55,35,54,200,599,0.45,121,90,175,12
+David Healy,41,302659200,Premier League,2008/2009,Forward,Sunderland,114,65,49,Northern Ireland,9,0,0,1,1,0,1,0,1,0,0,2,1,1,4,2,2,1,0,1.58,0.79,0.79,1.38,0,114,3.16,29,13,114,114,0.79,-1,-1,-1,7
+David James,50,18316800,Premier League,2008/2009,Goalkeeper,Portsmouth,3240,1620,1620,England,36,18,18,0,0,0,0,0,0,0,0,8,3,5,52,26,26,2,0,0,0,0,0,0,0,1.44,62,90,1620,0,0.06,409,411,135,15
+David Meyler,31,612403200,Premier League,2008/2009,Midfielder,Sunderland,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David N'Gog,31,607392000,Premier League,2008/2009,Forward,Liverpool,312,136,176,France,14,1,1,2,2,0,2,1,1,0,0,9,7,2,0,0,0,1,0,1.15,0.58,0.58,1.32,0,156,0,0,22,312,156,0.29,7,2,-1,9
+David Nugent,35,483840000,Premier League,2008/2009,Forward,Portsmouth,1067,512,555,England,16,6,7,3,1,2,1,0,1,0,0,4,2,2,14,7,7,1,0,0.34,0.08,0.25,0.18,0.32,356,1.18,76,67,1067,1067,0.08,74,163,-1,2
+David Stockdale,35,496022400,Premier League,2008/2009,Goalkeeper,Fulham,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David Wheater,33,540259200,Premier League,2008/2009,Defender,Middlesbrough,2777,1485,1292,England,32,17,14,1,1,0,2,2,0,0,0,7,6,1,41,17,24,3,1,0.1,0.06,0.03,0.06,0,2777,1.33,68,87,694,1389,0.13,228,209,112,8
+Dean Ashton,36,438480000,Premier League,2008/2009,Forward,West Ham United,250,141,109,England,4,2,2,2,2,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0.72,0,0.72,1.28,0,125,2.16,42,63,0,0,0,-1,-1,-1,7
+Dean Kiely,49,24364800,Premier League,2008/2009,Goalkeeper,West Bromwich Albion,270,180,90,Republic of Ireland,3,2,1,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,23
+Dean Marney,36,444355200,Premier League,2008/2009,Midfielder,Hull City,2393,1021,1372,England,31,12,14,0,0,0,4,1,3,0,0,5,2,3,44,22,22,6,1,0.15,0.15,0,0,0,0,1.65,54,77,342,598,0.26,353,92,-1,19
+Dean Whitehead,38,380419200,Premier League,2008/2009,Midfielder,Sunderland,2801,1231,1570,England,34,13,17,0,0,0,1,0,1,0,0,7,4,3,44,18,26,5,0,0.03,0.03,0,0,0,0,1.41,64,82,560,2801,0.16,395,245,-1,26
+Dean Windass,51,-23760000,Premier League,2008/2009,Forward,Hull City,116,40,76,England,5,0,1,0,0,0,0,0,0,0,0,0,0,0,7,3,4,2,0,0,0,0,0,0,0,5.43,17,23,58,0,1.55,-1,-1,-1,21
+Denílson Pereira Neves,32,571968000,Premier League,2008/2009,Midfielder,Arsenal,3149,1622,1527,Brazil,37,18,18,3,1,2,7,3,4,0,0,15,11,4,26,11,15,3,0,0.29,0.2,0.09,0.06,0.12,1050,0.74,121,85,1050,450,0.09,168,59,-1,8
+Dickson Paul Etuhu,38,392342400,Premier League,2008/2009,Midfielder,Fulham,1701,898,803,Nigeria,21,10,9,1,0,1,0,0,0,0,0,9,4,5,17,8,9,1,0,0.05,0,0.05,0,0.11,1701,0.9,100,81,1701,0,0.05,200,265,-1,12
+Didier Digard,34,521510400,Premier League,2008/2009,Midfielder,Middlesbrough,1296,628,668,France,23,7,8,0,0,0,1,1,0,0,0,4,3,1,15,7,8,4,1,0.07,0.07,0,0,0,0,1.04,86,56,259,1296,0.35,336,183,-1,23
+Didier Yves Drogba Tébily,42,258422400,Premier League,2008/2009,Forward,Chelsea,1548,745,803,Côte d'Ivoire,24,7,8,5,4,1,3,3,0,0,0,12,7,5,10,2,8,1,0,0.47,0.17,0.29,0.48,0.11,310,0.58,155,65,1548,516,0.06,56,80,-1,5
+Diego Cavalieri,37,407548800,Premier League,2008/2009,Goalkeeper,Liverpool,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Diego Tristán Herrera,44,189648000,Premier League,2008/2009,Forward,West Ham United,728,326,402,Spain,14,3,5,3,1,2,1,0,1,0,0,2,1,1,8,4,4,0,0,0.49,0.12,0.37,0.28,0.45,243,0.99,91,52,0,728,0,35,118,-1,5
+Dietmar Hamann,47,115257600,Premier League,2008/2009,Midfielder,Manchester City,473,208,265,Germany,9,2,3,0,0,0,0,0,0,0,0,3,2,1,9,4,5,0,0,0,0,0,0,0,0,1.71,53,53,0,0,0,366,359,-1,28
+Dimitar Ivanov Berbatov,39,349660800,Premier League,2008/2009,Forward,Manchester United,2568,1247,1321,Bulgaria,32,14,15,9,6,3,9,6,3,0,0,19,11,8,19,7,12,2,0,0.63,0.32,0.32,0.43,0.2,285,0.67,135,80,1284,285,0.07,46,13,-1,3
+Diomansy Kamara,39,342489600,Premier League,2008/2009,Forward,Fulham,427,270,157,Senegal,12,2,1,4,2,2,1,1,0,0,0,5,3,2,5,4,1,0,0,1.05,0.21,0.84,0.67,1.15,107,1.05,85,36,0,427,0,1,49,-1,4
+Dirk Kuijt,40,333072000,Premier League,2008/2009,Forward,Liverpool,3180,1655,1525,Netherlands,38,19,17,12,5,7,8,6,2,0,0,20,11,9,24,11,13,0,0,0.57,0.23,0.34,0.27,0.41,265,0.68,133,84,0,398,0,41,36,-1,3
+Djibril Cissé,39,366422400,Premier League,2008/2009,Forward,Sunderland,2517,1420,1097,France,35,17,12,10,5,5,1,1,0,1,0,8,6,2,33,17,16,3,0,0.39,0.04,0.36,0.32,0.41,252,1.18,76,72,839,2517,0.11,36,223,-1,1
+Djimi Traoré,40,320716800,Premier League,2008/2009,Defender,Portsmouth,0,0,0,Mali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Do-Heon Kim,38,395452800,Premier League,2008/2009,Midfielder,West Bromwich Albion,767,321,446,South Korea,16,3,6,0,0,0,0,0,0,0,0,3,0,3,12,6,6,1,0,0,0,0,0,0,0,1.41,64,48,767,0,0.12,259,338,-1,25
+Dwight Yorke,48,57974400,Premier League,2008/2009,Forward,Sunderland,273,146,127,Trinidad and Tobago,7,2,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0.66,137,39,273,0,0.33,283,259,-1,17
+Ebi Smolarek,39,347846400,Premier League,2008/2009,Forward,Bolton Wanderers,216,112,104,Poland,12,1,0,0,0,0,0,0,0,0,0,2,1,1,6,4,2,1,0,0,0,0,0,0,0,2.5,36,18,216,0,0.42,-1,-1,-1,13
+Eduardo Alves da Silva,37,414979200,Premier League,2008/2009,Forward,Arsenal,0,0,0,Croatia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Edwin van der Sar,49,26006400,Premier League,2008/2009,Goalkeeper,Manchester United,2912,1530,1382,Netherlands,33,17,16,0,0,0,0,0,0,0,0,21,12,9,20,11,9,1,0,0,0,0,0,0,0,0.62,146,88,2912,0,0.03,367,371,15,25
+El-Hadji Ousseynou Diouf,39,348364800,Premier League,2008/2009,Forward,Blackburn Rovers,2166,1018,1148,Senegal,28,11,13,1,0,1,2,1,1,0,1,5,5,0,30,9,21,4,0,0.12,0.08,0.04,0,0.08,2166,1.25,72,77,542,1083,0.17,217,156,-1,9
+Elano Ralph Blumer,39,361324800,Premier League,2008/2009,Midfielder,Manchester City,1877,1012,865,Brazil,28,11,10,6,5,1,2,0,2,4,0,8,7,1,23,7,16,3,0,0.38,0.1,0.29,0.44,0.1,313,1.1,82,67,626,939,0.14,58,138,-1,4
+Emanuel Pogatetz,37,411523200,Premier League,2008/2009,Defender,Middlesbrough,2331,1125,1206,Austria,27,13,14,1,1,0,0,0,0,0,0,5,5,0,30,9,21,4,0,0.04,0,0.04,0.08,0,2331,1.16,78,86,583,0,0.15,209,352,84,7
+Emile Heskey,42,253324800,Premier League,2008/2009,Forward,Aston Villa,2615,1374,1241,England,34,16,15,5,2,3,3,1,2,0,0,12,7,5,27,11,16,0,0,0.28,0.1,0.17,0.13,0.22,523,0.93,97,77,0,872,0,106,139,-1,5
+Emiliano Adrián Insúa Zapata,31,600134400,Premier League,2008/2009,Defender,Liverpool,846,270,576,Argentina,10,3,6,0,0,0,0,0,0,0,0,6,3,3,4,0,4,0,0,0,0,0,0,0,0,0.43,212,85,0,0,0,265,271,3,21
+Emmanuel Adebayor,36,446601600,Premier League,2008/2009,Forward,Arsenal,1878,1013,865,Togo,26,11,10,10,4,6,4,2,2,1,0,11,8,3,18,10,8,5,1,0.67,0.19,0.48,0.36,0.62,188,0.86,104,72,376,470,0.24,14,64,-1,2
+Emmanuel Eboué,37,423532800,Premier League,2008/2009,Defender,Arsenal,1486,752,734,Côte d'Ivoire,28,8,9,3,2,1,4,2,2,1,0,16,11,5,9,4,5,2,1,0.42,0.24,0.18,0.24,0.12,495,0.55,165,53,743,372,0.12,104,32,10,6
+Emmanuel Yaw Frimpong,28,695001600,Premier League,2008/2009,Midfielder,Arsenal,0,0,0,Ghana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Emmerson Orlando Boyce,41,306979200,Premier League,2008/2009,Defender,Wigan Athletic,2323,1125,1198,Barbados,27,12,14,1,1,0,0,0,0,0,0,8,4,4,29,13,16,4,1,0.04,0,0.04,0.08,0,2323,1.12,80,86,581,0,0.15,219,347,78,7
+Erik Kenneth Edman,41,279590400,Premier League,2008/2009,Defender,Wigan Athletic,46,37,9,Sweden,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,-1,-1,-1,14
+Erik Nevland,42,247968000,Premier League,2008/2009,Forward,Fulham,458,296,162,Norway,21,2,2,4,3,1,2,0,2,0,0,6,3,3,6,3,3,2,0,1.18,0.39,0.79,0.91,0.56,115,1.18,76,22,229,229,0.39,3,9,-1,5
+Fábio Aurélio Rodrigues,41,306979200,Premier League,2008/2009,Defender,Liverpool,1736,929,807,Brazil,24,10,9,2,0,2,4,3,1,0,0,13,6,7,14,6,8,1,0,0.31,0.21,0.1,0,0.22,868,0.73,124,72,1736,434,0.05,154,52,27,8
+Fábio Pereira da Silva,30,647481600,Premier League,2008/2009,Defender,Manchester United,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Fabrice Muamba,32,576288000,Premier League,2008/2009,Midfielder,Bolton Wanderers,2837,1246,1591,England,38,15,18,0,0,0,0,0,0,0,0,7,5,2,39,11,28,5,0,0,0,0,0,0,0,1.24,73,75,567,0,0.16,319,388,-1,20
+Fabricio Coloccini,38,380505600,Premier League,2008/2009,Defender,Newcastle United,3060,1530,1530,Argentina,34,17,17,0,0,0,0,0,0,0,0,7,4,3,54,26,28,4,0,0,0,0,0,0,0,1.59,57,90,765,0,0.12,376,381,151,18
+Federico Macheda,29,682819200,Premier League,2008/2009,Forward,Manchester United,190,29,161,Italy,4,0,2,2,1,1,1,0,1,0,0,2,0,2,0,0,0,2,0,1.42,0.47,0.95,3.1,0.56,95,0,0,48,95,190,0.95,-1,-1,-1,10
+Felipe Salvador Caicedo Corozo,32,589420800,Premier League,2008/2009,Forward,Manchester City,819,335,484,Ecuador,17,5,5,4,4,0,0,0,0,0,0,3,3,0,11,2,9,2,0,0.44,0,0.44,1.07,0,205,1.21,74,48,410,0,0.22,24,370,-1,7
+Fernando Torres,36,448588800,Premier League,2008/2009,Forward,Liverpool,1734,885,849,Spain,24,10,10,14,7,7,4,2,2,0,0,14,6,8,11,6,5,1,0,0.93,0.21,0.73,0.71,0.74,124,0.57,158,72,1734,434,0.05,4,51,-1,2
+Filipe Teixeira,39,339292800,Premier League,2008/2009,Midfielder,West Bromwich Albion,257,125,132,Portugal,10,0,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,0,0,0.35,0.35,0,0,0,0,0.35,257,26,0,257,0,-1,-1,-1,15
+Florent Malouda,40,329702400,Premier League,2008/2009,Midfielder,Chelsea,2024,941,1083,French Guiana,31,11,13,6,2,4,5,2,3,0,0,18,9,9,11,7,4,3,0,0.49,0.22,0.27,0.19,0.33,337,0.49,184,65,675,405,0.13,62,39,-1,4
+Fraizer Campbell,33,558489600,Premier League,2008/2009,Forward,Tottenham Hotspur,356,307,49,England,11,2,0,1,0,1,1,1,0,0,0,3,3,0,2,2,0,2,0,0.51,0.25,0.25,0,1.84,356,0.51,178,32,178,356,0.51,72,30,-1,8
+Francis Coquelin,29,674092800,Premier League,2008/2009,Midfielder,Arsenal,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Francisco Jiménez Tejada,34,520128000,Premier League,2008/2009,Forward,Newcastle United,282,192,90,Spain,5,2,1,1,1,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0.32,0,0.32,0.47,0,282,2.23,40,56,0,0,0,49,284,-1,10
+Francisco Mérida Pérez,30,636508800,Premier League,2008/2009,Midfielder,Arsenal,20,0,20,Spain,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,17
+Franco Di Santo,31,607910400,Premier League,2008/2009,Forward,Chelsea,153,126,27,Argentina,8,0,0,0,0,0,1,1,0,0,0,3,2,1,1,0,1,0,0,0.59,0.59,0,0,0,0,0.59,153,19,0,153,0,-1,-1,-1,21
+Frank Lampard,42,267148800,Premier League,2008/2009,Midfielder,Chelsea,3259,1686,1573,England,37,19,18,12,6,6,9,5,4,2,0,22,10,12,16,9,7,4,1,0.58,0.25,0.33,0.32,0.34,272,0.44,204,88,652,362,0.14,43,31,-1,2
+Frank Wiafe Danquah,30,624326400,Premier League,2008/2009,Forward,Newcastle United,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Fraser Forster,32,574560000,Premier League,2008/2009,Goalkeeper,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Freddie Sears,30,628128000,Premier League,2008/2009,Forward,West Ham United,441,305,136,England,17,3,1,0,0,0,0,0,0,0,0,3,2,1,5,5,0,0,0,0,0,0,0,0,0,1.02,88,26,0,0,0,407,344,-1,22
+Fredrik Olof Esaias Stoor,36,446774400,Premier League,2008/2009,Defender,Fulham,53,0,53,Sweden,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,-1,-1,-1,21
+Gabby Agbonlahor,33,529545600,Premier League,2008/2009,Forward,Aston Villa,3128,1571,1557,England,36,18,17,11,6,5,8,3,5,0,0,13,7,6,34,16,18,4,0,0.55,0.23,0.32,0.34,0.29,284,0.98,92,87,782,391,0.12,48,38,-1,2
+Gaël Clichy,35,491184000,Premier League,2008/2009,Defender,Arsenal,2654,1435,1219,France,31,16,14,1,0,1,0,0,0,0,0,13,10,3,22,9,13,7,0,0.03,0,0.03,0,0.07,2654,0.75,121,86,379,0,0.24,232,332,30,13
+Gaël Givet-Viaros,38,371433600,Premier League,2008/2009,Defender,Blackburn Rovers,1113,515,598,France,14,6,8,0,0,0,0,0,0,0,0,4,4,0,15,2,13,2,0,0,0,0,0,0,0,1.21,74,80,557,0,0.16,277,298,95,19
+Gaël Kakuta,29,677462400,Premier League,2008/2009,Forward,Chelsea,0,0,0,Congo DR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Gareth Bale,31,616550400,Premier League,2008/2009,Forward,Tottenham Hotspur,993,440,553,Wales,16,5,7,0,0,0,0,0,0,0,0,2,1,1,16,6,10,3,1,0,0,0,0,0,0,1.45,62,62,248,0,0.36,332,305,-1,24
+Gareth Barry,39,351734400,Premier League,2008/2009,Midfielder,Aston Villa,3384,1710,1674,England,38,19,19,5,3,2,5,2,3,4,0,13,7,6,42,18,24,7,0,0.27,0.13,0.13,0.16,0.11,677,1.12,81,89,483,677,0.19,130,108,-1,4
+Gary Cahill,34,503798400,Premier League,2008/2009,Defender,Bolton Wanderers,2970,1440,1530,England,33,16,17,3,1,2,4,2,2,0,0,6,4,2,42,14,28,1,0,0.21,0.12,0.09,0.06,0.12,990,1.27,71,90,2970,743,0.03,170,116,103,5
+Gary Neville,45,161913600,Premier League,2008/2009,Defender,Manchester United,1076,492,584,England,16,6,7,0,0,0,0,0,0,0,0,11,7,4,9,5,4,3,0,0,0,0,0,0,0,0.75,120,67,359,0,0.25,360,377,31,26
+Gary O'Neil,37,422064000,Premier League,2008/2009,Midfielder,Middlesbrough,2474,1037,1437,England,29,12,16,4,1,3,1,0,1,0,0,4,3,1,42,15,27,8,0,0.18,0.04,0.15,0.09,0.19,619,1.53,59,85,309,2474,0.29,118,226,-1,3
+Gavin Hoyte,30,644630400,Premier League,2008/2009,Defender,Arsenal,60,0,60,Trinidad and Tobago,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3,30,60,0,0,0,-1,-1,-1,19
+Gavin McCann,42,253238400,Premier League,2008/2009,Midfielder,Bolton Wanderers,2738,1303,1435,England,33,14,16,0,0,0,0,0,0,0,0,7,5,2,40,14,26,10,1,0,0,0,0,0,0,1.31,68,83,274,0,0.33,321,389,-1,19
+Gelson Fernandes,34,526003200,Premier League,2008/2009,Midfielder,Manchester City,485,176,309,Switzerland,17,1,2,1,1,0,0,0,0,0,0,5,4,1,8,2,6,4,1,0.19,0,0.19,0.51,0,485,1.48,61,29,121,0,0.74,97,369,-1,16
+George Boateng,45,168825600,Premier League,2008/2009,Midfielder,Hull City,1691,820,871,Netherlands,23,10,11,0,0,0,0,0,0,0,0,3,1,2,30,14,16,6,0,0,0,0,0,0,0,1.6,56,74,282,0,0.32,350,311,-1,24
+George McCartney,39,357350400,Premier League,2008/2009,Defender,Sunderland,1376,641,735,Northern Ireland,17,7,9,0,0,0,0,0,0,0,0,5,3,2,16,4,12,5,1,0,0,0,0,0,0,1.05,86,81,229,0,0.39,248,282,64,18
+Geovanni Deiberson Maurício Gómez,40,316396800,Premier League,2008/2009,Midfielder,Hull City,2540,1158,1382,Brazil,34,14,18,8,4,4,1,1,0,1,0,6,2,4,49,24,25,2,0,0.32,0.04,0.28,0.31,0.26,318,1.74,52,75,1270,2540,0.07,61,224,-1,1
+Gérémi Sorele N'Djitap Fotso,41,282960000,Premier League,2008/2009,Midfielder,Newcastle United,1026,584,442,Cameroon,15,6,5,0,0,0,3,1,2,0,0,1,1,0,22,13,9,2,0,0.26,0.26,0,0,0,0,1.93,47,68,513,342,0.18,384,27,-1,26
+Gianni Michel Eugene Zuiverloon,33,536284800,Premier League,2008/2009,Defender,West Bromwich Albion,2897,1380,1517,Netherlands,33,16,17,0,0,0,2,2,0,0,0,7,3,4,54,26,28,5,0,0.06,0.06,0,0,0,0,1.68,54,88,579,1449,0.16,359,194,161,19
+Gilberto da Silva Melo,44,199238400,Premier League,2008/2009,Midfielder,Tottenham Hotspur,45,0,45,Brazil,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,45,45,0,0,0,-1,-1,-1,16
+Giovani dos Santos Ramírez,31,610848000,Premier League,2008/2009,Forward,Tottenham Hotspur,235,79,156,Mexico,6,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.15,78,39,0,0,0,-1,-1,-1,25
+Glen Johnson,36,462067200,Premier League,2008/2009,Defender,Portsmouth,2592,1260,1332,England,29,14,15,3,2,1,4,2,2,0,0,8,3,5,35,14,21,10,1,0.24,0.14,0.1,0.14,0.07,864,1.22,74,89,259,648,0.35,155,102,98,3
+Glen Little,44,182563200,Premier League,2008/2009,Midfielder,Portsmouth,294,178,116,England,5,3,1,0,0,0,0,0,0,0,0,2,1,1,3,3,0,0,0,0,0,0,0,0,0,0.92,98,59,0,0,0,263,266,-1,22
+Glenn Whelan,36,442800000,Premier League,2008/2009,Midfielder,Stoke City,1981,912,1069,Republic of Ireland,26,10,11,1,0,1,2,2,0,0,0,9,7,2,25,3,22,4,0,0.14,0.09,0.05,0,0.08,1981,1.14,79,76,495,991,0.18,205,148,-1,12
+Glyn Oliver Myhill,37,405648000,Premier League,2008/2009,Goalkeeper,Hull City,2520,1260,1260,Wales,28,14,14,0,0,0,0,0,0,0,0,3,1,2,50,28,22,1,0,0,0,0,0,0,0,1.79,50,90,2520,0,0.04,347,308,167,22
+Graham Dorrans,33,547171200,Premier League,2008/2009,Midfielder,West Bromwich Albion,427,185,242,Scotland,8,2,3,0,0,0,0,0,0,0,0,3,2,1,7,2,5,1,0,0,0,0,0,0,0,1.48,61,53,427,0,0.21,256,339,-1,18
+Grant Leadbitter,34,505440000,Premier League,2008/2009,Midfielder,Sunderland,1118,606,512,England,23,6,6,2,2,0,1,1,0,0,0,7,4,3,20,14,6,2,0,0.24,0.08,0.16,0.3,0,559,1.61,56,49,559,1118,0.16,111,164,-1,4
+Grétar Rafn Steinsson,38,379382400,Premier League,2008/2009,Defender,Bolton Wanderers,3281,1696,1585,Iceland,37,19,18,3,2,1,6,1,5,0,0,7,5,2,48,18,30,7,0,0.25,0.16,0.08,0.11,0.06,1094,1.32,68,89,469,547,0.19,178,86,108,6
+Habib Beye,42,246067200,Premier League,2008/2009,Defender,Newcastle United,1902,965,937,Senegal,23,11,11,0,0,0,1,1,0,0,0,6,3,3,26,12,14,4,1,0.05,0.05,0,0,0,0,1.23,73,83,380,1902,0.24,377,221,100,25
+Hayden Mullins,41,291340800,Premier League,2008/2009,Midfielder,Portsmouth,2009,986,1023,England,34,10,10,1,0,1,0,0,0,0,0,7,3,4,28,12,16,2,0,0.04,0,0.04,0,0.09,2009,1.25,72,59,1005,0,0.09,212,342,-1,7
+Heidar Helguson,43,241056000,Premier League,2008/2009,Forward,Bolton Wanderers,26,0,26,Iceland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,-1,-1,-1,16
+Henri Camara,43,232070400,Premier League,2008/2009,Forward,Stoke City,552,221,331,Senegal,21,1,2,2,2,0,1,0,1,0,0,6,3,3,7,3,4,0,0,0.49,0.16,0.33,0.81,0,276,1.14,79,26,0,552,0,44,83,-1,7
+Henri Lansbury,29,655689600,Premier League,2008/2009,Midfielder,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Henrique Hilário Meireles Alves Sampaio,44,183081600,Premier League,2008/2009,Goalkeeper,Chelsea,90,90,0,Portugal,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,23
+Hérita N'Kongolo Ilunga,38,383443200,Premier League,2008/2009,Defender,West Ham United,3121,1501,1620,Congo DR,35,17,18,0,0,0,2,1,1,0,0,10,5,5,38,18,20,2,0,0.06,0.06,0,0,0,0,1.1,82,89,1561,1561,0.06,289,210,72,17
+Hermann Hreidarsson,46,142732800,Premier League,2008/2009,Defender,Portsmouth,1684,771,913,Iceland,23,9,10,2,2,0,0,0,0,0,0,5,2,3,26,10,16,7,0,0.11,0,0.11,0.23,0,842,1.39,65,73,241,0,0.37,150,385,125,6
+Heurelho da Silva Gomes,39,351043200,Premier League,2008/2009,Goalkeeper,Tottenham Hotspur,3060,1530,1530,Brazil,34,17,17,0,0,0,0,0,0,0,0,12,10,2,37,9,28,1,0,0,0,0,0,0,0,1.09,83,90,3060,0,0.03,340,327,71,23
+Hugo Rodallega Martínez,35,491097600,Premier League,2008/2009,Forward,Wigan Athletic,987,579,408,Colombia,15,6,3,3,2,1,0,0,0,0,0,6,4,2,14,4,10,0,0,0.27,0,0.27,0.31,0.22,329,1.28,71,66,0,0,0,65,286,-1,3
+Iain Turner,36,443923200,Premier League,2008/2009,Goalkeeper,Everton,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ian Ashbee,44,210816000,Premier League,2008/2009,Midfielder,Hull City,2695,1440,1255,England,31,16,15,1,1,0,1,1,0,0,0,6,2,4,48,29,19,10,0,0.07,0.03,0.03,0.06,0,2695,1.6,56,87,270,2695,0.33,245,241,-1,13
+Ibrahima Sonko,39,348969600,Premier League,2008/2009,Defender,Stoke City,698,290,408,Senegal,14,3,4,0,0,0,0,0,0,0,0,5,4,1,12,4,8,0,0,0,0,0,0,0,0,1.55,58,50,0,0,0,295,280,148,16
+Ignacio María González Gatti,38,390182400,Premier League,2008/2009,Midfielder,Newcastle United,37,29,8,Uruguay,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,16
+Isaiah Osbourne,32,563932800,Premier League,2008/2009,Midfielder,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ishmael Miller,33,541900800,Premier League,2008/2009,Forward,West Bromwich Albion,1035,502,533,England,15,6,5,3,1,2,1,0,1,0,0,3,1,2,19,10,9,2,0,0.35,0.09,0.26,0.18,0.34,345,1.65,54,69,518,1035,0.17,68,149,-1,5
+Jack Colback,30,625190400,Premier League,2008/2009,Midfielder,Sunderland,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jack Collison,32,591753600,Premier League,2008/2009,Midfielder,West Ham United,1477,760,717,Wales,20,8,8,3,2,1,3,1,2,0,0,6,3,3,18,9,9,2,0,0.37,0.18,0.18,0.24,0.13,492,1.1,82,74,739,492,0.12,98,72,-1,4
+Jack Rodwell,29,668649600,Premier League,2008/2009,Midfielder,Everton,858,334,524,England,19,3,6,0,0,0,0,0,0,0,0,10,4,6,9,5,4,0,0,0,0,0,0,0,0,0.94,95,45,0,0,0,305,320,-1,23
+Jack Wilshere,28,694224000,Premier League,2008/2009,Midfielder,Arsenal,6,0,6,England,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,25
+Jacob Mellis,29,663292800,Premier League,2008/2009,Midfielder,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Beattie,42,257385600,Premier League,2008/2009,Forward,Stoke City,1374,677,697,England,16,8,8,7,5,2,3,1,2,1,0,6,5,1,15,2,13,1,0,0.66,0.2,0.46,0.66,0.26,196,0.98,92,86,1374,458,0.07,19,58,-1,2
+James Chester,31,601516800,Premier League,2008/2009,Defender,Manchester United,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Collins,37,430444800,Premier League,2008/2009,Defender,West Ham United,1416,737,679,Wales,18,8,9,0,0,0,0,0,0,0,0,6,3,3,17,8,9,3,0,0,0,0,0,0,0,1.08,83,79,472,0,0.19,268,274,68,18
+James Milner,34,505180800,Premier League,2008/2009,Midfielder,Aston Villa,3058,1545,1513,England,38,17,16,3,1,2,7,5,2,0,0,14,8,6,33,14,19,6,0,0.29,0.21,0.09,0.06,0.12,1019,0.97,93,80,510,437,0.18,169,47,-1,7
+James Morrison,34,517363200,Premier League,2008/2009,Midfielder,West Bromwich Albion,2366,1169,1197,Scotland,30,14,15,3,2,1,4,2,2,0,0,5,2,3,52,26,26,5,0,0.27,0.15,0.11,0.15,0.08,789,1.98,46,79,473,592,0.19,144,91,-1,4
+James Robert Wallace,28,693100800,Premier League,2008/2009,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Sinclair,32,561859200,Premier League,2008/2009,Defender,Bolton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Tomkins,31,607132800,Premier League,2008/2009,Defender,West Ham United,1002,450,552,England,12,5,6,1,1,0,0,0,0,0,0,5,3,2,7,4,3,1,1,0.09,0,0.09,0.2,0,1002,0.63,143,84,501,0,0.18,161,293,16,12
+James Vaughan,32,584841600,Premier League,2008/2009,Forward,Everton,186,114,72,England,13,1,0,0,0,0,0,0,0,0,0,2,1,1,3,2,1,0,0,0,0,0,0,0,0,1.45,62,14,0,0,0,-1,-1,-1,19
+Jamie Ashdown,39,344390400,Premier League,2008/2009,Goalkeeper,Portsmouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jamie Carragher,42,254793600,Premier League,2008/2009,Defender,Liverpool,3402,1710,1692,England,38,19,19,0,0,0,1,1,0,0,0,20,11,9,25,12,13,4,0,0.03,0.03,0,0,0,0,0.66,136,90,851,3402,0.11,398,249,20,19
+Jamie O'Hara,34,527990400,Premier League,2008/2009,Midfielder,Tottenham Hotspur,596,347,249,England,15,4,2,1,0,1,0,0,0,0,0,7,6,1,7,2,5,2,0,0.15,0,0.15,0,0.36,596,1.06,85,40,298,0,0.3,120,306,-1,14
+Jan Laštůvka,38,394848000,Premier League,2008/2009,Goalkeeper,West Ham United,0,0,0,Czech Republic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jarosław Fojut,32,561427200,Premier League,2008/2009,Defender,Bolton Wanderers,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jason Brown,38,390528000,Premier League,2008/2009,Goalkeeper,Blackburn Rovers,315,180,135,Wales,4,2,1,0,0,0,0,0,0,0,0,1,1,0,4,2,2,0,0,0,0,0,0,0,0,1.14,79,79,0,0,0,314,386,82,23
+Jason Koumas,41,307065600,Premier League,2008/2009,Midfielder,Wigan Athletic,669,369,300,Wales,16,2,3,0,0,0,2,2,0,0,0,4,2,2,5,4,1,0,0,0.27,0.27,0,0,0,0,0.67,134,42,0,335,0,306,23,-1,20
+Jason Roberts,42,254534400,Premier League,2008/2009,Forward,Blackburn Rovers,1749,1083,666,Grenada,26,13,7,7,5,2,4,3,1,0,1,8,5,3,24,13,11,5,1,0.57,0.21,0.36,0.42,0.27,250,1.23,73,67,292,437,0.31,37,46,-1,2
+Jason Steele,30,650937600,Premier League,2008/2009,Goalkeeper,Middlesbrough,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Javier Garrido Behovide,35,479692800,Premier League,2008/2009,Defender,Manchester City,998,645,353,Spain,13,7,4,1,1,0,1,0,1,0,0,5,5,0,18,8,10,2,0,0.18,0.09,0.09,0.14,0,998,1.62,55,77,499,998,0.18,159,152,153,14
+Javier Mascherano,36,455500800,Premier League,2008/2009,Defender,Liverpool,2313,1034,1279,Argentina,27,12,15,0,0,0,1,0,1,0,0,13,7,6,19,8,11,6,0,0.04,0.04,0,0,0,0,0.74,122,86,386,2313,0.23,285,231,29,15
+Jay Emmanuel-Thomas,29,662256000,Premier League,2008/2009,Midfielder,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jay Simpson,31,596937600,Premier League,2008/2009,Forward,West Bromwich Albion,704,308,396,England,13,5,4,1,0,1,0,0,0,0,0,3,2,1,12,5,7,0,0,0.13,0,0.13,0,0.23,704,1.53,59,54,0,0,0,134,289,-1,11
+Jay Spearing,31,596419200,Premier League,2008/2009,Midfielder,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jérémie Aliadière,37,417830400,Premier League,2008/2009,Forward,Middlesbrough,2271,1240,1031,France,29,15,12,2,1,1,2,1,1,0,0,6,5,1,36,16,20,1,0,0.16,0.08,0.08,0.07,0.09,1136,1.43,63,78,2271,1136,0.04,176,166,-1,5
+Jermain Defoe,37,402796800,Premier League,2008/2009,Forward,Tottenham Hotspur,2058,1103,955,England,27,12,11,11,8,3,4,3,1,2,1,7,3,4,32,16,16,4,0,0.66,0.17,0.48,0.65,0.28,187,1.4,64,76,515,515,0.17,16,77,-1,2
+Jermaine Jenas,37,414374400,Premier League,2008/2009,Midfielder,Tottenham Hotspur,2506,1088,1418,England,32,12,16,4,2,2,3,1,2,0,0,12,10,2,33,5,28,7,0,0.25,0.11,0.14,0.17,0.13,627,1.19,76,78,358,835,0.25,127,128,-1,6
+Jermaine Pennant,37,411436800,Premier League,2008/2009,Midfielder,Portsmouth,920,534,386,England,16,7,4,0,0,0,4,3,1,0,0,5,3,2,14,7,7,0,0,0.39,0.39,0,0,0,0,1.37,66,58,0,230,0,279,8,-1,21
+Jerome Thomas,37,417225600,Premier League,2008/2009,Midfielder,Portsmouth,69,34,35,England,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.3,69,23,69,0,1.3,-1,-1,-1,14
+Ji-Sung Park,39,351907200,Premier League,2008/2009,Midfielder,Manchester United,1730,798,932,South Korea,25,10,11,2,0,2,2,1,1,0,0,17,10,7,9,2,7,4,0,0.21,0.1,0.1,0,0.19,865,0.47,192,69,433,865,0.21,153,144,-1,11
+Jimmy Bullard,41,277948800,Premier League,2008/2009,Midfielder,Hull City,1591,803,788,England,19,9,9,2,2,0,3,2,1,0,0,8,4,4,11,6,5,1,0,0.28,0.17,0.11,0.22,0,796,0.62,145,84,1591,530,0.06,145,73,-1,5
+Jimmy Walker,47,111024000,Premier League,2008/2009,Goalkeeper,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jlloyd Tafari Samuel,39,353721600,Premier League,2008/2009,Midfielder,Bolton Wanderers,3324,1659,1665,Trinidad and Tobago,38,19,19,0,0,0,2,0,2,0,0,7,5,2,46,17,29,3,0,0.05,0.05,0,0,0,0,1.25,72,87,1108,1662,0.08,318,220,-1,21
+João Alves de Assis Silva,33,543196800,Premier League,2008/2009,Forward,Everton,1520,741,779,Brazil,21,8,9,6,6,0,4,2,2,1,0,10,5,5,15,6,9,0,0,0.59,0.24,0.36,0.73,0,253,0.89,101,72,0,380,0,39,35,-1,6
+Joe Bennett,30,638582400,Premier League,2008/2009,Defender,Middlesbrough,45,0,45,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,45,45,0,0,0,-1,-1,-1,13
+Joe Cole,38,374025600,Premier League,2008/2009,Midfielder,Chelsea,974,589,385,England,14,8,6,2,2,0,5,3,2,0,0,8,5,3,7,3,4,2,0,0.65,0.46,0.18,0.31,0,487,0.65,139,70,487,195,0.18,99,5,-1,8
+Joe Hart,33,545788800,Premier League,2008/2009,Goalkeeper,Manchester City,1999,1080,919,England,23,12,11,0,0,0,0,0,0,0,0,6,5,1,27,10,17,0,0,0,0,0,0,0,0,1.22,74,87,0,0,0,361,366,99,22
+Joe Holt,30,633830400,Premier League,2008/2009,Midfielder,Wigan Athletic,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joey Barton,38,399772800,Premier League,2008/2009,Midfielder,Newcastle United,449,196,253,England,9,3,3,1,1,0,1,1,0,1,0,1,1,0,8,2,6,3,1,0.4,0.2,0.2,0.46,0,449,1.6,56,50,112,449,0.8,88,55,-1,11
+Joey O'Brien,34,508982400,Premier League,2008/2009,Defender,Bolton Wanderers,364,179,185,Republic of Ireland,7,3,2,0,0,0,2,2,0,0,0,2,2,0,5,2,3,1,0,0.49,0.49,0,0,0,0,1.24,73,52,364,182,0.25,304,3,101,22
+Johan Danon Djourou-Gbadjere,33,537926400,Premier League,2008/2009,Defender,Arsenal,1206,495,711,Switzerland,15,5,8,0,0,0,0,0,0,0,0,6,5,1,9,1,8,1,0,0,0,0,0,0,0,0.67,134,80,1206,0,0.07,402,407,22,26
+Johan Elmander,39,359769600,Premier League,2008/2009,Forward,Bolton Wanderers,2370,1190,1180,Sweden,30,14,16,5,1,4,2,2,0,0,0,5,3,2,34,13,21,2,0,0.27,0.08,0.19,0.08,0.31,474,1.29,70,79,1185,1185,0.08,93,169,-1,3
+Johann Vogel,43,226627200,Premier League,2008/2009,Midfielder,Blackburn Rovers,5,5,0,Switzerland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,17
+John Alieu Carew,41,305337600,Premier League,2008/2009,Forward,Aston Villa,1815,860,955,Norway,27,8,10,11,6,5,5,1,4,0,0,8,6,2,27,7,20,2,0,0.79,0.25,0.55,0.63,0.47,165,1.34,67,67,908,363,0.1,10,29,-1,1
+John Chukwudi Utaka,38,379296000,Premier League,2008/2009,Forward,Portsmouth,707,359,348,Nigeria,18,2,2,1,1,0,1,1,0,0,1,3,1,2,13,4,9,1,0,0.25,0.13,0.13,0.25,0,707,1.65,54,39,707,707,0.13,131,115,-1,11
+John Johnson,32,590371200,Premier League,2008/2009,Defender,Middlesbrough,36,36,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,5,18,36,0,0,0,-1,-1,-1,12
+John Michael Nchekwube Obinna,33,546048000,Premier League,2008/2009,Midfielder,Chelsea,2885,1399,1486,Nigeria,34,16,17,0,0,0,2,1,1,0,0,20,9,11,19,11,8,6,0,0.06,0.06,0,0,0,0,0.59,152,85,481,1443,0.19,406,200,-1,25
+John O'Shea,39,357436800,Premier League,2008/2009,Defender,Manchester United,1984,916,1068,Republic of Ireland,30,8,12,0,0,0,3,1,2,0,0,20,10,10,10,5,5,1,0,0.14,0.14,0,0,0,0,0.45,198,66,1984,661,0.05,371,97,4,28
+John Paintsil,39,361411200,Premier League,2008/2009,Defender,Fulham,3293,1710,1583,Ghana,37,19,18,0,0,0,1,1,0,0,0,14,7,7,32,14,18,7,0,0.03,0.03,0,0,0,0,0.87,103,89,470,3293,0.19,355,238,46,23
+John Paul Kissock,30,628560000,Premier League,2008/2009,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+John Terry,39,344995200,Premier League,2008/2009,Defender,Chelsea,3078,1530,1548,England,35,17,18,1,1,0,0,0,0,0,0,21,9,12,19,11,8,9,2,0.03,0,0.03,0.06,0,3078,0.56,162,88,280,0,0.32,231,409,11,15
+Joleon Lescott,38,398304000,Premier League,2008/2009,Defender,Everton,3195,1530,1665,England,36,17,18,4,3,1,2,1,1,0,0,16,7,9,30,15,15,5,0,0.17,0.06,0.11,0.18,0.05,799,0.85,107,89,639,1598,0.14,148,207,42,7
+Jon Routledge,30,627782400,Premier League,2008/2009,Midfielder,Wigan Athletic,0,0,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonás Manuel Gutiérrez,37,426211200,Premier League,2008/2009,Midfielder,Newcastle United,2190,1153,1037,Argentina,30,13,10,0,0,0,4,3,1,0,0,7,4,3,33,18,15,6,0,0.16,0.16,0,0,0,0,1.36,66,73,365,548,0.25,378,81,-1,24
+Jonas Olsson,37,416102400,Premier League,2008/2009,Defender,West Bromwich Albion,2520,1260,1260,Sweden,28,14,14,2,1,1,0,0,0,0,0,6,3,3,44,20,24,7,0,0.07,0,0.07,0.07,0.07,1260,1.57,57,90,360,0,0.25,184,255,150,7
+Jonathan Franks,30,639532800,Premier League,2008/2009,Midfielder,Middlesbrough,9,0,9,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,11
+Jonathan Greening,41,284083200,Premier League,2008/2009,Midfielder,West Bromwich Albion,2970,1493,1477,England,34,17,16,2,1,1,1,1,0,0,0,8,4,4,50,24,26,7,0,0.09,0.03,0.06,0.06,0.06,1485,1.52,59,87,424,2970,0.21,196,232,-1,6
+Jonathan Grounds,32,570758400,Premier League,2008/2009,Defender,Middlesbrough,144,54,90,England,2,1,1,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0,0,0,0,0,0,1.88,48,72,0,0,0,-1,-1,-1,19
+Jonathan Obika,30,653097600,Premier League,2008/2009,Forward,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonathan Spector,34,510019200,Premier League,2008/2009,Defender,West Ham United,462,231,231,USA,9,2,2,0,0,0,1,0,1,0,0,4,3,1,6,1,5,1,0,0.19,0.19,0,0,0,0,1.17,77,51,462,462,0.19,273,63,86,16
+Jonathan Woodgate,40,317347200,Premier League,2008/2009,Defender,Tottenham Hotspur,2934,1405,1529,England,34,17,17,1,0,1,0,0,0,0,0,11,9,2,37,9,28,6,0,0.03,0,0.03,0,0.06,2934,1.13,79,86,489,0,0.18,223,303,80,11
+Jonny Evans,32,568166400,Premier League,2008/2009,Defender,Manchester United,1422,792,630,Northern Ireland,17,9,7,0,0,0,0,0,0,0,0,11,8,3,8,3,5,2,0,0,0,0,0,0,0,0.51,178,84,711,0,0.13,372,378,7,21
+Jordan Henderson,30,645580800,Premier League,2008/2009,Midfielder,Sunderland,45,0,45,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,4,23,45,0,0,0,-1,-1,-1,13
+Jordan Spence,30,643507200,Premier League,2008/2009,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jose Baxter,28,697420800,Premier League,2008/2009,Forward,Everton,89,31,58,England,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,-1,-1,-1,22
+José Bosingwa da Silva,38,398995200,Premier League,2008/2009,Defender,Chelsea,2917,1372,1545,Portugal,34,16,18,2,0,2,2,0,2,0,0,20,9,11,16,8,8,6,0,0.12,0.06,0.06,0,0.12,1459,0.49,182,86,486,1459,0.19,195,198,6,9
+José Enrique de la Sánchez Diaz,34,506822400,Premier League,2008/2009,Defender,Newcastle United,1969,1038,931,Spain,26,13,11,0,0,0,2,1,1,0,0,6,3,3,31,16,15,1,0,0.09,0.09,0,0,0,0,1.42,64,76,1969,985,0.05,380,153,129,22
+Joseph Phillip Yobo,40,337046400,Premier League,2008/2009,Defender,Everton,2319,1149,1170,Nigeria,27,13,13,1,1,0,0,0,0,0,0,13,5,8,22,15,7,1,0,0.04,0,0.04,0.08,0,2319,0.85,105,86,2319,0,0.04,206,319,44,13
+Josh Payne,29,659491200,Premier League,2008/2009,Midfielder,West Ham United,10,10,0,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,9,10,5,0,0,0,-1,-1,-1,25
+Josh Walker,31,604022400,Premier League,2008/2009,Midfielder,Middlesbrough,268,223,45,England,6,2,0,0,0,0,0,0,0,0,0,3,3,0,1,0,1,0,0,0,0,0,0,0,0,0.34,268,45,0,0,0,-1,-1,-1,15
+Juan Carlos Menseguez,36,445910400,Premier League,2008/2009,Forward,West Bromwich Albion,347,222,125,Argentina,7,2,1,1,1,0,0,0,0,0,0,2,1,1,3,3,0,0,0,0.26,0,0.26,0.41,0,347,0.78,116,50,0,0,0,70,270,-1,9
+Julian Gray,41,306720000,Premier League,2008/2009,Midfielder,Fulham,5,5,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,16
+Juliano Haus Belletti,44,204076800,Premier League,2008/2009,Defender,Chelsea,705,278,427,Brazil,20,1,4,3,2,1,0,0,0,0,0,11,4,7,4,2,2,2,0,0.38,0,0.38,0.65,0.21,235,0.51,176,35,353,0,0.26,34,295,8,7
+Julien Faubert,37,428544000,Premier League,2008/2009,Midfielder,West Ham United,1377,712,665,France,20,8,7,0,0,0,2,2,0,0,0,4,2,2,20,11,9,2,0,0.13,0.13,0,0,0,0,1.31,69,69,689,689,0.13,364,106,-1,23
+Julio Arca,39,349747200,Premier League,2008/2009,Midfielder,Middlesbrough,1161,726,435,Argentina,18,8,6,0,0,0,0,0,0,0,0,4,4,0,16,6,10,5,0,0,0,0,0,0,0,1.24,73,65,232,0,0.39,292,292,-1,14
+Junior Stanislas,30,628041600,Premier League,2008/2009,Midfielder,West Ham United,628,351,277,England,9,4,3,2,2,0,0,0,0,0,0,3,2,1,7,4,3,1,0,0.29,0,0.29,0.51,0,314,1,90,70,628,0,0.14,59,413,-1,6
+Jussi Jääskeläinen,45,167097600,Premier League,2008/2009,Goalkeeper,Bolton Wanderers,3420,1710,1710,Finland,38,19,19,0,0,0,1,0,1,0,0,7,5,2,49,18,31,3,0,0.03,0.03,0,0,0,0,1.29,70,90,1140,3420,0.08,315,233,107,15
+Justin Hoyte,35,469756800,Premier League,2008/2009,Defender,Middlesbrough,1605,747,858,Trinidad and Tobago,22,8,9,0,0,0,1,0,1,0,0,4,3,1,29,8,21,0,0,0.06,0.06,0,0,0,0,1.63,55,73,0,1605,0,253,197,155,18
+Kamil Zayatte,35,479001600,Premier League,2008/2009,Defender,Hull City,2742,1324,1418,Guinea,32,15,16,1,0,1,1,0,1,0,0,6,2,4,47,24,23,7,0,0.07,0.03,0.03,0,0.06,2742,1.54,58,86,392,2742,0.23,234,248,146,12
+Kasper Schmeichel,33,531532800,Premier League,2008/2009,Goalkeeper,Manchester City,71,0,71,Denmark,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.27,71,71,0,0,0,-1,-1,-1,31
+Kazenga LuaLua,29,660787200,Premier League,2008/2009,Midfielder,Newcastle United,19,19,0,Congo DR,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,14
+Keith Andrews,40,337651200,Premier League,2008/2009,Midfielder,Blackburn Rovers,2383,1220,1163,Republic of Ireland,33,14,13,4,1,3,0,0,0,0,0,10,7,3,34,12,22,6,0,0.15,0,0.15,0.07,0.23,596,1.28,70,72,397,0,0.23,119,278,-1,3
+Keith Treacy,32,590112000,Premier League,2008/2009,Midfielder,Blackburn Rovers,295,139,156,Republic of Ireland,12,1,1,0,0,0,0,0,0,0,0,2,2,0,5,2,3,0,0,0,0,0,0,0,0,1.53,59,25,0,0,0,310,326,-1,25
+Kelvin Etuhu,32,580953600,Premier League,2008/2009,Midfielder,Manchester City,191,77,114,Nigeria,4,1,1,0,0,0,0,0,0,0,0,1,1,0,6,2,4,0,0,0,0,0,0,0,0,2.83,32,48,0,0,0,-1,-1,-1,29
+Kenwyne Jones,35,465782400,Premier League,2008/2009,Forward,Sunderland,2293,1194,1099,Trinidad and Tobago,29,13,12,10,6,4,2,2,0,0,0,7,5,2,39,17,22,2,0,0.47,0.08,0.39,0.45,0.33,229,1.53,59,79,1147,1147,0.08,30,176,-1,2
+Kevin Cyril Davies,43,228182400,Premier League,2008/2009,Forward,Bolton Wanderers,3375,1710,1665,England,38,19,18,11,7,4,3,0,3,0,0,7,5,2,48,18,30,4,0,0.37,0.08,0.29,0.37,0.22,307,1.28,70,89,844,1125,0.11,55,170,-1,1
+Kevin Kilbane,43,223603200,Premier League,2008/2009,Midfielder,Hull City,1578,778,800,Republic of Ireland,26,9,9,0,0,0,0,0,0,0,0,6,2,4,27,17,10,2,0,0,0,0,0,0,0,1.54,58,61,789,0,0.11,344,349,-1,18
+Kevin Nolan,38,393724800,Premier League,2008/2009,Midfielder,Newcastle United,2565,1347,1218,England,31,16,14,0,0,0,3,2,1,0,1,4,4,0,42,17,25,11,1,0.11,0.11,0,0,0,0,1.47,61,83,214,855,0.42,316,136,-1,17
+Kevin-Prince Boateng,33,541987200,Premier League,2008/2009,Midfielder,Tottenham Hotspur,15,15,0,Ghana,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,-1,-1,-1,18
+Ki-Hyeon Seol,41,284601600,Premier League,2008/2009,Forward,Fulham,196,92,104,South Korea,4,1,1,1,0,1,0,0,0,0,0,1,1,0,3,1,2,1,0,0.46,0,0.46,0,0.87,196,1.38,65,49,196,0,0.46,-1,-1,-1,11
+Kieran Agard,30,623980800,Premier League,2008/2009,Forward,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kieran Gibbs,31,622771200,Premier League,2008/2009,Defender,Arsenal,534,275,259,England,8,3,3,0,0,0,0,0,0,0,0,4,2,2,9,5,4,1,0,0,0,0,0,0,0,1.52,59,67,534,0,0.17,251,256,141,22
+Kieran Richardson,35,467164800,Premier League,2008/2009,Defender,Sunderland,2696,1212,1484,England,32,14,17,4,3,1,3,2,1,0,0,8,5,3,41,15,26,11,0,0.23,0.1,0.13,0.22,0.06,674,1.37,66,84,245,899,0.37,128,137,118,3
+Kieron Dyer,41,283737600,Premier League,2008/2009,Midfielder,West Ham United,193,109,84,England,7,1,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0.47,0.47,0,0,0,0,0.47,193,28,0,193,0,-1,-1,-1,15
+Kolo Habib Touré,39,353808000,Premier League,2008/2009,Defender,Arsenal,2277,1165,1112,Côte d'Ivoire,29,13,13,1,0,1,1,0,1,0,0,13,10,3,22,9,13,3,0,0.08,0.04,0.04,0,0.08,2277,0.87,104,79,759,2277,0.12,220,229,47,14
+Kyel Reid,32,564883200,Premier League,2008/2009,Midfielder,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Lars Christian Jacobsen,41,306633600,Premier League,2008/2009,Defender,Everton,363,90,273,Denmark,5,1,3,0,0,0,0,0,0,0,0,2,0,2,4,1,3,0,0,0,0,0,0,0,0,0.99,91,73,0,0,0,254,288,56,16
+Lassana Diarra,35,479260800,Premier League,2008/2009,Midfielder,Portsmouth,905,441,464,France,12,5,6,0,0,0,0,0,0,0,0,3,1,2,14,3,11,5,1,0,0,0,0,0,0,1.39,65,75,181,0,0.5,412,372,-1,17
+Laureano Bisan-Etame Mayer,43,222480000,Premier League,2008/2009,Defender,Portsmouth,0,0,0,Cameroon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Leandro Honorato Gláuber Berti,37,428889600,Premier League,2008/2009,Defender,Manchester City,6,6,0,Brazil,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,23
+Ledley King,39,340156800,Premier League,2008/2009,Defender,Tottenham Hotspur,2114,944,1170,England,24,11,13,1,0,1,0,0,0,0,0,8,6,2,23,5,18,2,0,0.04,0,0.04,0,0.08,2114,0.98,92,88,1057,0,0.09,208,307,55,13
+Lee Bowyer,43,221097600,Premier League,2008/2009,Midfielder,West Ham United,350,213,137,England,6,2,2,0,0,0,0,0,0,0,0,1,0,1,7,5,2,1,0,0,0,0,0,0,0,1.8,50,58,350,0,0.26,400,345,-1,20
+Lee Cattermole,32,574905600,Premier League,2008/2009,Midfielder,Wigan Athletic,2822,1442,1380,England,33,17,16,1,1,0,2,1,1,0,0,11,7,4,34,13,21,13,2,0.1,0.06,0.03,0.06,0,2822,1.08,83,86,202,1411,0.45,244,195,-1,9
+Lee Martin,33,539827200,Premier League,2008/2009,Midfielder,Manchester United,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,19
+Leighton Baines,35,471571200,Premier League,2008/2009,Defender,Everton,2330,1195,1135,England,31,13,13,1,0,1,7,6,1,0,0,14,7,7,22,11,11,2,0,0.31,0.27,0.04,0,0.08,2330,0.85,106,75,1165,333,0.08,213,21,43,12
+Leon Andreasen,37,419904000,Premier League,2008/2009,Midfielder,Fulham,30,17,13,Denmark,6,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,30,0,3,-1,-1,-1,25
+Leon Barnett,34,502156800,Premier League,2008/2009,Defender,West Bromwich Albion,912,489,423,England,11,6,4,0,0,0,1,1,0,0,0,3,2,1,15,9,6,1,0,0.1,0.1,0,0,0,0,1.48,61,83,912,912,0.1,282,146,137,27
+Leon Cort,41,305856000,Premier League,2008/2009,Defender,Stoke City,842,414,428,Guyana,11,5,4,0,0,0,0,0,0,0,0,3,2,1,15,8,7,0,0,0,0,0,0,0,0,1.6,56,77,0,0,0,327,395,152,26
+Leon Osman,39,358905600,Premier League,2008/2009,Midfielder,Everton,2905,1558,1347,England,34,17,15,6,1,5,4,3,1,0,0,14,8,6,31,17,14,3,0,0.31,0.12,0.19,0.06,0.33,484,0.96,94,85,968,726,0.09,91,117,-1,3
+Lewis Buxton,36,439862400,Premier League,2008/2009,Defender,Stoke City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Liam Cooper,29,683510400,Premier League,2008/2009,Defender,Hull City,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Liam Lawrence,38,377136000,Premier League,2008/2009,Midfielder,Stoke City,1557,853,704,Republic of Ireland,20,10,8,3,2,1,3,2,1,1,0,7,5,2,19,8,11,8,0,0.35,0.17,0.17,0.21,0.13,519,1.1,82,78,195,519,0.46,110,79,-1,6
+Liam Miller,39,350870400,Premier League,2008/2009,Midfielder,Sunderland,89,27,62,Republic of Ireland,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2.02,45,30,0,0,0,-1,-1,-1,19
+Linvoy Primus,47,116812800,Premier League,2008/2009,Defender,Portsmouth,0,0,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Louis Saha,42,271382400,Premier League,2008/2009,Forward,Everton,1139,560,579,France,24,5,5,6,4,2,1,0,1,1,0,11,4,7,13,8,5,1,0,0.55,0.08,0.47,0.64,0.31,190,1.03,88,47,1139,1139,0.08,18,171,-1,5
+Lucas Leiva,33,537148800,Premier League,2008/2009,Midfielder,Liverpool,1281,351,930,Brazil,25,3,10,1,1,0,2,1,1,0,0,15,7,8,8,2,6,2,0,0.21,0.14,0.07,0.26,0,1281,0.56,160,51,641,641,0.14,188,103,-1,14
+Lucas Neill,42,258249600,Premier League,2008/2009,Defender,West Ham United,3015,1530,1485,Australia,34,17,17,1,0,1,1,1,0,0,0,10,5,5,37,18,19,8,0,0.06,0.03,0.03,0,0.06,3015,1.1,81,89,377,3015,0.24,227,252,74,11
+Luís Boa Morte Pereira,43,239500800,Premier League,2008/2009,Midfielder,West Ham United,1231,525,706,Portugal,27,6,7,0,0,0,3,1,2,0,0,7,3,4,16,5,11,7,0,0.22,0.22,0,0,0,0,1.17,77,46,176,410,0.51,405,42,-1,21
+Luís Carlos Almeida da Cunha,33,532569600,Premier League,2008/2009,Midfielder,Manchester United,547,392,155,Portugal,13,6,1,1,1,0,2,2,0,0,0,7,4,3,6,6,0,1,0,0.49,0.33,0.16,0.23,0,547,0.99,91,42,547,274,0.16,115,12,-1,13
+Luka Modrić,35,495072000,Premier League,2008/2009,Midfielder,Tottenham Hotspur,2790,1346,1444,Croatia,34,16,18,3,1,2,8,5,3,0,0,11,9,2,33,8,25,5,0,0.35,0.26,0.1,0.07,0.12,930,1.06,85,82,558,349,0.16,156,24,-1,7
+Lukas Jutkiewicz,31,607046400,Premier League,2008/2009,Forward,Everton,4,4,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,21
+Luke Moore,34,508636800,Premier League,2008/2009,Forward,West Bromwich Albion,675,413,262,England,21,3,2,1,1,0,0,0,0,0,0,4,3,1,11,4,7,1,0,0.13,0,0.13,0.22,0,675,1.47,61,32,675,0,0.13,133,283,-1,10
+Luke Young,41,301190400,Premier League,2008/2009,Defender,Aston Villa,2889,1442,1447,England,34,16,17,1,1,0,0,0,0,0,0,12,6,6,38,16,22,6,0,0.03,0,0.03,0.06,0,2889,1.18,76,85,482,0,0.19,224,361,87,12
+Mamady Sidibé,40,314323200,Premier League,2008/2009,Forward,Stoke City,1342,706,636,Mali,22,9,8,3,2,1,1,1,0,0,0,7,5,2,23,6,17,1,0,0.27,0.07,0.2,0.25,0.14,447,1.54,58,61,1342,1342,0.07,89,189,-1,4
+Manuel Almunia Rivero,43,232848000,Premier League,2008/2009,Goalkeeper,Arsenal,2869,1519,1350,Spain,32,17,15,0,0,0,0,0,0,0,0,14,11,3,23,9,14,0,0,0,0,0,0,0,0,0.72,125,90,0,0,0,413,300,26,20
+Marc Albrighton,30,627350400,Premier League,2008/2009,Midfielder,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Marc Wilson,33,556156800,Premier League,2008/2009,Defender,Portsmouth,182,90,92,Republic of Ireland,3,1,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,1,0,0,0,0,0,0,0,2.47,36,61,182,0,0.49,-1,-1,-1,24
+Marc-Antoine Fortuné,39,362880000,Premier League,2008/2009,Forward,West Bromwich Albion,1429,744,685,France,17,9,8,4,4,0,2,1,1,0,0,4,2,2,26,14,12,0,0,0.38,0.13,0.25,0.48,0,357,1.64,55,84,0,715,0,73,105,-1,3
+Marek Čech,37,412387200,Premier League,2008/2009,Defender,West Bromwich Albion,337,223,114,Slovakia,8,2,1,0,0,0,1,1,0,0,0,4,2,2,5,4,1,0,0,0.27,0.27,0,0,0,0,1.34,67,42,0,337,0,301,20,113,29
+Marek Štěch,30,633484800,Premier League,2008/2009,Goalkeeper,West Ham United,0,0,0,Czech Republic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mario Melchiot,43,215913600,Premier League,2008/2009,Defender,Wigan Athletic,2922,1399,1523,Netherlands,34,16,17,0,0,0,1,1,0,0,0,12,7,5,33,11,22,2,0,0.03,0.03,0,0,0,0,1.02,89,86,1461,2922,0.06,399,236,60,22
+Mark Bunn,35,469411200,Premier League,2008/2009,Goalkeeper,Blackburn Rovers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mark Davies,32,572140800,Premier League,2008/2009,Midfielder,Bolton Wanderers,759,473,286,England,10,5,3,0,0,0,2,2,0,0,0,2,2,0,12,6,6,3,0,0.24,0.24,0,0,0,0,1.42,63,76,253,380,0.36,278,34,-1,23
+Mark Doninger,30,624758400,Premier League,2008/2009,Midfielder,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mark Noble,33,547430400,Premier League,2008/2009,Midfielder,West Ham United,2354,1120,1234,England,29,13,15,3,1,2,4,1,3,1,2,6,3,3,32,15,17,8,1,0.27,0.15,0.11,0.08,0.15,785,1.22,74,81,294,589,0.31,140,94,-1,3
+Mark Randall,31,622944000,Premier League,2008/2009,Midfielder,Arsenal,8,0,8,England,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,23
+Mark Schwarzer,47,87177600,Premier League,2008/2009,Goalkeeper,Fulham,3420,1710,1710,Australia,38,19,19,0,0,0,0,0,0,0,0,15,7,8,32,14,18,0,0,0,0,0,0,0,0,0.84,107,90,0,0,0,354,302,41,17
+Mark Viduka,44,182044800,Premier League,2008/2009,Forward,Newcastle United,606,307,299,Australia,12,3,3,0,0,0,2,2,0,0,0,2,1,1,6,2,4,0,0,0.3,0.3,0,0,0,0,0.89,101,51,0,303,0,269,15,-1,13
+Marlon Harewood,41,304387200,Premier League,2008/2009,Forward,Aston Villa,57,29,28,England,6,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,4.74,19,10,0,0,0,-1,-1,-1,16
+Marlon King,40,325555200,Premier League,2008/2009,Forward,Middlesbrough,2477,1186,1291,Jamaica,33,13,15,7,3,4,2,0,2,2,0,6,4,2,44,19,25,2,0,0.33,0.07,0.25,0.23,0.28,354,1.6,56,75,1239,1239,0.07,71,184,-1,2
+Marouane Fellaini,32,564537600,Premier League,2008/2009,Midfielder,Everton,2400,1300,1100,Belgium,30,16,12,8,5,3,3,3,0,0,0,14,7,7,25,12,13,12,0,0.41,0.11,0.3,0.35,0.25,300,0.94,96,80,200,800,0.45,54,133,-1,1
+Martin Cranie,34,528076800,Premier League,2008/2009,Defender,Portsmouth,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Martin Laursen,43,238723200,Premier League,2008/2009,Defender,Aston Villa,1708,898,810,Denmark,19,10,9,1,0,1,2,1,1,0,0,7,4,3,17,8,9,1,0,0.16,0.11,0.05,0,0.11,1708,0.9,100,90,1708,854,0.05,199,125,50,8
+Martin Olsson,32,579830400,Premier League,2008/2009,Defender,Blackburn Rovers,503,265,238,Sweden,9,3,3,0,0,0,1,0,1,0,0,1,1,0,12,5,7,3,1,0.18,0.18,0,0,0,0,2.15,42,56,168,503,0.54,262,71,173,16
+Martin Petrov,41,285206400,Premier League,2008/2009,Midfielder,Manchester City,338,164,174,Bulgaria,9,2,2,0,0,0,0,0,0,0,0,1,1,0,7,2,5,0,0,0,0,0,0,0,0,1.86,48,38,0,0,0,363,368,-1,25
+Martin Škrtel,35,471916800,Premier League,2008/2009,Defender,Liverpool,1811,810,1001,Slovakia,21,9,11,0,0,0,1,0,1,0,0,9,4,5,14,5,9,4,0,0.05,0.05,0,0,0,0,0.7,129,86,453,1811,0.2,403,217,24,17
+Márton Fülöp,37,420768000,Premier League,2008/2009,Goalkeeper,Sunderland,2340,1080,1260,Hungary,26,12,14,0,0,0,0,0,0,0,0,6,4,2,35,13,22,1,0,0,0,0,0,0,0,1.35,67,90,2340,0,0.04,287,261,114,15
+Martyn Waghorn,30,633052800,Premier League,2008/2009,Forward,Sunderland,45,0,45,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,6,15,45,0,0,0,-1,-1,-1,27
+Marvin Emnes,32,580694400,Premier League,2008/2009,Forward,Middlesbrough,380,155,225,Netherlands,15,1,2,0,0,0,0,0,0,0,0,1,1,0,9,2,7,0,0,0,0,0,0,0,0,2.13,42,25,0,0,0,337,343,-1,22
+Matt Derbyshire,34,513820800,Premier League,2008/2009,Forward,Blackburn Rovers,689,367,322,England,17,3,2,2,1,1,0,0,0,0,0,4,2,2,14,8,6,1,0,0.26,0,0.26,0.25,0.28,345,1.83,49,41,689,0,0.13,69,357,-1,7
+Matt Duke,43,235267200,Premier League,2008/2009,Goalkeeper,Hull City,900,450,450,England,10,5,5,0,0,0,0,0,0,0,0,3,1,2,12,7,5,0,0,0,0,0,0,0,0,1.2,75,90,0,0,0,352,313,92,20
+Matthew Bates,33,534556800,Premier League,2008/2009,Defender,Middlesbrough,1383,643,740,England,17,7,8,1,1,0,0,0,0,0,0,3,3,0,25,6,19,5,1,0.07,0,0.07,0.14,0,1383,1.63,55,81,277,0,0.33,185,268,156,6
+Matthew Etherington,39,366595200,Premier League,2008/2009,Midfielder,Stoke City,1797,961,836,England,27,10,10,2,1,1,4,2,2,0,0,7,6,1,21,9,12,5,1,0.3,0.2,0.1,0.09,0.11,899,1.05,86,67,300,449,0.3,152,54,-1,8
+Matthew Taylor,38,375667200,Premier League,2008/2009,Midfielder,Bolton Wanderers,2844,1512,1332,England,34,17,16,10,3,7,4,3,1,0,0,6,4,2,40,15,25,3,0,0.44,0.13,0.32,0.18,0.47,284,1.27,71,84,948,711,0.09,50,107,-1,2
+Matthew Upson,41,293241600,Premier League,2008/2009,Defender,West Ham United,3198,1578,1620,England,37,19,18,0,0,0,1,1,0,0,0,10,5,5,39,17,22,2,0,0.03,0.03,0,0,0,0,1.1,82,86,1599,3198,0.06,370,246,75,24
+Matty James,29,680140800,Premier League,2008/2009,Midfielder,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Maynor Alexis Figueroa Róchez,37,420681600,Premier League,2008/2009,Defender,Wigan Athletic,3347,1701,1646,Honduras,38,19,19,1,1,0,2,1,1,0,0,13,8,5,41,15,26,4,0,0.08,0.05,0.03,0.05,0,3347,1.1,82,88,837,1674,0.11,243,222,73,8
+Micah Richards,32,583113600,Premier League,2008/2009,Defender,Manchester City,2710,1429,1281,England,34,17,16,1,1,0,1,1,0,0,0,9,8,1,36,13,23,2,0,0.07,0.03,0.03,0.06,0,2710,1.2,75,80,1355,2710,0.07,222,234,90,15
+Michael Ball,40,307670400,Premier League,2008/2009,Defender,Manchester City,714,354,360,England,8,4,4,0,0,0,1,0,1,0,0,2,1,1,8,4,4,0,0,0.13,0.13,0,0,0,0,1.01,89,89,0,714,0,365,113,59,24
+Michael Ballack,44,212544000,Premier League,2008/2009,Midfielder,Chelsea,2029,1093,936,Germany,29,13,9,1,1,0,5,3,2,0,0,17,8,9,15,9,6,6,0,0.27,0.22,0.04,0.08,0,2029,0.67,135,70,338,406,0.27,215,44,-1,11
+Michael Brown,43,222998400,Premier League,2008/2009,Midfielder,Wigan Athletic,1526,916,610,England,25,11,7,0,0,0,1,0,1,0,0,10,6,4,16,8,8,7,0,0.06,0.06,0,0,0,0,0.94,95,61,218,1526,0.41,343,212,-1,18
+Michael Carrick,39,365126400,Premier League,2008/2009,Midfielder,Manchester United,2040,1095,945,England,28,13,11,4,3,1,6,3,3,0,0,17,10,7,16,10,6,3,0,0.44,0.26,0.18,0.25,0.1,510,0.71,128,73,680,340,0.13,100,26,-1,5
+Michael Chopra,36,440985600,Premier League,2008/2009,Forward,Sunderland,190,58,132,England,6,0,1,2,2,0,0,0,0,0,0,2,1,1,3,1,2,1,0,0.95,0,0.95,3.1,0,95,1.42,63,32,190,0,0.47,-1,-1,-1,5
+Michael Dawson,36,437961600,Premier League,2008/2009,Defender,Tottenham Hotspur,1136,592,544,England,16,7,6,1,1,0,2,1,1,0,0,5,5,0,13,4,9,4,1,0.24,0.16,0.08,0.15,0,1136,1.03,87,71,227,568,0.4,173,87,63,9
+Michael Essien,37,407721600,Premier League,2008/2009,Midfielder,Chelsea,770,375,395,Ghana,11,5,5,1,1,0,0,0,0,0,0,6,3,3,5,2,3,0,0,0.12,0,0.12,0.24,0,770,0.58,154,70,0,0,0,136,254,-1,14
+Michael Johnson,32,572659200,Premier League,2008/2009,Midfielder,Manchester City,261,90,171,England,3,1,2,0,0,0,1,0,1,0,0,2,1,1,4,0,4,0,0,0.34,0.34,0,0,0,0,1.38,65,87,0,261,0,-1,-1,-1,26
+Michael Mancienne,32,568598400,Premier League,2008/2009,Defender,Chelsea,176,82,94,England,4,1,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,44,176,0,0.51,-1,-1,-1,18
+Michael Owen,40,313977600,Premier League,2008/2009,Forward,Newcastle United,1893,863,1030,England,28,9,12,8,6,2,0,0,0,1,0,6,3,3,36,18,18,0,0,0.38,0,0.38,0.63,0.17,237,1.71,53,68,0,0,0,33,269,-1,2
+Michael Tonge,37,418521600,Premier League,2008/2009,Midfielder,Stoke City,268,160,108,England,10,0,1,0,0,0,0,0,0,0,0,3,3,0,4,2,2,1,0,0,0,0,0,0,0,1.34,67,27,268,0,0.34,-1,-1,-1,14
+Michael Turner,36,437184000,Premier League,2008/2009,Defender,Hull City,3420,1710,1710,England,38,19,19,4,3,1,0,0,0,0,0,6,2,4,62,35,27,3,0,0.11,0,0.11,0.16,0.05,855,1.63,55,90,1140,0,0.08,147,310,157,3
+Michael Woods,30,639360000,Premier League,2008/2009,Midfielder,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mikaël Silvestre,43,239932800,Premier League,2008/2009,Defender,Arsenal,1090,585,505,France,14,7,5,2,1,1,1,1,0,0,0,4,3,1,18,10,8,0,0,0.25,0.08,0.17,0.15,0.18,545,1.49,61,78,0,1090,0,108,159,138,10
+Mike Pollitt,48,68169600,Premier League,2008/2009,Goalkeeper,Wigan Athletic,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,17
+Mikel Arteta Amatriain,38,385948800,Premier League,2008/2009,Midfielder,Everton,2253,1166,1087,Spain,26,13,13,6,6,0,7,2,5,2,0,10,5,5,24,13,11,3,0,0.52,0.28,0.24,0.46,0,376,0.96,94,87,751,322,0.12,78,19,-1,4
+Miroslav Stoch,30,624758400,Premier League,2008/2009,Midfielder,Chelsea,24,19,5,Slovakia,4,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,3.75,24,6,0,0,0,-1,-1,-1,17
+Mohamed Ali Abu El Yazid Shawky,38,371088000,Premier League,2008/2009,Midfielder,Middlesbrough,850,276,574,Egypt,13,4,7,0,0,0,0,0,0,0,0,1,0,1,16,5,11,3,0,0,0,0,0,0,0,1.69,53,65,283,0,0.32,335,354,-1,24
+Morten Gamst Pedersen,39,368755200,Premier League,2008/2009,Midfielder,Blackburn Rovers,2551,1327,1224,Norway,33,17,15,1,1,0,8,5,3,0,0,8,6,2,39,15,24,4,1,0.32,0.28,0.04,0.07,0,2551,1.38,65,77,638,319,0.14,216,18,-1,13
+Moustapha Salifou,37,423273600,Premier League,2008/2009,Midfielder,Aston Villa,0,0,0,Togo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nabil El Zhar,34,525484800,Premier League,2008/2009,Forward,Liverpool,233,110,123,Morocco,15,0,1,0,0,0,1,1,0,0,0,5,4,1,3,0,3,3,0,0.39,0.39,0,0,0,0,1.16,78,16,78,233,1.16,-1,-1,-1,18
+Nadir Belhadj,38,393206400,Premier League,2008/2009,Midfielder,Portsmouth,1926,1027,899,Algeria,29,11,10,2,1,1,3,3,0,0,0,7,3,4,33,19,14,5,1,0.23,0.14,0.09,0.09,0.1,963,1.54,58,66,385,642,0.23,163,95,-1,5
+Narcisse-Olivier Kapo Obou,40,338860800,Premier League,2008/2009,Forward,Wigan Athletic,891,329,562,France,19,4,6,1,0,1,0,0,0,0,0,5,2,3,14,4,10,1,0,0.1,0,0.1,0,0.16,891,1.41,64,47,891,0,0.1,157,348,-1,10
+Nathan Delfouneso,29,665452800,Premier League,2008/2009,Forward,Aston Villa,79,65,14,England,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.14,79,20,0,0,0,-1,-1,-1,21
+Nathan Doyle,33,537408000,Premier League,2008/2009,Midfielder,Hull City,213,157,56,England,3,2,0,0,0,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,0,2.96,30,71,0,0,0,-1,-1,-1,14
+Nathan Porritt,30,631843200,Premier League,2008/2009,Midfielder,Middlesbrough,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nemanja Vidić,38,372470400,Premier League,2008/2009,Defender,Manchester United,2982,1542,1440,Serbia,34,17,16,4,3,1,1,0,1,0,0,23,13,10,16,8,8,7,2,0.15,0.03,0.12,0.18,0.06,746,0.48,186,88,373,2982,0.24,138,240,5,6
+Nick Barmby,46,129772800,Premier League,2008/2009,Midfielder,Hull City,1098,659,439,England,21,8,5,1,1,0,1,0,1,0,0,2,1,1,16,9,7,2,0,0.16,0.08,0.08,0.14,0,1098,1.31,69,52,549,1098,0.16,177,157,-1,9
+Nick Colgan,47,117244800,Premier League,2008/2009,Goalkeeper,Sunderland,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nicklas Bendtner,32,569289600,Premier League,2008/2009,Forward,Arsenal,1758,804,954,Denmark,31,8,9,9,2,7,2,0,2,1,0,13,9,4,13,1,12,1,0,0.56,0.1,0.46,0.22,0.66,195,0.67,135,57,1758,879,0.05,20,143,-1,3
+Nicky Butt,45,159494400,Premier League,2008/2009,Midfielder,Newcastle United,2882,1297,1585,England,33,15,18,0,0,0,1,0,1,0,0,7,4,3,47,20,27,8,1,0.03,0.03,0,0,0,0,1.47,61,87,360,2882,0.25,379,244,-1,23
+Nicky Featherstone,32,590889600,Premier League,2008/2009,Midfielder,Hull City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nicky Hunt,37,431395200,Premier League,2008/2009,Defender,Bolton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nicky Shorey,39,351388800,Premier League,2008/2009,Defender,Aston Villa,1591,762,829,England,21,9,10,0,0,0,1,1,0,0,0,5,3,2,21,8,13,2,0,0.06,0.06,0,0,0,0,1.19,76,76,796,1591,0.11,373,196,89,15
+Nicolas Anelka,41,290217600,Premier League,2008/2009,Forward,Chelsea,2925,1551,1374,France,37,18,15,19,8,11,6,2,4,0,0,21,10,11,18,12,6,0,0,0.77,0.18,0.58,0.46,0.72,154,0.55,163,79,0,488,0,8,68,-1,1
+Nigel de Jong,35,470620800,Premier League,2008/2009,Midfielder,Manchester City,1350,665,685,Netherlands,16,8,8,0,0,0,1,1,0,0,0,4,4,0,17,6,11,3,0,0.07,0.07,0,0,0,0,1.13,79,84,450,1350,0.2,275,187,-1,18
+Nigel Reo-Coker,36,453340800,Premier League,2008/2009,Midfielder,Aston Villa,1792,920,872,England,26,10,9,1,0,1,0,0,0,0,0,8,5,3,25,11,14,3,0,0.05,0,0.05,0,0.1,1792,1.26,72,69,597,0,0.15,202,363,-1,11
+Niko Kranjčar,36,461203200,Premier League,2008/2009,Midfielder,Portsmouth,1547,758,789,Croatia,21,7,9,3,2,1,3,1,2,0,0,3,2,1,28,16,12,2,0,0.35,0.17,0.17,0.24,0.11,516,1.63,55,74,774,516,0.12,109,74,-1,4
+Nile Ranger,29,671328000,Premier League,2008/2009,Forward,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Noé Elias Pamarot,41,292896000,Premier League,2008/2009,Defender,Portsmouth,999,438,561,France,16,5,6,0,0,0,0,0,0,0,0,2,0,2,18,11,7,2,1,0,0,0,0,0,0,1.62,56,62,333,0,0.27,290,287,154,19
+Nuno Jorge Pereira Silva Valente,46,148176000,Premier League,2008/2009,Defender,Everton,81,78,3,Portugal,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,3.33,27,41,0,0,0,-1,-1,-1,20
+Nwankwo Christian Kanu,44,207705600,Premier League,2008/2009,Forward,Portsmouth,436,272,164,Nigeria,17,2,1,1,1,0,1,1,0,0,0,3,1,2,8,6,2,1,0,0.41,0.21,0.21,0.33,0,436,1.65,55,26,436,436,0.21,87,48,-1,8
+Nyron Nosworthy,39,340070400,Premier League,2008/2009,Defender,Sunderland,1412,782,630,Jamaica,16,9,7,0,0,0,0,0,0,0,0,3,3,0,24,11,13,3,0,0,0,0,0,0,0,1.53,59,88,471,0,0.19,392,404,142,14
+Obafemi Akinwunmi Martins,35,467769600,Premier League,2008/2009,Forward,Newcastle United,1791,948,843,Nigeria,24,11,10,8,6,2,2,1,1,0,1,7,4,3,23,13,10,1,0,0.5,0.1,0.4,0.57,0.21,224,1.16,78,75,1791,896,0.05,29,140,-1,1
+Olivier Dacourt,46,149299200,Premier League,2008/2009,Midfielder,Fulham,143,59,84,France,9,0,0,0,0,0,0,0,0,0,0,3,2,1,1,1,0,0,0,0,0,0,0,0,0,0.63,143,16,0,0,0,-1,-1,-1,15
+Oluwaseyi George Olofinjana,40,331171200,Premier League,2008/2009,Midfielder,Stoke City,1229,555,674,Nigeria,18,6,8,2,2,0,0,0,0,0,0,4,1,3,21,8,13,3,0,0.15,0,0.15,0.32,0,615,1.54,59,68,410,0,0.22,117,397,-1,10
+Owen Lee Hargreaves,39,348796800,Premier League,2008/2009,Midfielder,Manchester United,114,0,114,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.58,57,57,0,0,0,-1,-1,-1,22
+Pablo Zabaleta,35,474681600,Premier League,2008/2009,Defender,Manchester City,2375,1283,1092,Argentina,29,14,12,1,1,0,2,1,1,0,0,7,7,0,32,13,19,4,1,0.11,0.08,0.04,0.07,0,2375,1.21,74,82,475,1188,0.19,214,174,93,9
+Papa Bouba Diop,42,254793600,Premier League,2008/2009,Midfielder,Portsmouth,1330,568,762,Senegal,16,7,8,0,0,0,0,0,0,0,0,3,0,3,22,9,13,5,0,0,0,0,0,0,0,1.49,60,83,266,0,0.34,401,384,-1,16
+Pascal Chimbonda,41,288403200,Premier League,2008/2009,Defender,Tottenham Hotspur,1298,645,653,Guadeloupe,16,7,7,0,0,0,1,0,1,0,0,3,2,1,22,11,11,2,0,0.07,0.07,0,0,0,0,1.53,59,81,649,1298,0.14,390,186,143,21
+Pascal Zuberbühler,49,32140800,Premier League,2008/2009,Goalkeeper,Fulham,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Patrice Evra,39,358732800,Premier League,2008/2009,Defender,Manchester United,2411,1362,1049,France,28,16,12,0,0,0,2,1,1,0,0,15,10,5,22,12,10,6,0,0.07,0.07,0,0,0,0,0.82,110,86,402,1206,0.22,369,179,37,29
+Paul Downing,28,688435200,Premier League,2008/2009,Defender,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Paul Konchesky,39,358732800,Premier League,2008/2009,Defender,Fulham,3232,1612,1620,England,36,18,18,1,0,1,2,2,0,0,0,14,6,8,29,14,15,5,0,0.08,0.06,0.03,0,0.06,3232,0.81,111,90,646,1616,0.14,239,205,35,9
+Paul McShane,34,505353600,Premier League,2008/2009,Defender,Sunderland,1521,694,827,Republic of Ireland,20,7,10,1,0,1,0,0,0,0,0,4,2,2,29,12,17,2,0,0.06,0,0.06,0,0.11,1521,1.72,52,76,761,0,0.12,197,279,163,6
+Paul Robinson,41,282700800,Premier League,2008/2009,Defender,West Bromwich Albion,3023,1344,1679,England,35,16,19,0,0,0,0,0,0,0,0,7,3,4,57,26,31,8,1,0,0,0,0,0,0,1.7,53,86,336,0,0.27,293,336,162,28
+Paul Robinson,40,308793600,Premier League,2008/2009,Goalkeeper,Blackburn Rovers,3105,1530,1575,England,35,17,18,0,0,0,0,0,0,0,0,9,6,3,48,17,31,0,0,0,0,0,0,0,0,1.39,65,89,0,0,0,307,322,123,20
+Paul Scharner,40,321580800,Premier League,2008/2009,Midfielder,Wigan Athletic,2386,1056,1330,Austria,29,12,15,0,0,0,2,0,2,0,0,9,6,3,34,10,24,3,0,0.08,0.08,0,0,0,0,1.28,70,82,795,1193,0.11,320,162,-1,21
+Paul Scholes,45,153792000,Premier League,2008/2009,Midfielder,Manchester United,1266,560,706,England,21,5,9,2,1,1,2,1,1,0,0,12,6,6,6,3,3,4,1,0.28,0.14,0.14,0.16,0.13,633,0.43,211,60,253,633,0.36,124,100,-1,9
+Paulo Renato Rebocho Ferreira,41,285465600,Premier League,2008/2009,Defender,Chelsea,132,6,126,Portugal,7,0,1,0,0,0,0,0,0,0,0,7,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,24
+Pedro Miguel Cardoso Monteiro,42,262915200,Premier League,2008/2009,Defender,West Bromwich Albion,143,141,2,Cape Verde,3,1,0,0,0,0,0,0,0,0,0,1,1,0,5,5,0,0,0,0,0,0,0,0,0,3.15,29,48,0,0,0,-1,-1,-1,21
+Pepe Reina,38,399600000,Premier League,2008/2009,Goalkeeper,Liverpool,3420,1710,1710,Spain,38,19,19,0,0,0,1,0,1,0,0,20,11,9,25,12,13,0,0,0.03,0.03,0,0,0,0,0.66,137,90,0,3420,0,397,247,21,16
+Peter Crouch,39,349660800,Premier League,2008/2009,Forward,Portsmouth,3363,1689,1674,England,38,19,19,10,7,3,4,3,1,0,0,8,3,5,54,27,27,3,0,0.37,0.11,0.27,0.37,0.16,336,1.45,62,89,1121,841,0.08,63,126,-1,1
+Péter Halmosi,41,307065600,Premier League,2008/2009,Midfielder,Hull City,546,323,223,Hungary,18,3,1,0,0,0,1,0,1,0,0,2,1,1,9,6,3,1,0,0.16,0.16,0,0,0,0,1.48,61,30,546,546,0.16,351,84,-1,23
+Péter Kurucz,32,580089600,Premier League,2008/2009,Goalkeeper,West Ham United,0,0,0,Hungary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Peter Rosenkrands Løvenkrands,40,317952000,Premier League,2008/2009,Forward,Newcastle United,644,336,308,Denmark,12,4,4,3,2,1,0,0,0,0,0,1,1,0,12,5,7,0,0,0.42,0,0.42,0.54,0.29,215,1.68,54,54,0,0,0,26,291,-1,5
+Petr Čech,38,390700800,Premier League,2008/2009,Goalkeeper,Chelsea,3150,1620,1530,Czech Republic,35,18,17,0,0,0,0,0,0,0,0,19,9,10,21,12,9,0,0,0,0,0,0,0,0,0.6,150,90,0,0,0,404,408,13,20
+Phil Bardsley,35,488764800,Premier League,2008/2009,Defender,Sunderland,2459,1379,1080,Scotland,28,15,12,0,0,0,0,0,0,0,0,6,5,1,38,21,17,11,0,0,0,0,0,0,0,1.39,65,88,224,0,0.4,391,403,124,12
+Phil Jagielka,38,398390400,Premier League,2008/2009,Defender,Everton,2972,1530,1442,England,34,17,16,0,0,0,0,0,0,0,0,14,7,7,32,16,16,2,0,0,0,0,0,0,0,0.97,93,87,1486,0,0.06,317,318,52,25
+Phil Neville,43,222652800,Premier League,2008/2009,Midfielder,Everton,3226,1614,1612,England,37,18,18,0,0,0,3,2,1,0,0,17,8,9,29,15,14,5,0,0.08,0.08,0,0,0,0,0.81,111,87,645,1075,0.14,329,177,-1,24
+Phillip Degen,37,414115200,Premier League,2008/2009,Defender,Liverpool,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rade Prica,40,331171200,Premier League,2008/2009,Forward,Sunderland,0,0,0,Sweden,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Radoslav Kováč,40,312508800,Premier League,2008/2009,Defender,West Ham United,719,382,337,Czech Republic,9,4,4,1,0,1,0,0,0,0,0,4,2,2,7,4,3,2,0,0.13,0,0.13,0,0.27,719,0.88,103,80,360,0,0.25,132,275,49,9
+Rafael,30,647481600,Premier League,2008/2009,Defender,Manchester United,1054,685,369,Brazil,16,8,4,1,0,1,0,0,0,0,0,12,7,5,3,3,0,2,0,0.09,0,0.09,0,0.24,1054,0.26,351,66,527,0,0.17,160,376,1,14
+Rahamat Riga Mustapha,38,371520000,Premier League,2008/2009,Forward,Bolton Wanderers,456,319,137,Netherlands,17,2,0,0,0,0,0,0,0,0,0,5,4,1,2,2,0,1,0,0,0,0,0,0,0,0.39,228,27,456,0,0.2,322,390,-1,18
+Rhys Taylor,30,639446400,Premier League,2008/2009,Goalkeeper,Chelsea,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rhys Williams,32,584841600,Premier League,2008/2009,Midfielder,Middlesbrough,0,0,0,Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ricardo Alberto Silveira de Carvalho,42,264297600,Premier League,2008/2009,Defender,Chelsea,965,552,413,Portugal,12,7,4,1,0,1,1,0,1,0,0,4,2,2,10,6,4,2,0,0.19,0.09,0.09,0,0.22,965,0.93,97,80,483,965,0.19,164,151,51,12
+Ricardo Andrade Quaresma Bernardo,37,433382400,Premier League,2008/2009,Midfielder,Chelsea,130,71,59,Portugal,4,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,-1,-1,-1,26
+Ricardo Fuller,40,310176000,Premier League,2008/2009,Forward,Stoke City,2331,1223,1108,Jamaica,34,13,12,11,6,5,2,0,2,2,1,10,7,3,29,10,19,11,1,0.5,0.08,0.42,0.44,0.41,212,1.12,80,69,194,1166,0.46,25,160,-1,1
+Ricardo Jorge Vaz Té,34,528508800,Premier League,2008/2009,Forward,Bolton Wanderers,31,8,23,Portugal,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,5.81,16,16,0,0,0,-1,-1,-1,14
+Ricardo Sérgio Rocha Azevedo,41,276220800,Premier League,2008/2009,Defender,Tottenham Hotspur,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ricardo Wayne Gardner,42,275529600,Premier League,2008/2009,Midfielder,Bolton Wanderers,1850,997,853,Jamaica,29,9,9,4,4,0,1,1,0,0,0,5,4,1,30,13,17,1,0,0.24,0.05,0.19,0.36,0,463,1.46,62,64,1850,1850,0.05,96,216,-1,4
+Richard Cresswell,43,243561600,Premier League,2008/2009,Forward,Stoke City,1410,521,889,England,30,3,8,0,0,0,0,0,0,0,0,9,6,3,26,4,22,6,0,0,0,0,0,0,0,1.66,54,47,235,0,0.38,357,398,-1,24
+Richard Dunne,41,306720000,Premier League,2008/2009,Defender,Manchester City,2733,1383,1350,Republic of Ireland,31,16,15,1,1,0,0,0,0,0,0,8,7,1,35,15,20,6,2,0.03,0,0.03,0.07,0,2733,1.15,78,88,342,0,0.26,226,260,83,10
+Richard Eckersley,31,605664000,Premier League,2008/2009,Defender,Manchester United,49,0,49,England,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,17
+Richard García,39,368409600,Premier League,2008/2009,Midfielder,Hull City,1163,736,427,Australia,23,9,4,1,0,1,1,0,1,0,0,4,1,3,18,14,4,2,0,0.15,0.08,0.08,0,0.21,1163,1.39,65,51,582,1163,0.15,179,158,-1,10
+Richard Hughes,41,299116800,Premier League,2008/2009,Midfielder,Portsmouth,1357,803,554,Scotland,20,10,7,0,0,0,0,0,0,0,0,3,1,2,21,15,6,3,0,0,0,0,0,0,0,1.39,65,68,452,0,0.2,264,267,-1,23
+Richard Kingson (Faruk Gürsoy),42,266544000,Premier League,2008/2009,Goalkeeper,Wigan Athletic,350,180,170,Ghana,4,2,1,0,0,0,0,0,0,0,0,1,1,0,6,2,4,0,0,0,0,0,0,0,0,1.54,58,88,0,0,0,280,296,144,15
+Rio Ferdinand,41,279244800,Premier League,2008/2009,Defender,Manchester United,2140,990,1150,England,24,11,13,0,0,0,0,0,0,0,0,13,6,7,19,10,9,3,0,0,0,0,0,0,0,0.8,113,89,713,0,0.13,368,373,33,30
+Ritchie De Laet,31,596678400,Premier League,2008/2009,Defender,Manchester United,79,0,79,Belgium,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,-1,-1,-1,31
+Robbie Fowler,45,166233600,Premier League,2008/2009,Forward,Blackburn Rovers,114,12,102,England,3,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,-1,-1,-1,18
+Robbie Keane,40,331862400,Premier League,2008/2009,Forward,Tottenham Hotspur,2519,1358,1161,Republic of Ireland,33,16,14,10,6,4,6,3,3,2,0,18,12,6,19,5,14,3,0,0.57,0.21,0.36,0.4,0.31,252,0.68,133,76,840,420,0.11,38,50,-1,3
+Robert Green,40,317001600,Premier League,2008/2009,Goalkeeper,West Ham United,3420,1710,1710,England,38,19,19,0,0,0,0,0,0,0,0,10,5,5,43,20,23,0,0,0,0,0,0,0,0,1.13,80,90,0,0,0,303,341,79,13
+Robert Huth,36,461635200,Premier League,2008/2009,Defender,Middlesbrough,2075,1080,995,Germany,24,12,11,0,0,0,0,0,0,0,0,4,4,0,33,8,25,5,0,0,0,0,0,0,0,1.43,63,86,415,0,0.22,386,351,133,21
+Robert Koren,40,338256000,Premier League,2008/2009,Midfielder,West Bromwich Albion,2995,1440,1555,Slovenia,35,16,18,2,2,0,2,1,1,0,0,7,3,4,58,29,29,3,0,0.12,0.06,0.06,0.13,0,1498,1.74,52,86,998,1498,0.09,194,213,-1,8
+Robert Milsom,33,536544000,Premier League,2008/2009,Midfielder,Fulham,10,0,10,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,18
+Robert Sissons,32,591494400,Premier League,2008/2009,Midfielder,Bolton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Robin van Persie,37,428976000,Premier League,2008/2009,Forward,Arsenal,2211,995,1216,Netherlands,28,11,13,11,7,4,9,4,5,2,0,11,7,4,22,11,11,6,1,0.81,0.37,0.45,0.63,0.3,201,0.9,101,79,316,246,0.28,21,10,-1,1
+Róbson de Souza,36,443836800,Premier League,2008/2009,Forward,Manchester City,2634,1424,1210,Brazil,31,16,14,14,11,3,5,3,2,1,1,7,7,0,33,14,19,3,0,0.65,0.17,0.48,0.7,0.22,188,1.13,80,85,878,527,0.1,15,78,-1,1
+Rodrigo Pereira Possebon,31,603331200,Premier League,2008/2009,Midfielder,Manchester United,51,27,24,Brazil,3,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,-1,-1,-1,27
+Romaine Theodore Sawyers,28,689040000,Premier League,2008/2009,Midfielder,West Bromwich Albion,0,0,0,St. Kitts and Nevis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Roman Bednář,37,417484800,Premier League,2008/2009,Forward,West Bromwich Albion,1236,814,422,Czech Republic,26,8,4,6,6,0,1,0,1,2,1,3,2,1,22,17,5,6,0,0.51,0.07,0.44,0.66,0,206,1.6,56,48,206,1236,0.44,23,191,-1,2
+Roman Pavlyuchenko,38,377222400,Premier League,2008/2009,Forward,Tottenham Hotspur,1456,925,531,Russia,28,13,6,5,5,0,1,1,0,0,0,11,9,2,17,6,11,1,0,0.37,0.06,0.31,0.49,0,291,1.05,86,52,1456,1456,0.06,51,208,-1,5
+Roque Luis Santa Cruz Cantero,39,366768000,Premier League,2008/2009,Forward,Blackburn Rovers,1488,748,740,Paraguay,20,8,9,4,1,3,2,1,1,0,0,4,3,1,25,10,15,0,0,0.36,0.12,0.24,0.12,0.36,372,1.51,60,74,0,744,0,79,123,-1,4
+Rory Delap,44,205459200,Premier League,2008/2009,Midfielder,Stoke City,2860,1432,1428,Republic of Ireland,34,17,17,2,1,1,5,5,0,0,0,12,9,3,42,9,33,4,1,0.22,0.16,0.06,0.06,0.06,1430,1.32,68,84,572,572,0.16,191,85,-1,9
+Ross Turnbull,35,473644800,Premier League,2008/2009,Goalkeeper,Middlesbrough,1980,900,1080,England,22,10,12,0,0,0,0,0,0,0,0,3,2,1,31,14,17,0,0,0,0,0,0,0,0,1.41,64,90,0,0,0,338,328,128,27
+Ryan Allsop,28,708739200,Premier League,2008/2009,Goalkeeper,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ryan Donaldson,29,673056000,Premier League,2008/2009,Midfielder,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ryan Donk,34,512524800,Premier League,2008/2009,Defender,West Bromwich Albion,1253,623,630,Netherlands,16,7,7,0,0,0,1,1,0,0,0,4,2,2,25,14,11,4,0,0.07,0.07,0,0,0,0,1.8,50,78,313,1253,0.29,288,193,168,14
+Ryan France,39,345513600,Premier League,2008/2009,Midfielder,Hull City,93,84,9,England,2,1,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,1.94,47,47,0,0,0,-1,-1,-1,27
+Ryan Giggs,46,123379200,Premier League,2008/2009,Midfielder,Manchester United,1499,678,821,Wales,28,7,8,2,0,2,8,4,4,0,0,17,8,9,9,5,4,0,0,0.6,0.48,0.12,0,0.22,750,0.54,167,54,0,187,0,139,4,-1,8
+Ryan Guno Babel,33,535334400,Premier League,2008/2009,Forward,Liverpool,832,261,571,Netherlands,27,1,5,3,1,2,1,1,0,0,0,13,8,5,7,1,6,2,0,0.43,0.11,0.32,0.34,0.32,277,0.76,119,31,416,832,0.22,47,134,-1,7
+Ryan Nelsen,42,245980800,Premier League,2008/2009,Defender,Blackburn Rovers,3104,1530,1574,New Zealand,35,17,18,1,1,0,1,0,1,0,0,9,6,3,46,17,29,7,0,0.06,0.03,0.03,0.06,0,3104,1.33,67,89,443,3104,0.2,235,237,111,14
+Ryan Shawcross,33,560304000,Premier League,2008/2009,Defender,Stoke City,2453,1167,1286,England,29,13,15,3,1,2,0,0,0,0,0,10,8,2,33,4,29,4,0,0.11,0,0.11,0.08,0.14,818,1.21,74,85,613,0,0.15,141,396,94,5
+Ryan Taylor,36,461721600,Premier League,2008/2009,Defender,Newcastle United,1647,875,772,England,22,10,9,2,1,1,2,1,1,0,0,5,4,1,18,9,9,5,0,0.22,0.11,0.11,0.1,0.12,824,0.98,92,75,329,824,0.27,143,131,54,9
+Salif Alassane Diao,43,224380800,Premier League,2008/2009,Midfielder,Stoke City,1467,766,701,Senegal,20,9,9,0,0,0,0,0,0,0,0,7,5,2,24,6,18,4,0,0,0,0,0,0,0,1.47,61,73,367,0,0.25,358,399,-1,20
+Salomon Armand Magloire Kalou,35,492048000,Premier League,2008/2009,Midfielder,Chelsea,1501,703,798,Côte d'Ivoire,27,7,10,7,3,4,3,1,2,0,0,16,5,11,7,7,0,0,0,0.6,0.18,0.42,0.38,0.45,214,0.42,214,56,0,500,0,27,67,-1,3
+Sam Ricketts,38,371606400,Premier League,2008/2009,Defender,Hull City,2520,1271,1249,Wales,29,14,13,0,0,0,1,1,0,0,0,4,1,3,42,26,16,7,1,0.04,0.04,0,0,0,0,1.5,60,87,360,2520,0.25,349,228,140,25
+Sami Hyypiä,46,118800000,Premier League,2008/2009,Defender,Liverpool,1089,459,630,Finland,16,5,7,1,0,1,0,0,0,0,0,7,3,4,8,3,5,1,0,0.08,0,0.08,0,0.14,1089,0.66,136,68,1089,0,0.08,172,405,19,11
+Samir Nasri,33,551664000,Premier League,2008/2009,Midfielder,Arsenal,2404,1366,1038,France,29,16,12,6,4,2,2,2,0,0,0,13,10,3,23,10,13,4,0,0.3,0.07,0.22,0.26,0.17,401,0.86,105,83,601,1202,0.15,84,185,-1,5
+Savio Nsereko,31,617500800,Premier League,2008/2009,Midfielder,West Ham United,237,150,87,Germany,10,1,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,2,0,0,0,0,0,0,0,0,0,24,119,0,0.76,-1,-1,-1,14
+Scott Carson,35,494553600,Premier League,2008/2009,Goalkeeper,West Bromwich Albion,3150,1530,1620,England,35,17,18,0,0,0,0,0,0,0,0,7,4,3,61,30,31,3,0,0,0,0,0,0,0,1.74,52,90,1050,0,0.09,298,334,165,13
+Scott Parker,39,340243200,Premier League,2008/2009,Midfielder,West Ham United,2387,1219,1168,England,28,15,13,1,0,1,3,2,1,0,0,8,4,4,28,13,15,8,0,0.15,0.11,0.04,0,0.08,2387,1.06,85,85,298,796,0.3,218,132,-1,10
+Scott Sinclair,31,606787200,Premier League,2008/2009,Midfielder,Chelsea,16,5,11,England,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,19
+Sean Davis,41,306633600,Premier League,2008/2009,Midfielder,Portsmouth,2714,1340,1374,England,32,15,16,1,1,0,3,1,2,0,0,6,2,4,40,22,18,7,1,0.13,0.1,0.03,0.07,0,2714,1.33,68,85,388,905,0.23,241,141,-1,9
+Seb Hines,32,580867200,Premier League,2008/2009,Defender,Middlesbrough,3,0,3,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,10
+Sébastien Aymar Bassong Nguena,34,521251200,Premier League,2008/2009,Defender,Newcastle United,2385,1110,1275,Cameroon,30,13,13,0,0,0,0,0,0,0,0,5,2,3,33,15,18,5,2,0,0,0,0,0,0,1.25,72,80,341,0,0.26,381,382,102,21
+Sébastien Puygrenier,38,381024000,Premier League,2008/2009,Defender,Bolton Wanderers,381,171,210,France,7,2,3,1,1,0,0,0,0,0,0,0,0,0,7,3,4,1,0,0.24,0,0.24,0.53,0,381,1.65,54,54,381,0,0.24,77,262,159,8
+Segundo Alejandro Castillo Nazareno,38,390268800,Premier League,2008/2009,Midfielder,Everton,487,75,412,Ecuador,9,1,4,0,0,0,0,0,0,0,0,6,1,5,5,2,3,0,0,0,0,0,0,0,0,0.92,97,54,0,0,0,296,281,-1,15
+Shaleum Logan,32,570412800,Premier League,2008/2009,Defender,Manchester City,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,20
+Shaun Wright-Phillips,38,372816000,Premier League,2008/2009,Midfielder,Manchester City,2437,1362,1075,England,28,15,12,5,3,2,6,6,0,0,0,10,9,1,27,10,17,3,0,0.41,0.22,0.18,0.2,0.17,487,1,90,87,812,406,0.11,101,40,-1,5
+Shay Given,44,198806400,Premier League,2008/2009,Goalkeeper,Manchester City,3330,1620,1710,Republic of Ireland,37,18,19,0,0,0,0,0,0,0,0,9,6,3,53,24,29,2,0,0,0,0,0,0,0,1.43,63,90,1665,0,0.05,375,380,132,27
+Shelton Martis,37,407376000,Premier League,2008/2009,Defender,West Bromwich Albion,551,371,180,Curaçao,7,4,2,0,0,0,0,0,0,0,0,2,1,1,6,5,1,0,0,0,0,0,0,0,0,0.98,92,79,0,0,0,294,340,53,20
+Sherjill MacDonald,35,469756800,Premier League,2008/2009,Forward,West Bromwich Albion,111,29,82,Netherlands,5,0,0,0,0,0,0,0,0,0,0,2,0,2,1,1,0,2,0,0,0,0,0,0,0,0.81,111,22,56,0,1.62,-1,-1,-1,24
+Shola Ameobi,38,371692800,Premier League,2008/2009,Forward,Newcastle United,1260,662,598,Nigeria,22,8,6,4,2,2,4,2,2,1,0,4,2,2,22,11,11,1,0,0.57,0.29,0.29,0.27,0.3,315,1.57,57,57,1260,315,0.07,57,16,-1,3
+Simon Davies,40,309484800,Premier League,2008/2009,Midfielder,Fulham,2909,1429,1480,Wales,33,16,17,2,1,1,4,4,0,0,0,13,6,7,25,11,14,2,0,0.19,0.12,0.06,0.06,0.06,1455,0.77,116,88,1455,727,0.06,190,124,-1,6
+Steed Malbranque,40,315964800,Premier League,2008/2009,Midfielder,Sunderland,2689,1272,1417,France,36,16,18,1,0,1,7,4,3,0,0,9,6,3,37,17,20,5,0,0.27,0.23,0.03,0,0.06,2689,1.24,73,75,538,384,0.17,247,37,-1,9
+Stephen Darby,31,592099200,Premier League,2008/2009,Defender,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stephen Ireland,34,525052800,Premier League,2008/2009,Midfielder,Manchester City,3032,1493,1539,Republic of Ireland,35,17,17,9,4,5,9,9,0,0,0,8,7,1,39,16,23,8,0,0.53,0.27,0.27,0.24,0.29,337,1.16,78,87,379,337,0.24,66,22,-1,2
+Stephen Kelly,37,431654400,Premier League,2008/2009,Defender,Stoke City,258,85,173,Republic of Ireland,6,0,2,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0,0,0,0,0,0,0,0.7,129,43,0,0,0,-1,-1,-1,29
+Stephen Warnock,38,376963200,Premier League,2008/2009,Defender,Blackburn Rovers,3273,1710,1563,England,37,19,18,3,1,2,2,0,2,0,0,10,7,3,48,19,29,8,0,0.14,0.05,0.08,0.05,0.12,1091,1.32,68,88,409,1637,0.22,174,219,109,5
+Steve Harper,45,163987200,Premier League,2008/2009,Goalkeeper,Newcastle United,1440,720,720,England,16,8,8,0,0,0,0,0,0,0,0,2,2,0,22,10,12,0,0,0,0,0,0,0,0,1.38,65,90,0,0,0,382,383,120,20
+Steve Sidwell,37,408672000,Premier League,2008/2009,Midfielder,Aston Villa,1012,534,478,England,16,6,5,3,1,2,0,0,0,0,0,8,3,5,10,7,3,2,0,0.27,0,0.27,0.17,0.38,337,0.89,101,63,506,0,0.18,64,264,-1,6
+Steve Simonsen,41,291945600,Premier League,2008/2009,Goalkeeper,Stoke City,271,24,247,England,5,0,3,0,0,0,0,0,0,0,0,0,0,0,9,0,9,1,0,0,0,0,0,0,0,2.99,30,54,271,0,0.33,331,387,176,22
+Steven Gerrard,40,328492800,Premier League,2008/2009,Midfielder,Liverpool,2632,1231,1401,England,31,14,16,16,8,8,10,6,4,4,1,17,9,8,17,7,10,5,0,0.89,0.34,0.55,0.58,0.51,165,0.58,155,85,526,263,0.17,9,11,-1,1
+Steven Pienaar,38,385171200,Premier League,2008/2009,Midfielder,Everton,2405,1239,1166,South Africa,28,14,13,3,0,3,7,2,5,0,0,15,7,8,18,9,9,5,0,0.37,0.26,0.11,0,0.23,802,0.67,134,86,481,344,0.19,146,25,-1,9
+Steven Reid,39,353030400,Premier League,2008/2009,Defender,Blackburn Rovers,360,180,180,Republic of Ireland,4,2,2,0,0,0,0,0,0,0,0,0,0,0,8,4,4,0,0,0,0,0,0,0,0,2,45,90,0,0,0,309,324,170,26
+Steven Taylor,34,506822400,Premier League,2008/2009,Defender,Newcastle United,2278,1281,997,England,27,14,11,4,1,3,1,0,1,0,0,3,3,0,42,22,20,6,0,0.2,0.04,0.16,0.07,0.27,570,1.66,54,84,380,2278,0.24,112,225,160,4
+Stewart Downing,36,459302400,Premier League,2008/2009,Midfielder,Middlesbrough,3256,1636,1620,England,37,19,18,0,0,0,3,1,2,0,2,7,6,1,50,18,32,0,0,0.08,0.08,0,0,0,0,1.38,65,88,0,1085,0,334,172,-1,25
+Stiliyan Alyoshev Petrov,41,299980800,Premier League,2008/2009,Midfielder,Aston Villa,3178,1571,1607,Bulgaria,36,18,18,1,1,0,3,3,0,0,0,13,7,6,38,16,22,6,0,0.11,0.08,0.03,0.06,0,3178,1.08,84,88,530,1059,0.17,230,168,-1,10
+Stuart Taylor,39,344217600,Premier League,2008/2009,Goalkeeper,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stylianos Giannakopoulos,46,142819200,Premier League,2008/2009,Midfielder,Hull City,30,22,8,Greece,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,6,15,15,0,0,0,-1,-1,-1,15
+Sulzeer Jeremiah 'Sol' Campbell,46,148694400,Premier League,2008/2009,Defender,Portsmouth,2835,1395,1440,England,32,16,16,0,0,0,0,0,0,0,0,7,3,4,45,22,23,1,0,0,0,0,0,0,0,1.43,63,89,2835,0,0.03,410,412,134,20
+Sylvain Distin,42,251078400,Premier League,2008/2009,Defender,Portsmouth,3420,1710,1710,France,38,19,19,0,0,0,0,0,0,0,0,8,3,5,54,27,27,2,0,0,0,0,0,0,0,1.42,63,90,1710,0,0.05,411,400,131,18
+Tal Ben Haim,38,386380800,Premier League,2008/2009,Defender,Sunderland,1202,347,855,Israel,14,4,9,0,0,0,0,0,0,0,0,4,2,2,19,3,16,2,0,0,0,0,0,0,0,1.42,63,86,601,0,0.15,362,367,130,21
+Tamás Kádár,30,637372800,Premier League,2008/2009,Defender,Newcastle United,0,0,0,Hungary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tamir Cohen,36,447206400,Premier League,2008/2009,Midfielder,Bolton Wanderers,218,132,86,Israel,4,2,1,1,1,0,0,0,0,0,0,2,1,1,1,1,0,1,0,0.41,0,0.41,0.68,0,218,0.41,218,55,218,0,0.41,-1,-1,-1,7
+Teemu Tainio,40,312508800,Premier League,2008/2009,Midfielder,Sunderland,1433,693,740,Finland,21,9,9,0,0,0,1,1,0,0,0,7,5,2,19,5,14,4,0,0.06,0.06,0,0,0,0,1.19,75,68,358,1433,0.25,393,204,-1,24
+Temitope Obadeyi,30,625622400,Premier League,2008/2009,Midfielder,Bolton Wanderers,41,29,12,England,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2.2,41,14,0,0,0,-1,-1,-1,12
+Theo Walcott,31,606009600,Premier League,2008/2009,Forward,Arsenal,1282,789,493,England,22,10,6,2,1,1,2,0,2,0,0,9,5,4,14,10,4,0,0,0.28,0.14,0.14,0.11,0.18,641,0.98,92,58,0,641,0,122,99,-1,11
+Theofanis Gekas,40,327888000,Premier League,2008/2009,Forward,Portsmouth,0,0,0,Greece,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Thomas Løvendahl Sørensen,44,203385600,Premier League,2008/2009,Goalkeeper,Stoke City,3149,1686,1463,Denmark,36,19,16,0,0,0,0,0,0,0,0,12,9,3,40,13,27,0,0,0,0,0,0,0,0,1.14,79,87,0,0,0,324,392,81,23
+Tim Cahill,40,313286400,Premier League,2008/2009,Forward,Everton,2436,1158,1278,Australia,30,14,14,8,2,6,5,3,2,0,0,16,8,8,17,6,11,4,1,0.48,0.18,0.3,0.16,0.42,305,0.63,143,81,487,487,0.18,53,69,-1,2
+Tim Howard,41,289526400,Premier League,2008/2009,Goalkeeper,Everton,3420,1710,1710,USA,38,19,19,0,0,0,0,0,0,0,0,17,8,9,33,17,16,0,0,0,0,0,0,0,0,0.87,104,90,0,0,0,330,317,48,17
+Tim Krul,32,576028800,Premier League,2008/2009,Goalkeeper,Newcastle United,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Titus Malachi Bramble,39,364521600,Premier League,2008/2009,Defender,Wigan Athletic,3136,1609,1527,England,35,18,17,1,0,1,1,0,1,0,0,13,8,5,36,14,22,8,0,0.06,0.03,0.03,0,0.06,3136,1.03,87,90,392,3136,0.23,221,250,62,11
+Tom Craddock,33,529632000,Premier League,2008/2009,Forward,Middlesbrough,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tom Huddlestone,33,536112000,Premier League,2008/2009,Midfielder,Tottenham Hotspur,1336,874,462,England,22,9,5,0,0,0,2,1,1,0,0,9,8,1,13,6,7,3,0,0.13,0.13,0,0,0,0,0.88,103,61,445,668,0.2,346,114,-1,20
+Tom Soares,34,521337600,Premier League,2008/2009,Midfielder,Stoke City,412,286,126,England,7,4,1,0,0,0,1,1,0,0,0,2,2,0,4,2,2,0,0,0.22,0.22,0,0,0,0,0.87,103,59,0,412,0,261,43,-1,13
+Tomasz Cywka,32,583372800,Premier League,2008/2009,Midfielder,Wigan Athletic,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tomasz Kupisz,30,631238400,Premier League,2008/2009,Midfielder,Wigan Athletic,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tomasz Kuszczak,38,385430400,Premier League,2008/2009,Goalkeeper,Manchester United,328,180,148,Poland,4,2,1,0,0,0,0,0,0,0,0,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0.55,164,82,0,0,0,374,379,9,24
+Toni Kallio,42,271468800,Premier League,2008/2009,Defender,Fulham,177,87,90,Finland,3,1,1,0,0,0,0,0,0,0,0,1,1,0,4,1,3,0,0,0,0,0,0,0,0,2.03,44,59,0,0,0,-1,-1,-1,20
+Tony Hibbert,39,351475200,Premier League,2008/2009,Defender,Everton,1315,810,505,England,17,10,6,0,0,0,1,1,0,0,0,8,6,2,12,6,6,4,0,0.07,0.07,0,0,0,0,0.82,110,77,329,1315,0.27,270,190,38,14
+Tugay Kerimoğlu,50,20304000,Premier League,2008/2009,Midfielder,Blackburn Rovers,1549,763,786,Turkey,29,7,8,1,0,1,0,0,0,0,0,10,7,3,21,4,17,3,0,0.06,0,0.06,0,0.11,1549,1.22,74,53,516,0,0.17,193,356,-1,10
+Tuncay Şanlı,38,379987200,Premier League,2008/2009,Forward,Middlesbrough,2673,1379,1294,Turkey,33,16,14,7,4,3,4,2,2,0,0,6,6,0,42,13,29,4,0,0.37,0.13,0.24,0.26,0.21,382,1.41,64,81,668,668,0.13,81,110,-1,1
+Valeri Emilov Bozhinov,34,508809600,Premier League,2008/2009,Forward,Manchester City,221,155,66,Bulgaria,8,2,0,1,0,1,1,1,0,0,0,2,2,0,3,2,1,1,0,0.81,0.41,0.41,0,1.36,221,1.22,74,28,221,221,0.41,-1,-1,-1,13
+Valon Behrami,35,482716800,Premier League,2008/2009,Midfielder,West Ham United,2006,997,1009,Switzerland,24,12,12,1,0,1,0,0,0,0,0,6,3,3,25,10,15,4,0,0.04,0,0.04,0,0.09,2006,1.12,80,84,502,0,0.18,207,330,-1,8
+Vassiriki Abou Diaby,34,516153600,Premier League,2008/2009,Midfielder,Arsenal,1468,709,759,France,24,8,8,3,1,2,1,1,0,0,0,8,6,2,14,5,9,5,0,0.25,0.06,0.18,0.13,0.24,489,0.86,105,61,294,1468,0.31,102,202,-1,7
+Vedran Ćorluka,34,507945600,Premier League,2008/2009,Defender,Tottenham Hotspur,3236,1605,1631,Croatia,37,18,18,1,0,1,3,1,2,0,0,14,11,3,40,8,32,3,0,0.11,0.08,0.03,0,0.06,3236,1.11,81,87,1079,1079,0.08,225,165,76,10
+Victor Chinedu Anichebe,32,577756800,Premier League,2008/2009,Forward,Everton,571,188,383,Nigeria,17,1,4,1,0,1,0,0,0,0,0,6,3,3,7,3,4,0,0,0.16,0,0.16,0,0.23,571,1.1,82,34,0,0,0,113,253,-1,11
+Vince Grella,40,307929600,Premier League,2008/2009,Midfielder,Blackburn Rovers,1225,628,597,Australia,17,8,7,0,0,0,1,0,1,0,0,6,5,1,18,5,13,5,0,0.07,0.07,0,0,0,0,1.32,68,72,245,1225,0.37,250,180,-1,22
+Vincent de Paul Péricard,37,402451200,Premier League,2008/2009,Forward,Stoke City,118,22,96,France,4,0,1,0,0,0,0,0,0,0,0,1,1,0,4,0,4,0,0,0,0,0,0,0,0,3.05,30,30,0,0,0,-1,-1,-1,21
+Vincent Kompany,34,513475200,Premier League,2008/2009,Defender,Manchester City,2995,1517,1478,Belgium,34,17,17,1,0,1,1,1,0,0,0,10,9,1,34,11,23,8,0,0.06,0.03,0.03,0,0.06,2995,1.02,88,88,374,2995,0.24,246,239,61,11
+Vito Mannone,32,573264000,Premier League,2008/2009,Goalkeeper,Arsenal,90,90,0,Italy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,28
+Vladimír Weiss,30,628387200,Premier League,2008/2009,Forward,Manchester City,19,19,0,Slovakia,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,19
+Walter Alberto López Gasco,34,498182400,Premier League,2008/2009,Defender,West Ham United,8,3,5,Uruguay,4,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,19
+Wayne Bridge,40,334281600,Premier League,2008/2009,Defender,Manchester City,1670,677,993,England,22,7,12,0,0,0,0,0,0,0,0,10,5,5,15,4,11,0,0,0,0,0,0,0,0,0.81,111,76,0,0,0,408,410,36,30
+Wayne Brown,43,240883200,Premier League,2008/2009,Defender,Hull City,90,90,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,5,18,90,0,0,0,-1,-1,-1,17
+Wayne Brown,32,586828800,Premier League,2008/2009,Midfielder,Fulham,4,0,4,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,14
+Wayne Rooney,34,498960000,Premier League,2008/2009,Forward,Manchester United,2267,1096,1171,England,30,12,13,12,9,3,6,3,3,0,0,17,11,6,20,10,10,9,1,0.71,0.24,0.48,0.74,0.23,189,0.79,113,76,252,378,0.36,17,33,-1,2
+Wayne Routledge,35,473904000,Premier League,2008/2009,Midfielder,Aston Villa,17,0,17,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5.29,17,17,0,0,0,-1,-1,-1,17
+Wes Brown,40,308620800,Premier League,2008/2009,Defender,Manchester United,594,124,470,England,8,1,5,1,0,1,0,0,0,0,0,5,1,4,4,1,3,3,0,0.15,0,0.15,0,0.19,594,0.61,149,74,198,0,0.45,116,374,14,12
+William Gallas,43,240624000,Premier League,2008/2009,Defender,Arsenal,2070,1080,990,France,23,12,11,2,2,0,0,0,0,0,0,10,7,3,16,8,8,3,0,0.09,0,0.09,0.17,0,1035,0.7,129,90,690,0,0.13,167,331,25,12
+Wilson Roberto Palacios Suazo,36,459907200,Premier League,2008/2009,Midfielder,Tottenham Hotspur,2802,1309,1493,Honduras,32,15,17,0,0,0,2,1,1,0,0,11,8,3,32,8,24,13,1,0.06,0.06,0,0,0,0,1.03,88,88,216,1401,0.42,311,203,-1,15
+Wojciech Szczęsny,30,640396800,Premier League,2008/2009,Goalkeeper,Arsenal,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Won-Hee Cho,37,419385600,Premier League,2008/2009,Midfielder,Wigan Athletic,58,0,58,South Korea,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0,0,-1,-1,-1,13
+Xabi Alonso,38,375494400,Premier League,2008/2009,Midfielder,Liverpool,2562,1439,1123,Spain,33,16,11,4,0,4,3,2,1,1,0,18,11,7,20,11,9,5,0,0.25,0.11,0.14,0,0.32,641,0.7,128,78,512,854,0.18,126,135,-1,5
+Yakubu Aiyegbeni,37,406771200,Premier League,2008/2009,Forward,Everton,1129,620,509,Nigeria,14,7,7,4,2,2,1,0,1,0,1,3,1,2,18,11,7,2,0,0.4,0.08,0.32,0.29,0.35,282,1.43,63,81,565,1129,0.16,45,167,-1,8
+Yossi Shai Benayoun,40,326332800,Premier League,2008/2009,Midfielder,Liverpool,1889,1112,777,Israel,32,12,9,8,5,3,6,4,2,0,0,16,9,7,14,9,5,0,0,0.67,0.29,0.38,0.4,0.35,236,0.67,135,59,0,315,0,32,17,-1,4
+Younes Kaboul,34,505180800,Premier League,2008/2009,Defender,Portsmouth,1471,675,796,France,20,7,10,1,1,0,1,1,0,0,0,5,2,3,22,9,13,3,0,0.12,0.06,0.06,0.13,0,1471,1.35,67,74,490,1471,0.18,192,201,116,12
+Youssouf Chafiq Mulumbu Ngangu,33,538531200,Premier League,2008/2009,Midfielder,West Bromwich Albion,249,148,101,Congo DR,6,1,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,1,0,0,0,0,0,0,0,1.08,83,42,249,0,0.36,-1,-1,-1,16
+Zat Knight,40,326073600,Premier League,2008/2009,Defender,Aston Villa,1141,601,540,England,13,7,6,1,1,0,0,0,0,0,0,5,2,3,15,9,6,0,0,0.08,0,0.08,0.15,0,1141,1.18,76,88,0,0,0,175,364,88,13
+Zavon Hines,31,599184000,Premier League,2008/2009,Forward,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Zoltán Gera,41,293587200,Premier League,2008/2009,Forward,Fulham,1717,866,851,Hungary,32,11,9,2,2,0,0,0,0,0,0,13,6,7,20,7,13,2,0,0.1,0,0.1,0.21,0,859,1.05,86,54,859,0,0.1,151,316,-1,8
+Zoran Tošić,33,546566400,Premier League,2008/2009,Midfielder,Manchester United,15,0,15,Serbia,2,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,20
+Zurab Khizanishvili,38,371174400,Premier League,2008/2009,Defender,Blackburn Rovers,304,180,124,Georgia,5,2,1,0,0,0,0,0,0,0,0,0,0,0,7,4,3,4,0,0,0,0,0,0,0,2.07,43,61,76,0,1.18,266,272,172,15
+Łukasz Fabiański,35,482630400,Premier League,2008/2009,Goalkeeper,Arsenal,461,101,360,Poland,6,1,4,0,0,0,0,0,0,0,0,2,0,2,8,4,4,0,0,0,0,0,0,0,0,1.56,58,77,0,0,0,299,333,149,24

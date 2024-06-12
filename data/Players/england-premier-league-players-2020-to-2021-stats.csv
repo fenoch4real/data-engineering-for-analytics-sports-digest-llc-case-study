@@ -1,0 +1,487 @@
+full_name,age,birthday,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Aaron Anthony Connolly,20,949046400,Premier League,2020/2021,Forward,Brighton & Hove Albion,287,119,168,Republic of Ireland,5,1,2,1,0,1,1,0,1,0,0,1,0,1,7,4,3,0,0,0.63,0.31,0.31,0,0.54,287,2.2,41,57,0,287,0,35,22,-1,7
+Aaron Cresswell,30,629712000,Premier League,2020/2021,Defender,West Ham United,630,270,360,England,7,3,4,0,0,0,3,0,3,0,0,2,1,1,10,3,7,0,0,0.43,0.43,0,0,0,0,1.43,63,90,0,210,0,156,8,55,19
+Aaron Ramsdale,22,895129200,Premier League,2020/2021,Goalkeeper,Sheffield United,630,360,270,England,7,4,3,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,1.43,63,90,0,0,0,193,196,49,10
+Aaron Wan-Bissaka,22,880531200,Premier League,2020/2021,Midfielder,Manchester United,450,270,180,England,5,3,2,1,0,1,0,0,0,0,0,1,1,0,9,7,2,0,0,0.2,0,0.2,0,0.5,450,1.8,50,90,0,0,0,61,116,-1,5
+Abdoulaye Doucouré,27,725875200,Premier League,2020/2021,Midfielder,Everton,561,233,328,France,7,3,4,0,0,0,1,1,0,0,0,1,0,1,10,5,5,2,0,0.16,0.16,0,0,0,0,1.6,56,80,281,561,0.32,191,64,-1,20
+Aboubakar Kamara,25,794563200,Premier League,2020/2021,Forward,Fulham,219,138,81,France,5,1,1,0,0,0,0,0,0,0,0,0,0,0,8,4,4,2,1,0,0,0,0,0,0,3.29,27,44,73,0,1.23,-1,-1,-1,15
+Adam David Lallana,32,579250800,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,384,180,204,England,7,3,2,0,0,0,0,0,0,0,0,1,0,1,7,3,4,0,0,0,0,0,0,0,0,1.64,55,55,0,0,0,95,78,-1,17
+Adam Webster,25,789206400,Premier League,2020/2021,Defender,Brighton & Hove Albion,630,270,360,England,7,3,4,0,0,0,0,0,0,0,0,1,0,1,13,6,7,1,0,0,0,0,0,0,0,1.86,48,90,630,0,0.14,97,84,72,16
+Adama Traoré Diarra,24,822556800,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,311,134,177,Spain,7,1,2,0,0,0,0,0,0,0,0,4,2,2,5,3,2,0,0,0,0,0,0,0,0,1.45,62,44,0,0,0,94,91,-1,10
+Ademola Lookman,22,877330800,Premier League,2020/2021,Forward,Fulham,203,90,113,England,3,1,1,1,0,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0.44,0,0.44,0,0.8,203,1.33,68,68,0,0,0,-1,-1,-1,2
+Adrian Bernabe Garcia,19,990860400,Premier League,2020/2021,Midfielder,Manchester City,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adrián San Miguel del Castillo,33,536659200,Premier League,2020/2021,Goalkeeper,Liverpool,180,0,180,Spain,2,0,2,0,0,0,0,0,0,0,0,0,0,0,9,0,9,0,0,0,0,0,0,0,0,4.5,20,90,0,0,0,-1,-1,-1,12
+Ahmed Eissa El Mohamady Abdel Fattah,33,558169200,Premier League,2020/2021,Midfielder,Aston Villa,33,33,0,Egypt,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,-1,-1,-1,14
+Ahmed Hegazi,29,664790400,Premier League,2020/2021,Defender,West Bromwich Albion,90,90,0,Egypt,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,6
+Ainsley Maitland-Niles,23,872838000,Premier League,2020/2021,Midfielder,Arsenal,187,3,184,England,4,0,2,0,0,0,0,0,0,0,0,2,0,2,3,0,3,0,0,0,0,0,0,0,0,1.44,62,47,0,0,0,-1,-1,-1,14
+Aleksandar Mitrović,26,779698800,Premier League,2020/2021,Forward,Fulham,477,207,270,Serbia,6,2,3,2,0,2,0,0,0,1,1,0,0,0,11,5,6,1,0,0.38,0,0.38,0,0.67,239,2.08,43,80,477,0,0.19,27,162,-1,1
+Alex Iwobi,24,831106800,Premier League,2020/2021,Forward,Everton,159,96,63,Nigeria,6,0,1,0,0,0,1,1,0,0,0,0,0,0,4,1,3,0,0,0.57,0.57,0,0,0,0,2.26,40,27,0,159,0,-1,-1,-1,13
+Alex McCarthy,30,628675200,Premier League,2020/2021,Goalkeeper,Southampton,630,270,360,England,7,3,4,0,0,0,0,0,0,0,0,3,2,1,10,5,5,0,0,0,0,0,0,0,0,1.43,63,90,0,0,0,160,169,52,13
+Alex Nicolao Telles,27,724406400,Premier League,2020/2021,Defender,Manchester United,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Alexandre Lacazette,29,675414000,Premier League,2020/2021,Forward,Arsenal,425,167,258,France,6,2,3,3,1,2,0,0,0,0,0,2,0,2,4,2,2,1,0,0.64,0,0.64,0.54,0.7,142,0.85,106,71,425,0,0.21,14,170,-1,1
+Alexis Mac Allister,21,914486400,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,43,20,23,Argentina,3,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2.09,0,2.09,0,3.91,43,2.09,43,14,0,0,0,-1,-1,-1,2
+Alireza Jahanbakhsh,27,745052400,Premier League,2020/2021,Forward,Brighton & Hove Albion,27,27,0,Iran,3,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,3.33,3.33,0,0,0,0,0,0,9,27,27,3.33,-1,-1,-1,15
+Alisson Becker,28,718009200,Premier League,2020/2021,Goalkeeper,Liverpool,450,360,90,Brazil,5,4,1,0,0,0,0,0,0,0,0,1,0,1,6,6,0,0,0,0,0,0,0,0,0,1.2,75,90,0,0,0,143,140,32,13
+Allan,29,663321600,Premier League,2020/2021,Midfielder,Everton,540,180,360,Brazil,6,2,4,0,0,0,0,0,0,0,0,1,0,1,9,4,5,2,0,0,0,0,0,0,0,1.5,60,90,270,0,0.33,190,193,-1,21
+Allan Saint-Maximin,23,858153600,Premier League,2020/2021,Midfielder,Newcastle United,424,270,154,France,6,4,2,1,1,0,1,1,0,0,0,1,0,1,5,5,0,0,0,0.42,0.21,0.21,0.33,0,424,1.06,85,71,0,424,0,52,41,-1,4
+Alphonse Areola,27,730800000,Premier League,2020/2021,Goalkeeper,Fulham,450,180,270,France,5,2,3,0,0,0,0,0,0,0,0,0,0,0,11,5,6,0,0,0,0,0,0,0,0,2.2,41,90,0,0,0,165,163,87,12
+Andi Zeqiri,21,930034800,Premier League,2020/2021,Forward,Brighton & Hove Albion,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+André Filipe Tavares Gomes,27,744015600,Premier League,2020/2021,Midfielder,Everton,366,162,204,Portugal,5,2,3,0,0,0,0,0,0,0,0,1,0,1,5,3,2,1,0,0,0,0,0,0,0,1.23,73,73,366,0,0.25,192,194,-1,19
+André-Frank Zambo Anguissa,24,816508800,Premier League,2020/2021,Midfielder,Fulham,453,183,270,Cameroon,6,2,3,0,0,0,1,0,1,0,0,0,0,0,11,5,6,1,0,0.2,0.2,0,0,0,0,2.19,41,76,453,453,0.2,164,46,-1,13
+Andreas Christensen,24,829119600,Premier League,2020/2021,Defender,Chelsea,315,135,180,Denmark,4,2,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,2,1,0,0,0,0,0,0,1.71,53,79,105,0,0.86,136,127,68,21
+Andrew Robertson,26,763372800,Premier League,2020/2021,Defender,Liverpool,630,360,270,Scotland,7,4,3,1,1,0,2,1,1,0,0,1,0,1,15,6,9,0,0,0.43,0.29,0.14,0.25,0,630,2.14,42,90,0,315,0,88,29,84,4
+Andriy Yarmolenko,30,625129200,Premier League,2020/2021,Forward,West Ham United,97,61,36,Ukraine,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,2.78,32,19,97,0,0.93,-1,-1,-1,12
+Andros Townsend,29,679647600,Premier League,2020/2021,Midfielder,Crystal Palace,612,270,342,England,7,3,4,1,0,1,2,2,0,0,0,1,1,0,9,2,7,0,0,0.44,0.29,0.15,0,0.26,612,1.32,68,87,0,306,0,85,28,-1,4
+Andy Carroll,31,600076800,Premier League,2020/2021,Forward,Newcastle United,152,49,103,England,5,1,1,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,1.18,76,30,0,0,0,-1,-1,-1,11
+Angelo Ogbonna,32,580374000,Premier League,2020/2021,Defender,West Ham United,630,270,360,Italy,7,3,4,0,0,0,0,0,0,0,0,2,1,1,10,3,7,1,0,0,0,0,0,0,0,1.43,63,90,630,0,0.14,155,153,53,13
+Anthony Driscoll-Glennon,20,943603200,Premier League,2020/2021,Defender,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Anthony Gordon,19,983001600,Premier League,2020/2021,Midfielder,Everton,32,0,32,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,-1,-1,-1,11
+Anthony Knockaert,28,690624000,Premier League,2020/2021,Midfielder,Fulham,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Anthony Martial,24,818150400,Premier League,2020/2021,Forward,Manchester United,208,118,90,France,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,1,0,0,0,0,0,0,2.6,35,69,104,0,0.87,-1,-1,-1,14
+Antonee Robinson,23,871023600,Premier League,2020/2021,Defender,Fulham,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,7
+Antonio Rüdiger,27,731145600,Premier League,2020/2021,Defender,Chelsea,0,0,0,Germany,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Anwar El Ghazi,25,799484400,Premier League,2020/2021,Forward,Aston Villa,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Arthur Masuaku,26,752659200,Premier League,2020/2021,Defender,West Ham United,538,180,358,France,6,2,4,0,0,0,1,1,0,0,0,2,1,1,8,1,7,1,0,0.17,0.17,0,0,0,0,1.34,67,90,538,538,0.17,117,51,41,8
+Ashley Barnes,30,625737600,Premier League,2020/2021,Forward,Burnley,317,162,155,England,4,2,2,0,0,0,0,0,0,0,0,1,0,1,7,4,3,1,0,0,0,0,0,0,0,1.99,45,79,317,0,0.28,93,96,-1,5
+Ashley Westwood,30,638956800,Premier League,2020/2021,Midfielder,Burnley,540,270,270,England,6,3,3,1,0,1,0,0,0,0,0,1,0,1,12,5,7,1,0,0.17,0,0.17,0,0.33,540,2,45,90,540,0,0.17,63,120,-1,3
+Axel Tuanzebe,22,879494400,Premier League,2020/2021,Defender,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aymeric Laporte,26,770022000,Premier League,2020/2021,Defender,Manchester City,180,0,180,France,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,9
+Ayoze Perez,27,743929200,Premier League,2020/2021,Forward,Leicester City,283,216,67,Spain,4,3,1,0,0,0,0,0,0,0,0,1,0,1,3,3,0,1,0,0,0,0,0,0,0,0.95,94,71,283,0,0.32,221,203,-1,14
+Bailey Peacock-Farrell,23,846576000,Premier League,2020/2021,Goalkeeper,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bakayo Sako,0,0,Premier League,2020/2021,Midfielder,Arsenal,421,241,180,England,5,3,2,1,1,0,0,0,0,0,0,1,0,1,3,2,1,0,0,0.21,0,0.21,0.37,0,421,0.64,140,84,0,0,0,53,171,-1,4
+Ben Chilwell,23,851155200,Premier League,2020/2021,Defender,Chelsea,360,180,180,England,4,2,2,1,1,0,2,2,0,0,0,3,1,2,2,2,0,1,0,0.75,0.5,0.25,0.5,0,360,0.5,180,90,360,180,0.25,48,5,4,6
+Ben Davies,27,735634800,Premier League,2020/2021,Defender,Tottenham Hotspur,382,185,197,Wales,6,2,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.47,191,64,0,0,0,216,184,2,14
+Ben Godfrey,22,884851200,Premier League,2020/2021,Midfielder,Everton,149,59,90,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.81,50,75,0,0,0,-1,-1,-1,9
+Ben Osborn,26,776070000,Premier League,2020/2021,Midfielder,Sheffield United,325,145,180,England,5,2,2,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,1.38,65,65,0,0,0,202,134,-1,8
+Ben White,23,876294000,Premier League,2020/2021,Defender,Brighton & Hove Albion,619,259,360,England,7,3,4,0,0,0,0,0,0,0,0,1,0,1,13,6,7,1,0,0,0,0,0,0,0,1.89,48,88,619,0,0.15,101,82,74,18
+Benjamin Johnson,20,948700800,Premier League,2020/2021,Forward,West Ham United,41,41,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,-1,-1,-1,9
+Benjamin Mendy,26,774428400,Premier League,2020/2021,Defender,Manchester City,251,90,161,France,3,1,2,0,0,0,0,0,0,0,0,0,0,0,7,5,2,2,0,0,0,0,0,0,0,2.51,36,84,126,0,0.72,-1,-1,-1,21
+Bernard Anício Caldeira Duarte,28,715935600,Premier League,2020/2021,Midfielder,Everton,74,0,74,Brazil,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.22,74,37,74,0,1.22,-1,-1,-1,7
+Bernardo,25,800434800,Premier League,2020/2021,Defender,Brighton & Hove Albion,25,0,25,Brazil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3.6,25,25,0,0,0,-1,-1,-1,11
+Bernardo Silva,26,776502000,Premier League,2020/2021,Midfielder,Manchester City,273,90,183,Portugal,4,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.33,273,68,0,0,0,98,89,-1,12
+Bernd Leno,28,699696000,Premier League,2020/2021,Goalkeeper,Arsenal,630,270,360,Germany,7,3,4,0,0,0,0,0,0,0,0,2,0,2,7,3,4,0,0,0,0,0,0,0,0,1,90,90,0,0,0,166,164,20,11
+Bertrand Traoré,25,810370800,Premier League,2020/2021,Forward,Aston Villa,71,56,15,Burkina Faso,5,1,0,0,0,0,0,0,0,0,0,2,0,2,3,3,0,0,0,0,0,0,0,0,0,3.8,24,14,0,0,0,-1,-1,-1,17
+Billy Sharp,34,507974400,Premier League,2020/2021,Forward,Sheffield United,129,115,14,England,4,1,0,1,1,0,0,0,0,1,0,0,0,0,3,3,0,0,0,0.7,0,0.7,0.78,0,129,2.09,43,32,0,0,0,-1,-1,-1,1
+Bjorn Engels,26,779612400,Premier League,2020/2021,Defender,Aston Villa,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bobby Reid,27,728640000,Premier League,2020/2021,Midfielder,Fulham,223,110,113,England,5,1,1,1,0,1,0,0,0,0,0,0,0,0,4,3,1,1,0,0.4,0,0.4,0,0.8,223,1.61,56,45,223,0,0.4,-1,-1,-1,4
+Bobby Thomas,0,0,Premier League,2020/2021,Defender,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Brandon Williams,20,967964400,Premier League,2020/2021,Defender,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Branislav Ivanović,36,446284800,Premier League,2020/2021,Defender,West Bromwich Albion,180,90,90,Serbia,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,8
+Bruno Miguel Borges Fernandes,26,779007600,Premier League,2020/2021,Midfielder,Manchester United,481,301,180,Portugal,6,4,2,3,1,2,2,0,2,2,1,1,1,0,10,8,2,1,0,0.94,0.37,0.56,0.3,1,160,1.87,48,80,481,241,0.19,18,12,-1,1
+Caglar Söyüncü,24,832834800,Premier League,2020/2021,Defender,Leicester City,360,180,180,Turkey,4,2,2,0,0,0,0,0,0,0,0,1,0,1,7,5,2,1,0,0,0,0,0,0,0,1.75,51,90,360,0,0.25,219,222,69,20
+Callum Hudson-Odoi,19,973584000,Premier League,2020/2021,Midfielder,Chelsea,154,83,71,England,4,1,0,1,0,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0.58,0,0.58,0,1.27,154,0,0,39,0,0,0,-1,-1,-1,9
+Callum Robinson,25,791712000,Premier League,2020/2021,Forward,West Bromwich Albion,320,143,177,England,6,2,2,2,2,0,0,0,0,0,0,1,1,0,8,2,6,0,0,0.56,0,0.56,1.26,0,160,2.25,40,53,0,0,0,19,220,-1,1
+Callum Wilson,28,699177600,Premier League,2020/2021,Forward,Newcastle United,622,357,265,England,7,4,3,6,4,2,1,1,0,3,0,1,0,1,8,6,2,1,0,1.01,0.14,0.87,1.01,0.68,104,1.16,78,89,622,622,0.14,6,69,-1,1
+Caoimhin Kelleher,21,911808000,Premier League,2020/2021,Goalkeeper,Liverpool,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Carlos Vinícius Alves Morais,25,796118400,Premier League,2020/2021,Midfielder,Tottenham Hotspur,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cedric Kipre,23,850118400,Premier League,2020/2021,Defender,West Bromwich Albion,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cengiz Ünder,23,868863600,Premier League,2020/2021,Midfielder,Leicester City,50,35,15,Turkey,2,0,0,0,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,1.8,1.8,0,0,0,0,1.8,50,25,0,50,0,-1,-1,-1,11
+Cenk Tosun,29,676278000,Premier League,2020/2021,Forward,Everton,21,0,21,Turkey,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4.29,21,21,0,0,0,-1,-1,-1,23
+Cesar Azpilicueta,31,620290800,Premier League,2020/2021,Defender,Chelsea,319,180,139,Spain,5,2,1,0,0,0,1,0,1,0,0,2,1,1,2,2,0,1,0,0.28,0.28,0,0,0,0,0.56,160,64,319,319,0.28,132,32,6,22
+Charlie Austin,31,615625200,Premier League,2020/2021,Forward,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Charlie Taylor,27,748335600,Premier League,2020/2021,Defender,Burnley,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,12,5,7,1,0,0,0,0,0,0,0,2,45,90,540,0,0.17,112,131,78,15
+Che Adams,24,837241200,Premier League,2020/2021,Midfielder,Southampton,591,253,338,England,7,3,4,2,1,1,2,0,2,0,0,3,2,1,9,4,5,1,0,0.61,0.3,0.3,0.36,0.27,296,1.37,66,84,591,296,0.15,39,25,-1,3
+Cheikhou Kouyaté,30,630230400,Premier League,2020/2021,Midfielder,Crystal Palace,630,270,360,Senegal,7,3,4,1,1,0,0,0,0,0,0,1,1,0,9,2,7,0,0,0.14,0,0.14,0.33,0,630,1.29,70,90,0,0,0,89,177,-1,3
+Chris Basham,32,585385200,Premier League,2020/2021,Defender,Sheffield United,566,332,234,England,7,4,3,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,1.59,57,81,0,0,0,195,197,67,11
+Chris Wood,28,692092800,Premier League,2020/2021,Forward,Burnley,540,270,270,New Zealand,6,3,3,1,0,1,0,0,0,0,0,1,0,1,12,5,7,0,0,0.17,0,0.17,0,0.33,540,2,45,90,0,0,0,77,103,-1,1
+Christian Benteke,29,660211200,Premier League,2020/2021,Forward,Crystal Palace,16,10,6,Belgium,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,-1,-1,-1,8
+Christian Fuchs,34,513244800,Premier League,2020/2021,Defender,Leicester City,100,0,100,Austria,2,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0.9,100,50,100,0,0.9,-1,-1,-1,15
+Christian Pulisic,22,906102000,Premier League,2020/2021,Midfielder,Chelsea,175,94,81,USA,3,1,1,0,0,0,0,0,0,0,0,2,1,1,2,2,0,0,0,0,0,0,0,0,0,1.03,88,58,0,0,0,-1,-1,-1,12
+Ciaran Clark,31,622796400,Premier League,2020/2021,Defender,Newcastle United,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cole Palmer,18,1020668400,Premier League,2020/2021,Defender,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Conor Coady,27,730627200,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,630,360,270,England,7,4,3,0,0,0,0,0,0,0,0,4,2,2,6,3,3,1,0,0,0,0,0,0,0,0.86,105,90,630,0,0.14,120,100,-1,8
+Conor Gallagher,20,949824000,Premier League,2020/2021,Midfielder,West Bromwich Albion,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,7
+Conor Hourihane,29,665481600,Premier League,2020/2021,Midfielder,Aston Villa,138,62,76,Republic of Ireland,2,1,1,1,0,1,1,0,1,0,0,2,1,1,0,0,0,0,0,1.3,0.65,0.65,0,1.18,138,0,0,69,0,138,0,-1,-1,-1,6
+Conor Townsend,27,750063600,Premier League,2020/2021,Defender,West Bromwich Albion,360,180,180,England,4,2,2,0,0,0,0,0,0,0,0,1,1,0,5,2,3,0,0,0,0,0,0,0,0,1.25,72,90,0,0,0,135,132,36,10
+Curtis Jones,19,980841600,Premier League,2020/2021,Midfielder,Liverpool,123,94,29,England,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,2.2,41,41,0,0,0,-1,-1,-1,14
+Cyrus Christie,28,717836400,Premier League,2020/2021,Defender,Fulham,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dale Stephens,31,613638000,Premier League,2020/2021,Midfielder,Burnley,204,136,68,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.76,51,68,0,0,0,-1,-1,-1,4
+Damián Emiliano Martínez,28,715417200,Premier League,2020/2021,Goalkeeper,Aston Villa,540,360,180,Argentina,6,4,2,0,0,0,0,0,0,0,0,3,1,2,9,9,0,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,109,79,59,9
+Dan Burn,28,705394800,Premier League,2020/2021,Defender,Brighton & Hove Albion,294,90,204,England,4,1,2,0,0,0,0,0,0,0,0,1,0,1,4,1,3,1,0,0,0,0,0,0,0,1.22,74,74,294,0,0.31,104,130,34,9
+Dan Nlundulu,21,918201600,Premier League,2020/2021,Forward,Southampton,1,1,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,20
+Dani Ceballos,24,839401200,Premier League,2020/2021,Midfielder,Arsenal,393,261,132,Spain,6,3,1,0,0,0,1,1,0,0,0,1,0,1,4,2,2,1,0,0.23,0.23,0,0,0,0,0.92,98,66,393,393,0.23,173,38,-1,10
+Daniel Amartey,25,787996800,Premier League,2020/2021,Midfielder,Leicester City,145,55,90,Ghana,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,2.48,36,73,145,0,0.62,-1,-1,-1,12
+Daniel Castelo Podence,24,814258800,Premier League,2020/2021,Forward,Wolverhampton Wanderers,446,305,141,Portugal,6,4,2,1,1,0,2,1,1,0,0,4,2,2,2,2,0,0,0,0.61,0.4,0.2,0.3,0,446,0.4,223,74,0,223,0,58,11,-1,4
+Daniel James,22,879148800,Premier League,2020/2021,Midfielder,Manchester United,180,104,76,Wales,3,2,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,1,90,60,180,0,0.5,-1,-1,-1,16
+Daniel William John Ings,28,711874800,Premier League,2020/2021,Forward,Southampton,625,270,355,England,7,3,4,5,2,3,2,2,0,1,0,3,2,1,10,5,5,0,0,1.01,0.29,0.72,0.67,0.76,125,1.44,63,89,0,313,0,8,31,-1,1
+Danny Ward,27,740732400,Premier League,2020/2021,Goalkeeper,Leicester City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Welbeck,29,659606400,Premier League,2020/2021,Forward,Brighton & Hove Albion,16,0,16,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,-1,-1,-1,10
+Dara O'Shea,21,920534400,Premier League,2020/2021,Defender,West Bromwich Albion,360,180,180,Republic of Ireland,4,2,2,0,0,0,0,0,0,0,0,0,0,0,12,5,7,0,0,0,0,0,0,0,0,3,30,90,0,0,0,206,216,94,19
+Darnell Furlong,24,815126400,Premier League,2020/2021,Defender,West Bromwich Albion,429,249,180,England,5,3,2,0,0,0,1,1,0,0,0,1,1,0,9,3,6,1,0,0.21,0.21,0,0,0,0,1.89,48,86,429,429,0.21,214,40,75,20
+Darren Randolph,33,547801200,Premier League,2020/2021,Goalkeeper,West Ham United,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David Button,31,604569600,Premier League,2020/2021,Goalkeeper,West Bromwich Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+David de Gea,29,657964800,Premier League,2020/2021,Goalkeeper,Manchester United,540,360,180,Spain,6,4,2,0,0,0,0,0,0,0,0,1,1,0,12,10,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,131,113,80,11
+David Luiz,33,546073200,Premier League,2020/2021,Defender,Arsenal,320,140,180,Brazil,5,2,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.41,64,64,0,0,0,118,119,45,8
+David McGoldrick,32,565171200,Premier League,2020/2021,Forward,Sheffield United,301,166,135,Republic of Ireland,7,2,2,1,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0.3,0,0.3,0,0.67,301,0.6,151,43,0,0,0,40,181,-1,3
+Davinson Sánchez Mina,24,834562800,Premier League,2020/2021,Defender,Tottenham Hotspur,360,180,180,Colombia,4,2,2,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,186,189,21,17
+Davy Pröpper,29,683794800,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dean Henderson,23,858153600,Premier League,2020/2021,Goalkeeper,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+DeAndre Yedlin,27,742201200,Premier League,2020/2021,Defender,Newcastle United,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Declan Rice,21,916300800,Premier League,2020/2021,Midfielder,West Ham United,630,270,360,Republic of Ireland,7,3,4,0,0,0,0,0,0,0,0,2,1,1,10,3,7,1,0,0,0,0,0,0,0,1.43,63,90,630,0,0.14,158,179,-1,14
+Dele Alli,24,829206000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,67,46,21,England,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,-1,-1,-1,8
+Denis Odoi,32,580719600,Premier League,2020/2021,Defender,Fulham,270,180,90,Belgium,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,6,4,1,0,0,0,0,0,0,0,3.33,27,90,270,0,0.33,-1,-1,-1,14
+Dennis Praet,26,768898800,Premier League,2020/2021,Midfielder,Leicester City,355,151,204,Belgium,5,2,3,1,1,0,1,0,1,0,0,2,0,2,3,2,1,0,0,0.51,0.25,0.25,0.6,0,355,0.76,118,71,0,355,0,46,34,-1,3
+Diego Llorente,27,745484400,Premier League,2020/2021,Defender,Leeds United,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Diogo José Teixeira da Silva,23,849686400,Premier League,2020/2021,Midfielder,Liverpool,215,113,102,Portugal,5,1,1,3,3,0,0,0,0,0,0,0,0,0,9,1,8,0,0,1.26,0,1.26,2.39,0,72,3.77,24,43,0,0,0,-1,-1,-1,3
+Divock Origi,25,798188400,Premier League,2020/2021,Forward,Liverpool,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dominic Calvert-Lewin,23,858499200,Premier League,2020/2021,Forward,Everton,610,251,359,England,7,3,4,8,5,3,0,0,0,0,0,1,0,1,10,5,5,1,0,1.18,0,1.18,1.79,0.75,76,1.48,61,87,610,0,0.15,3,195,-1,1
+Donny van de Beek,23,861346800,Premier League,2020/2021,Midfielder,Manchester United,75,61,14,Netherlands,5,0,0,1,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,1.2,0,1.2,1.48,0,75,3.6,25,15,0,0,0,-1,-1,-1,3
+Douglas Luiz,22,894697200,Premier League,2020/2021,Midfielder,Aston Villa,527,350,177,Brazil,6,4,2,0,0,0,1,1,0,0,0,3,1,2,9,9,0,2,0,0.17,0.17,0,0,0,0,1.54,59,88,264,527,0.34,124,56,-1,11
+Dwight McNeil,20,943257600,Premier League,2020/2021,Forward,Burnley,540,270,270,England,6,3,3,0,0,0,1,0,1,0,0,1,0,1,12,5,7,1,0,0.17,0.17,0,0,0,0,2,45,90,540,540,0.17,110,58,-1,10
+Eberechi Eze,22,899103600,Premier League,2020/2021,Midfielder,Crystal Palace,228,84,144,Nigeria,6,1,1,0,0,0,0,0,0,0,0,1,1,0,7,2,5,0,0,0,0,0,0,0,0,2.76,33,38,0,0,0,-1,-1,-1,5
+Ederson,27,745570800,Premier League,2020/2021,Goalkeeper,Manchester City,540,180,360,Brazil,6,2,4,0,0,0,0,0,0,0,0,2,1,1,8,5,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,127,125,39,8
+Edinson Cavani,33,540288000,Premier League,2020/2021,Forward,Manchester United,47,47,0,Uruguay,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,-1,-1,-1,20
+Edouard Mendy,28,699436800,Premier League,2020/2021,Goalkeeper,Chelsea,270,90,180,France,3,1,2,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,13
+Edward Nketiah,21,928047600,Premier League,2020/2021,Forward,Arsenal,120,80,40,England,7,1,0,1,1,0,0,0,0,0,0,2,0,2,1,0,1,0,0,0.75,0,0.75,1.13,0,120,0.75,120,17,0,0,0,-1,-1,-1,5
+Elia Caprile,19,998722800,Premier League,2020/2021,Goalkeeper,Leeds United,0,0,0,Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ellis Simms,19,978681600,Premier League,2020/2021,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Emil Krafth,26,775810800,Premier League,2020/2021,Defender,Newcastle United,180,180,0,Sweden,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,0,0,0,0,0,0,0,1.5,60,90,180,0,0.5,-1,-1,-1,7
+Enda Stevens,30,647506800,Premier League,2020/2021,Defender,Sheffield United,630,360,270,Republic of Ireland,7,4,3,0,0,0,0,0,0,0,0,0,0,0,10,5,5,1,0,0,0,0,0,0,0,1.43,63,90,630,0,0.14,196,198,48,18
+Eric Bertrand Bailly,26,766134000,Premier League,2020/2021,Defender,Manchester United,98,90,8,Côte d'Ivoire,2,1,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,1,0,0,0,0,0,0,0,5.51,16,49,98,0,0.92,-1,-1,-1,8
+Eric Dier,26,758620800,Premier League,2020/2021,Midfielder,Tottenham Hotspur,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,4,2,2,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,194,186,-1,9
+Eric García Martret,19,979027200,Premier League,2020/2021,Defender,Manchester City,180,90,90,Spain,2,1,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,16
+Erik Lamela,28,699696000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,189,81,108,Argentina,5,1,1,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0.95,95,38,189,0,0.48,-1,-1,-1,15
+Erik Pieters,32,586940400,Premier League,2020/2021,Defender,Burnley,140,0,140,Netherlands,2,0,1,0,0,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,0,0,1.93,47,70,0,0,0,-1,-1,-1,9
+Ethan Ampadu,20,968914800,Premier League,2020/2021,Midfielder,Sheffield United,304,155,149,Wales,4,2,1,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,1.48,61,76,0,0,0,201,115,-1,9
+Ezdzhan Alioski,28,697881600,Premier League,2020/2021,Forward,Leeds United,156,66,90,FYR Macedonia,4,1,1,0,0,0,0,0,0,0,0,2,0,2,1,1,0,0,0,0,0,0,0,0,0,0.58,156,39,0,0,0,-1,-1,-1,8
+Ezri Konsa Ngoyo,22,891846000,Premier League,2020/2021,Midfielder,Aston Villa,540,360,180,England,6,4,2,1,1,0,0,0,0,0,0,3,1,2,9,9,0,0,0,0.17,0,0.17,0.25,0,540,1.5,60,90,0,0,0,68,94,-1,7
+Fabián Cornelio Balbuena González,29,682930800,Premier League,2020/2021,Defender,West Ham United,450,180,270,Paraguay,5,2,3,1,0,1,0,0,0,0,0,2,1,1,6,1,5,1,0,0.2,0,0.2,0,0.33,450,1.2,75,90,450,0,0.2,55,180,31,5
+Fabian Delph,30,627638400,Premier League,2020/2021,Midfielder,Everton,154,32,122,England,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.17,77,51,0,0,0,-1,-1,-1,12
+Fabian Schär,28,693216000,Premier League,2020/2021,Defender,Newcastle United,276,186,90,Switzerland,4,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0.65,138,69,0,0,0,103,88,8,19
+Fabinho,26,751359600,Premier League,2020/2021,Midfielder,Liverpool,481,211,270,Brazil,6,2,3,0,0,0,0,0,0,0,0,1,0,1,12,3,9,1,0,0,0,0,0,0,0,2.25,40,80,481,0,0.19,148,137,-1,15
+Fábio Daniel Soares Silva,18,1027062000,Premier League,2020/2021,Forward,Wolverhampton Wanderers,40,12,28,Portugal,3,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,2.25,40,13,0,0,0,-1,-1,-1,15
+Federico Fernández,31,604051200,Premier League,2020/2021,Defender,Newcastle United,630,360,270,Argentina,7,4,3,0,0,0,0,0,0,0,0,1,0,1,8,6,2,0,0,0,0,0,0,0,0,1.14,79,90,0,0,0,161,206,25,13
+Felipe Anderson Pereira Gomes,27,734857200,Premier League,2020/2021,Midfielder,West Ham United,1,1,0,Brazil,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,10
+Fernando Luiz Rosa,35,484038000,Premier League,2020/2021,Midfielder,Manchester City,155,52,103,Brazil,4,1,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,0,0,0,0,0,0,0,1.16,78,39,0,0,0,-1,-1,-1,19
+Fernando Marçal,31,603878400,Premier League,2020/2021,Defender,Wolverhampton Wanderers,121,30,91,Brazil,4,1,1,0,0,0,0,0,0,0,0,2,0,2,1,1,0,1,0,0,0,0,0,0,0,0.74,121,30,121,0,0.74,-1,-1,-1,11
+Ferrán Torres García,20,951811200,Premier League,2020/2021,Forward,Manchester City,180,26,154,Spain,4,0,2,0,0,0,1,0,1,0,0,1,0,1,3,2,1,0,0,0.5,0.5,0,0,0,0,1.5,60,45,0,180,0,-1,-1,-1,15
+Fikayo Tomori,22,882518400,Premier League,2020/2021,Defender,Chelsea,44,44,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,4.09,22,44,0,0,0,-1,-1,-1,11
+Filip Krovinović,25,809679600,Premier League,2020/2021,Midfielder,West Bromwich Albion,195,79,116,Croatia,3,1,1,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.92,98,65,0,0,0,-1,-1,-1,9
+Fraser Forster,32,574588800,Premier League,2020/2021,Goalkeeper,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Frederico Rodrigues Santos,27,731318400,Premier League,2020/2021,Midfielder,Manchester United,290,196,94,Brazil,5,2,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,2,0,0,0,0,0,0,0,0.93,97,58,145,0,0.62,108,112,-1,9
+Gabriel dos Santos Magalhães,22,882518400,Premier League,2020/2021,Defender,Arsenal,540,270,270,Brazil,6,3,3,1,0,1,0,0,0,0,0,2,0,2,4,3,1,1,0,0.17,0,0.17,0,0.33,540,0.67,135,90,540,0,0.17,70,167,9,3
+Gabriel Jesus,23,860054400,Premier League,2020/2021,Forward,Manchester City,90,0,90,Brazil,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,90,1,90,90,90,0,1,-1,-1,-1,5
+Gareth Bale,31,616575600,Premier League,2020/2021,Forward,Tottenham Hotspur,38,38,0,Wales,2,0,0,1,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2.37,0,2.37,2.37,0,38,4.74,19,19,0,0,0,-1,-1,-1,5
+Gary Cahill,34,503827200,Premier League,2020/2021,Defender,Crystal Palace,90,90,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,7
+Gedson Carvalho Fernandes,21,915868800,Premier League,2020/2021,Midfielder,Tottenham Hotspur,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+George Baldock,27,731664000,Premier League,2020/2021,Defender,Sheffield United,630,360,270,England,7,4,3,0,0,0,1,0,1,0,0,0,0,0,10,5,5,1,0,0.14,0.14,0,0,0,0,1.43,63,90,630,630,0.14,197,70,47,17
+Georginio Wijnaldum,29,658310400,Premier League,2020/2021,Midfielder,Liverpool,540,360,180,Netherlands,7,4,2,0,0,0,0,0,0,0,0,1,0,1,13,6,7,0,0,0,0,0,0,0,0,2.17,42,77,0,0,0,146,143,-1,18
+Giovani Lo Celso,24,829033200,Premier League,2020/2021,Midfielder,Tottenham Hotspur,158,103,55,Argentina,4,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,40,158,0,0.57,-1,-1,-1,18
+Grady Diangana,22,892969200,Premier League,2020/2021,Midfielder,West Bromwich Albion,479,254,225,England,6,3,3,1,0,1,0,0,0,0,0,1,1,0,13,5,8,0,0,0.19,0,0.19,0,0.4,479,2.44,37,80,0,0,0,62,219,-1,4
+Granit Xhaka,28,717577200,Premier League,2020/2021,Midfielder,Arsenal,410,189,221,Switzerland,6,2,3,0,0,0,0,0,0,0,0,1,0,1,6,3,3,1,0,0,0,0,0,0,0,1.32,68,68,410,0,0.22,170,159,-1,16
+Gylfi Sigurdsson,31,621241200,Premier League,2020/2021,Midfielder,Everton,317,133,184,Iceland,7,1,2,0,0,0,1,1,0,0,0,1,0,1,5,1,4,0,0,0.28,0.28,0,0,0,0,1.42,63,45,0,317,0,184,33,-1,14
+Hakim Ziyech,27,732528000,Premier League,2020/2021,Midfielder,Chelsea,100,18,82,Morocco,3,0,1,1,0,1,1,0,1,0,0,2,0,2,0,0,0,0,0,1.8,0.9,0.9,0,1.1,100,0,0,33,0,100,0,-1,-1,-1,4
+Hal Robson-Kanu,31,611737200,Premier League,2020/2021,Forward,West Bromwich Albion,84,54,30,Wales,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,4.29,21,28,0,0,0,-1,-1,-1,22
+Hamza Choudhury,23,875689200,Premier League,2020/2021,Midfielder,Leicester City,13,13,0,England,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,9
+Harrison Reed,25,791193600,Premier League,2020/2021,Midfielder,Fulham,171,101,70,England,3,1,1,0,0,0,1,1,0,0,0,0,0,0,7,3,4,0,0,0.53,0.53,0,0,0,0,3.68,24,57,0,171,0,-1,-1,-1,17
+Harry Kane,27,743842800,Premier League,2020/2021,Forward,Tottenham Hotspur,624,360,264,England,7,4,3,6,3,3,8,2,6,2,0,1,0,1,6,4,2,0,0,2.02,1.15,0.87,0.75,1.02,104,0.87,104,89,0,78,0,7,1,-1,2
+Harry Maguire,27,731318400,Premier League,2020/2021,Defender,Manchester United,540,360,180,England,6,4,2,1,0,1,0,0,0,0,0,1,1,0,12,10,2,2,0,0.17,0,0.17,0,0.5,540,2,45,90,270,0,0.33,64,108,81,4
+Harry Winks,24,823248000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,257,167,90,England,4,2,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,1,0,0,0,0,0,0,0,1.4,64,64,257,0,0.35,-1,-1,-1,10
+Harvey Lewis Barnes,22,881654400,Premier League,2020/2021,Midfielder,Leicester City,525,270,255,England,6,3,3,1,1,0,1,1,0,0,0,2,0,2,7,5,2,0,0,0.34,0.17,0.17,0.33,0,525,1.2,75,88,0,525,0,75,54,-1,5
+Hector Bellerin,25,795600000,Premier League,2020/2021,Defender,Arsenal,630,270,360,Spain,7,3,4,0,0,0,2,2,0,0,0,2,0,2,7,3,4,3,0,0.29,0.29,0,0,0,0,1,90,90,210,315,0.43,167,30,19,12
+Hélder Wander Sousa Azevedo Costa,26,758361600,Premier League,2020/2021,Midfielder,Leeds United,490,251,239,Portugal,6,3,3,2,2,0,2,0,2,0,0,2,0,2,9,5,4,0,0,0.73,0.37,0.37,0.72,0,245,1.65,54,82,0,245,0,28,13,-1,2
+Heung-Min Son,28,710578800,Premier League,2020/2021,Forward,Tottenham Hotspur,554,301,253,South Korea,7,4,3,8,1,7,2,1,1,0,0,1,0,1,4,2,2,0,0,1.62,0.32,1.3,0.3,2.49,69,0.65,139,79,0,277,0,2,21,-1,1
+Hugo Lloris,33,535968000,Premier League,2020/2021,Goalkeeper,Tottenham Hotspur,630,360,270,France,7,4,3,0,0,0,0,0,0,0,0,1,0,1,6,4,2,0,0,0,0,0,0,0,0,0.86,105,90,0,0,0,222,192,15,20
+Ian Poveda,20,950083200,Premier League,2020/2021,Midfielder,Leeds United,87,63,24,England,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,-1,-1,-1,9
+Ibrahima Diallo,21,920880000,Premier League,2020/2021,Midfielder,Southampton,18,4,14,France,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,18,0,5,-1,-1,-1,7
+İlkay Gündoğan,29,656751600,Premier League,2020/2021,Midfielder,Manchester City,120,25,95,Germany,3,0,1,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.75,120,40,0,0,0,-1,-1,-1,22
+Illan Meslier,20,951984000,Premier League,2020/2021,Goalkeeper,Leeds United,540,270,270,France,6,3,3,0,0,0,0,0,0,0,0,2,0,2,9,5,4,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,140,146,64,11
+Isaac Hayden,25,795859200,Premier League,2020/2021,Midfielder,Newcastle United,416,236,180,England,6,3,2,0,0,0,0,0,0,0,0,1,0,1,6,5,1,2,0,0,0,0,0,0,0,1.3,69,69,208,0,0.43,209,211,-1,14
+Islam Slimani,32,582620400,Premier League,2020/2021,Forward,Leicester City,19,19,0,Algeria,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,21
+Issa Diop,23,852796800,Premier League,2020/2021,Defender,West Ham United,180,90,90,France,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,17
+Ivan Ricardo Neves Abreu Cavaleiro,26,750927600,Premier League,2020/2021,Forward,Fulham,427,180,247,Portugal,5,2,3,0,0,0,0,0,0,0,0,0,0,0,12,6,6,1,0,0,0,0,0,0,0,2.53,36,85,427,0,0.21,163,161,-1,16
+Jack Grealish,25,810716400,Premier League,2020/2021,Midfielder,Aston Villa,540,360,180,England,6,4,2,4,3,1,4,4,0,0,0,3,1,2,9,9,0,1,0,1.33,0.67,0.67,0.75,0.5,135,1.5,60,90,540,135,0.17,12,2,-1,1
+Jack Harrison,23,848476800,Premier League,2020/2021,Midfielder,Leeds United,442,172,270,England,5,2,3,1,0,1,1,0,1,0,0,2,0,2,8,4,4,0,0,0.41,0.2,0.2,0,0.33,442,1.63,55,88,0,442,0,56,44,-1,4
+Jack O'Connell,26,764928000,Premier League,2020/2021,Defender,Sheffield United,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,15
+Jack Robinson,27,746866800,Premier League,2020/2021,Defender,Sheffield United,251,161,90,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.43,63,84,0,0,0,-1,-1,-1,6
+Jack Stephens,26,759657600,Premier League,2020/2021,Defender,Southampton,224,90,134,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,7,5,2,1,0,0,0,0,0,0,0,2.81,32,75,224,0,0.4,-1,-1,-1,19
+Jacob Murphy,25,793612800,Premier League,2020/2021,Midfielder,Newcastle United,196,90,106,England,3,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0.46,0,0.46,0,0.85,196,0.46,196,65,196,0,0.46,-1,-1,-1,2
+Jacob Ramsey,19,991033200,Premier League,2020/2021,Midfielder,Aston Villa,14,0,14,England,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,-1,-1,-1,16
+Jaïro Riedewald,24,842252400,Premier League,2020/2021,Defender,Crystal Palace,285,92,193,Netherlands,5,1,2,1,0,1,0,0,0,0,0,0,0,0,4,0,4,0,0,0.32,0,0.32,0,0.47,285,1.26,71,57,0,0,0,34,126,37,2
+Jake Livermore,30,627033600,Premier League,2020/2021,Midfielder,West Bromwich Albion,513,270,243,England,6,3,3,0,0,0,0,0,0,0,0,1,1,0,13,5,8,2,0,0,0,0,0,0,0,2.28,39,86,257,0,0.35,215,217,-1,18
+Jake Vokins,20,953280000,Premier League,2020/2021,Defender,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jamal Lascelles,26,753004800,Premier League,2020/2021,Defender,Newcastle United,538,270,268,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,7,5,2,1,0,0,0,0,0,0,0,1.17,77,90,538,0,0.17,182,207,28,18
+Jamal Lewis,22,885715200,Premier League,2020/2021,Midfielder,Newcastle United,561,360,201,Northern Ireland,7,4,2,0,0,0,0,0,0,0,0,1,0,1,7,6,1,3,0,0,0,0,0,0,0,1.12,80,80,187,0,0.48,207,209,-1,16
+James Justin,21,931676400,Premier League,2020/2021,Midfielder,Leicester City,540,270,270,England,6,3,3,1,1,0,0,0,0,0,0,2,0,2,7,5,2,1,0,0.17,0,0.17,0.33,0,540,1.17,77,90,540,0,0.17,73,223,-1,2
+James Maddison,23,848736000,Premier League,2020/2021,Midfielder,Leicester City,171,50,121,England,5,0,1,1,0,1,0,0,0,0,0,2,0,2,2,1,1,1,0,0.53,0,0.53,0,0.74,171,1.05,86,34,171,0,0.53,-1,-1,-1,7
+James McArthur,33,560588400,Premier League,2020/2021,Midfielder,Crystal Palace,430,268,162,Scotland,5,3,2,0,0,0,0,0,0,0,0,1,1,0,5,2,3,2,0,0,0,0,0,0,0,1.05,86,86,215,0,0.42,178,175,-1,16
+James McCarthy,29,658396800,Premier League,2020/2021,Midfielder,Crystal Palace,319,164,155,Republic of Ireland,4,2,2,0,0,0,0,0,0,0,0,1,1,0,5,2,3,1,0,0,0,0,0,0,0,1.41,64,80,319,0,0.28,179,176,-1,15
+James Milner,34,505209600,Premier League,2020/2021,Midfielder,Liverpool,66,18,48,England,5,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.36,66,13,0,0,0,-1,-1,-1,11
+James Rodriguez,29,679302000,Premier League,2020/2021,Midfielder,Everton,512,246,266,Colombia,6,3,3,3,3,0,3,3,0,0,0,1,0,1,8,5,3,1,0,1.05,0.53,0.53,1.1,0,171,1.41,64,85,512,171,0.18,20,4,-1,2
+James Tarkowski,27,722160000,Premier League,2020/2021,Defender,Burnley,360,180,180,England,4,2,2,0,0,0,0,0,0,0,0,1,0,1,7,4,3,1,0,0,0,0,0,0,0,1.75,51,90,360,0,0.25,99,95,70,6
+James Trafford,0,0,Premier League,2020/2021,Goalkeeper,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Ward-Prowse,25,783676800,Premier League,2020/2021,Midfielder,Southampton,630,270,360,England,7,3,4,3,1,2,1,0,1,0,0,3,2,1,10,5,5,1,0,0.57,0.14,0.43,0.33,0.5,210,1.43,63,90,630,630,0.14,26,72,-1,2
+Jamie Shackelton,21,939366000,Premier League,2020/2021,Midfielder,Leeds United,78,0,78,England,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.15,78,39,0,0,0,-1,-1,-1,10
+Jamie Vardy,33,537350400,Premier League,2020/2021,Forward,Leicester City,385,180,205,England,5,2,2,6,0,6,0,0,0,4,0,2,0,2,7,5,2,0,0,1.4,0,1.4,0,2.63,64,1.64,55,77,0,0,0,1,215,-1,1
+Jan Bednarek,24,829292400,Premier League,2020/2021,Defender,Southampton,542,270,272,Poland,7,3,4,0,0,0,0,0,0,0,0,3,2,1,9,5,4,0,0,0,0,0,0,0,0,1.49,60,77,0,0,0,159,147,58,18
+Jannik Vestergaard,28,712825200,Premier League,2020/2021,Defender,Southampton,494,180,314,Denmark,6,2,3,2,0,2,0,0,0,0,0,3,2,1,4,0,4,0,0,0.36,0,0.36,0,0.57,247,0.73,124,82,0,0,0,29,139,10,4
+Jarrad Branthwaite,18,1025161200,Premier League,2020/2021,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jarrod Bowen,23,851068800,Premier League,2020/2021,Forward,West Ham United,596,246,350,England,7,3,4,3,2,1,0,0,0,0,0,2,1,1,9,3,6,0,0,0.45,0,0.45,0.73,0.26,199,1.36,66,85,0,0,0,23,158,-1,2
+Jason Steele,30,650962800,Premier League,2020/2021,Goalkeeper,Brighton & Hove Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Javier Manquillo Gaitán,26,768121200,Premier League,2020/2021,Defender,Newcastle United,305,125,180,Spain,4,1,2,0,0,0,0,0,0,0,0,1,0,1,5,4,1,1,0,0,0,0,0,0,0,1.48,61,76,305,0,0.3,205,208,57,17
+Jay Rodriguez,31,617698800,Premier League,2020/2021,Forward,Burnley,133,50,83,England,4,0,1,0,0,0,0,0,0,0,0,1,0,1,5,2,3,1,0,0,0,0,0,0,0,3.38,27,33,133,0,0.68,-1,-1,-1,11
+Jayson Molumby,21,933922800,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jed Steer,28,717145200,Premier League,2020/2021,Goalkeeper,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jeff Hendrick,28,696844800,Premier League,2020/2021,Midfielder,Newcastle United,612,358,254,Republic of Ireland,7,4,3,1,0,1,1,0,1,0,0,1,0,1,8,6,2,0,0,0.29,0.15,0.15,0,0.35,612,1.18,77,87,0,612,0,83,65,-1,3
+Jeffrey Schlupp,27,725097600,Premier League,2020/2021,Defender,Crystal Palace,385,169,216,Ghana,5,2,3,0,0,0,1,0,1,0,0,1,1,0,2,0,2,1,0,0.23,0.23,0,0,0,0,0.47,193,77,385,385,0.23,176,39,3,18
+Jesse Lingard,27,724406400,Premier League,2020/2021,Midfielder,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jimmy Dunne,22,877244400,Premier League,2020/2021,Defender,Burnley,180,90,90,Republic of Ireland,2,1,1,1,0,1,0,0,0,0,0,0,0,0,5,1,4,0,0,0.5,0,0.5,0,1,180,2.5,36,90,0,0,0,-1,-1,-1,2
+João Cancelo,26,770022000,Premier League,2020/2021,Defender,Manchester City,270,90,180,Portugal,3,1,2,0,0,0,1,0,1,0,0,2,1,1,1,0,1,1,0,0.33,0.33,0,0,0,0,0.33,270,90,270,270,0.33,-1,-1,-1,11
+João Manuel Neves Virginia,21,939538800,Premier League,2020/2021,Goalkeeper,Everton,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+João Moutinho,34,526546800,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,359,118,241,Portugal,7,1,3,0,0,0,0,0,0,0,0,4,2,2,6,3,3,1,0,0,0,0,0,0,0,1.5,60,51,359,0,0.25,137,99,-1,6
+Joe Bryan,27,748249200,Premier League,2020/2021,Defender,Fulham,337,180,157,England,4,2,2,0,0,0,0,0,0,0,0,0,0,0,11,6,5,1,0,0,0,0,0,0,0,2.94,31,84,337,0,0.27,185,188,92,20
+Joe Gomez,23,864370800,Premier League,2020/2021,Defender,Liverpool,500,360,140,England,6,4,1,0,0,0,0,0,0,0,0,0,0,0,13,6,7,0,0,0,0,0,0,0,0,2.34,38,83,0,0,0,144,142,89,20
+Joe Hart,33,545814000,Premier League,2020/2021,Goalkeeper,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joe Rodon,22,877503600,Premier League,2020/2021,Defender,Tottenham Hotspur,0,0,0,Wales,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Matip,29,681634800,Premier League,2020/2021,Defender,Liverpool,91,1,90,Cameroon,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.98,46,46,0,0,0,-1,-1,-1,7
+Joël Veltman,28,695462400,Premier League,2020/2021,Defender,Brighton & Hove Albion,224,90,134,Netherlands,3,1,1,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,2.01,45,75,0,0,0,-1,-1,-1,12
+Joel Ward,30,625647600,Premier League,2020/2021,Defender,Crystal Palace,450,270,180,England,5,3,2,0,0,0,0,0,0,0,0,1,1,0,7,2,5,2,0,0,0,0,0,0,0,1.4,64,90,225,0,0.4,175,173,44,19
+Joelinton Cassio Apolinário de Lira,24,840006000,Premier League,2020/2021,Forward,Newcastle United,298,181,117,Brazil,6,2,1,0,0,0,0,0,0,0,0,1,0,1,5,3,2,2,0,0,0,0,0,0,0,1.51,60,50,149,0,0.6,210,212,-1,12
+Johann Berg Guðmunds­son,29,657010800,Premier League,2020/2021,Midfielder,Burnley,175,84,91,Iceland,3,1,1,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,1.03,88,58,0,0,0,-1,-1,-1,18
+John Egan,27,719564400,Premier League,2020/2021,Defender,Sheffield United,462,270,192,Republic of Ireland,6,3,3,0,0,0,0,0,0,0,0,0,0,0,8,4,4,2,1,0,0,0,0,0,0,1.56,58,77,154,0,0.58,198,199,66,16
+John Fleck,29,683017200,Premier League,2020/2021,Midfielder,Sheffield United,180,90,90,Scotland,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.5,60,60,0,0,0,-1,-1,-1,14
+John Lundstram,26,761558400,Premier League,2020/2021,Midfielder,Sheffield United,535,279,256,England,7,3,3,0,0,0,0,0,0,0,1,0,0,0,8,3,5,3,0,0,0,0,0,0,0,1.35,67,76,178,0,0.5,199,200,-1,12
+John McGinn,25,782463600,Premier League,2020/2021,Midfielder,Aston Villa,540,360,180,Scotland,6,4,2,1,1,0,4,1,3,0,0,3,1,2,9,9,0,3,0,0.83,0.67,0.17,0.25,0,540,1.5,60,90,180,135,0.5,76,3,-1,5
+John Ruddy,33,530521200,Premier League,2020/2021,Goalkeeper,Wolverhampton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+John Stones,26,770108400,Premier League,2020/2021,Defender,Manchester City,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,20
+Jonas Lössl,31,602323200,Premier League,2020/2021,Goalkeeper,Everton,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonjo Shelvey,28,699177600,Premier League,2020/2021,Midfielder,Newcastle United,432,252,180,England,5,3,2,0,0,0,0,0,0,0,0,1,0,1,6,5,1,2,0,0,0,0,0,0,0,1.25,72,86,216,0,0.42,208,210,-1,15
+Jonjoe Kenny,23,858412800,Premier League,2020/2021,Defender,Everton,77,0,77,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.17,77,77,0,0,0,-1,-1,-1,15
+Jonny Evans,32,568195200,Premier League,2020/2021,Defender,Leicester City,350,180,170,Northern Ireland,4,2,2,0,0,0,0,0,0,0,0,1,0,1,4,3,1,3,0,0,0,0,0,0,0,1.03,88,88,117,0,0.77,107,81,23,13
+Jordan Ayew,29,684572400,Premier League,2020/2021,Forward,Crystal Palace,361,172,189,Ghana,5,2,2,0,0,0,0,0,0,0,0,1,1,0,7,2,5,0,0,0,0,0,0,0,0,1.75,52,72,0,0,0,180,178,-1,14
+Jordan Henderson,30,645606000,Premier League,2020/2021,Midfielder,Liverpool,382,246,136,England,5,3,2,0,0,0,0,0,0,0,0,1,0,1,6,4,2,0,0,0,0,0,0,0,0,1.41,64,76,0,0,0,147,144,-1,17
+Jordan Pickford,26,763027200,Premier League,2020/2021,Goalkeeper,Everton,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,8,5,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,187,190,40,6
+Jorginho,28,693216000,Premier League,2020/2021,Midfielder,Chelsea,438,259,179,Italy,6,3,2,3,2,1,1,0,1,3,1,3,1,2,5,4,1,0,0,0.82,0.21,0.62,0.69,0.5,146,1.03,88,73,0,438,0,15,43,-1,2
+Joseph Willock,21,935132400,Premier League,2020/2021,Midfielder,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Josh Benson,20,944380800,Premier League,2020/2021,Midfielder,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Josh Brownhill,24,819360000,Premier League,2020/2021,Midfielder,Burnley,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,12,5,7,1,0,0,0,0,0,0,0,2,45,90,540,0,0.17,111,104,-1,13
+Josh Onomah,23,862124400,Premier League,2020/2021,Forward,Fulham,133,75,58,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,0,4.74,19,67,0,0,0,-1,-1,-1,18
+Juan Mata,32,578214000,Premier League,2020/2021,Midfielder,Manchester United,148,58,90,Spain,2,1,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0.61,0.61,0,0,0,0,0.61,148,74,0,148,0,-1,-1,-1,6
+Kai Havertz,21,929084400,Premier League,2020/2021,Midfielder,Chelsea,554,226,328,Germany,7,3,4,1,1,0,1,0,1,0,0,3,1,2,6,2,4,1,0,0.32,0.16,0.16,0.4,0,554,0.97,92,79,554,554,0.16,79,62,-1,8
+Kalvin Phillips,24,817891200,Premier League,2020/2021,Midfielder,Leeds United,450,270,180,England,5,3,2,0,0,0,1,0,1,0,0,1,0,1,9,5,4,2,0,0.2,0.2,0,0,0,0,1.8,50,90,225,450,0.4,153,45,-1,14
+Kamil Grosicki,32,581756400,Premier League,2020/2021,Forward,West Bromwich Albion,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Karl Darlow,30,655369200,Premier League,2020/2021,Goalkeeper,Newcastle United,630,360,270,England,7,4,3,0,0,0,0,0,0,0,0,1,0,1,8,6,2,0,0,0,0,0,0,0,0,1.14,79,90,0,0,0,181,204,24,5
+Karlan Ahearne-Grant,22,882518400,Premier League,2020/2021,Forward,West Bromwich Albion,157,73,84,England,2,1,1,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0.57,0,0.57,0,1.07,157,0.57,157,79,0,0,0,-1,-1,-1,2
+Karlo Ziger,19,989564400,Premier League,2020/2021,Goalkeeper,Chelsea,0,0,0,Croatia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kasper Schmeichel,33,531561600,Premier League,2020/2021,Goalkeeper,Leicester City,540,270,270,Denmark,6,3,3,0,0,0,0,0,0,0,0,2,0,2,7,5,2,0,0,0,0,0,0,0,0,1.17,77,90,0,0,0,218,221,27,8
+Keinan Davis,22,887356800,Premier League,2020/2021,Midfielder,Aston Villa,28,28,0,England,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,-1,-1,-1,13
+Kelechi Iheanacho,24,844326000,Premier League,2020/2021,Forward,Leicester City,102,97,5,Nigeria,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.88,102,34,0,0,0,-1,-1,-1,16
+Kenny Tete,25,813222000,Premier League,2020/2021,Defender,Fulham,129,39,90,Netherlands,2,1,1,0,0,0,1,0,1,0,0,0,0,0,6,2,4,1,0,0.7,0.7,0,0,0,0,4.19,22,65,129,129,0.7,-1,-1,-1,9
+Kepa Arrizabalaga,26,781167600,Premier League,2020/2021,Goalkeeper,Chelsea,270,180,90,Spain,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,15
+Kevin De Bruyne,29,678092400,Premier League,2020/2021,Midfielder,Manchester City,382,90,292,Belgium,5,1,3,1,0,1,2,0,2,1,0,1,0,1,7,5,2,0,0,0.71,0.47,0.24,0,0.31,382,1.65,55,76,0,191,0,49,6,-1,3
+Kevin Long,30,650962800,Premier League,2020/2021,Defender,Burnley,540,270,270,Republic of Ireland,6,3,3,0,0,0,0,0,0,0,0,1,0,1,12,5,7,2,0,0,0,0,0,0,0,2,45,90,270,0,0.33,114,129,79,16
+Ki-Jana Hoever,18,1011340800,Premier League,2020/2021,Defender,Wolverhampton Wanderers,29,12,17,Netherlands,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,-1,-1,-1,19
+Kieran Gibbs,31,622796400,Premier League,2020/2021,Defender,West Bromwich Albion,135,90,45,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,1,1,0,0,0,0,0,0,2.67,34,68,68,0,1.33,-1,-1,-1,16
+Kieran Tierney,23,865494000,Premier League,2020/2021,Defender,Arsenal,531,171,360,Scotland,6,2,4,0,0,0,0,0,0,0,0,2,0,2,6,2,4,0,0,0,0,0,0,0,0,1.02,89,89,0,0,0,168,165,22,18
+Kiko Casilla,34,528620400,Premier League,2020/2021,Goalkeeper,Leeds United,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Konstantinos Tsimikas,24,831884400,Premier League,2020/2021,Defender,Liverpool,0,0,0,Greece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kortney Hause,25,805878000,Premier League,2020/2021,Defender,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kurt Zouma,25,783241200,Premier League,2020/2021,Defender,Chelsea,540,270,270,France,6,3,3,3,1,2,0,0,0,0,0,3,1,2,5,4,1,0,0,0.5,0,0.5,0.33,0.67,180,0.83,108,90,0,0,0,21,128,12,1
+Kyle Bartley,29,674895600,Premier League,2020/2021,Defender,West Bromwich Albion,360,180,180,England,4,2,2,1,1,0,0,0,0,0,0,0,0,0,12,5,7,0,0,0.25,0,0.25,0.5,0,360,3,30,90,0,0,0,45,205,93,3
+Kyle Edwards,22,887702400,Premier League,2020/2021,Midfielder,West Bromwich Albion,113,22,91,England,4,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,2.39,38,28,0,0,0,-1,-1,-1,15
+Kyle Walker,30,643878000,Premier League,2020/2021,Defender,Manchester City,528,180,348,England,6,2,4,1,0,1,0,0,0,0,0,2,1,1,8,5,3,0,0,0.17,0,0.17,0,0.26,528,1.36,66,88,0,0,0,65,123,42,6
+Kyle Walker-Peters,23,860914800,Premier League,2020/2021,Defender,Southampton,630,270,360,England,7,3,4,0,0,0,1,1,0,0,0,3,2,1,10,5,5,3,0,0.14,0.14,0,0,0,0,1.43,63,90,210,630,0.43,141,74,54,17
+Leander Dendoncker,25,797929200,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,462,282,180,Belgium,6,3,2,0,0,0,0,0,0,0,0,4,2,2,1,1,0,0,0,0,0,0,0,0,0,0.19,462,77,0,0,0,92,97,-1,7
+Leandro Trossard,25,786528000,Premier League,2020/2021,Forward,Brighton & Hove Albion,591,259,332,Belgium,7,3,4,1,1,0,1,0,1,0,0,1,0,1,12,5,7,1,0,0.3,0.15,0.15,0.35,0,591,1.83,49,84,591,591,0.15,84,67,-1,6
+Leif Davis,20,947664000,Premier League,2020/2021,Defender,Leeds United,13,13,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,-1,-1,-1,6
+Lewis Dunk,28,690710400,Premier League,2020/2021,Defender,Brighton & Hove Albion,450,180,270,England,5,2,3,0,0,0,0,0,0,0,0,1,0,1,10,5,5,2,1,0,0,0,0,0,0,2,45,90,150,0,0.6,100,83,76,19
+Lewis Richardson,17,1044604800,Premier League,2020/2021,Forward,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Liam Cooper,29,683535600,Premier League,2020/2021,Defender,Leeds United,270,180,90,Scotland,3,2,1,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,7
+Liam Delap,0,0,Premier League,2020/2021,Midfielder,Manchester City,39,39,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,9.23,10,39,0,0,0,-1,-1,-1,17
+Lucas Digne,27,743151600,Premier League,2020/2021,Defender,Everton,522,270,252,France,6,3,3,0,0,0,2,1,1,0,0,1,0,1,8,5,3,1,1,0.34,0.34,0,0,0,0,1.38,65,87,261,261,0.34,189,16,43,22
+Lucas Rodrigues Moura da Silva,28,713689200,Premier League,2020/2021,Midfielder,Tottenham Hotspur,341,179,162,Brazil,6,2,2,1,1,0,0,0,0,0,0,1,0,1,4,3,1,0,0,0.26,0,0.26,0.5,0,341,1.06,85,57,0,0,0,44,185,-1,6
+Luka Milivojević,29,671011200,Premier League,2020/2021,Midfielder,Crystal Palace,224,23,201,Serbia,6,0,2,0,0,0,0,0,0,0,0,1,1,0,4,0,4,1,1,0,0,0,0,0,0,1.61,56,37,112,0,0.8,-1,-1,-1,12
+Luke Ayling,29,683103600,Premier League,2020/2021,Defender,Leeds United,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,2,0,2,9,5,4,1,0,0,0,0,0,0,0,1.5,60,90,540,0,0.17,149,148,63,13
+Luke Shaw,25,805532400,Premier League,2020/2021,Defender,Manchester United,540,360,180,England,6,4,2,0,0,0,0,0,0,0,0,1,1,0,12,10,2,2,0,0,0,0,0,0,0,2,45,90,270,0,0.33,129,107,82,19
+Luke Thomas,0,0,Premier League,2020/2021,Midfielder,Leicester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mace Lewin Goodridge,21,937206000,Premier League,2020/2021,Midfielder,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mahmoud Ibrahim Hassan,26,780994800,Premier League,2020/2021,Midfielder,Aston Villa,469,304,165,Egypt,6,3,2,0,0,0,1,1,0,0,0,3,1,2,6,6,0,0,0,0.19,0.19,0,0,0,0,1.15,78,78,0,469,0,113,49,-1,8
+Mamadou Sakho,30,634896000,Premier League,2020/2021,Defender,Crystal Palace,275,90,185,France,4,1,2,0,0,0,0,0,0,0,0,0,0,0,7,2,5,0,0,0,0,0,0,0,0,2.29,39,69,0,0,0,121,106,88,9
+Manuel Lanzini,27,729763200,Premier League,2020/2021,Midfielder,West Ham United,15,0,15,Argentina,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,6,0,6,15,0,0,8,15,0,6,-1,-1,-1,6
+Marc Albrighton,30,627379200,Premier League,2020/2021,Midfielder,Leicester City,35,7,28,England,3,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,17
+Marcos Alonso,29,662371200,Premier League,2020/2021,Defender,Chelsea,226,90,136,Spain,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,1,0,0,0,0,0,0,0,2.39,38,75,226,0,0.4,-1,-1,-1,19
+Marcus Rashford,22,878284800,Premier League,2020/2021,Forward,Manchester United,540,360,180,England,6,4,2,2,0,2,2,0,2,0,0,1,1,0,12,10,2,1,0,0.67,0.33,0.33,0,1,270,2,45,90,540,270,0.17,32,18,-1,2
+Marek Rodák,23,850464000,Premier League,2020/2021,Goalkeeper,Fulham,90,90,0,Slovakia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,5
+Mario Lemina,27,746866800,Premier League,2020/2021,Midfielder,Fulham,108,79,29,Gabon,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,2.5,36,36,0,0,0,-1,-1,-1,8
+Mark Gillespie,28,701683200,Premier League,2020/2021,Goalkeeper,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mark Noble,33,547455600,Premier League,2020/2021,Midfielder,West Ham United,71,69,2,England,3,1,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,1.27,71,24,0,0,0,-1,-1,-1,16
+Martin Kelly,30,641199600,Premier League,2020/2021,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Marvelous Nakamba,26,758966400,Premier League,2020/2021,Midfielder,Aston Villa,13,10,3,Zimbabwe,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7,13,0,6.92,-1,-1,-1,15
+Mason Greenwood,19,1001919600,Premier League,2020/2021,Midfielder,Manchester United,275,193,82,England,5,2,1,0,0,0,0,0,0,0,0,1,1,0,9,8,1,1,0,0,0,0,0,0,0,2.95,31,55,275,0,0.33,122,111,-1,12
+Mason Mount,21,915955200,Premier League,2020/2021,Midfielder,Chelsea,450,162,288,England,6,2,3,1,0,1,1,0,1,0,0,2,0,2,8,4,4,0,0,0.4,0.2,0.2,0,0.31,450,1.6,56,75,0,450,0,59,47,-1,7
+Matěj Vydra,28,704703600,Premier League,2020/2021,Forward,Burnley,123,91,32,Czech Republic,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.46,62,31,0,0,0,-1,-1,-1,8
+Mateo Kovačić,26,768207600,Premier League,2020/2021,Midfielder,Chelsea,132,86,46,Croatia,3,1,1,0,0,0,0,0,0,0,0,1,1,0,5,2,3,0,0,0,0,0,0,0,0,3.41,26,44,0,0,0,-1,-1,-1,16
+Mateusz Bogusz,19,998463600,Premier League,2020/2021,Midfielder,Leeds United,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mateusz Klich,30,645260400,Premier League,2020/2021,Midfielder,Leeds United,518,257,261,Poland,6,3,3,2,1,1,2,1,1,1,0,2,0,2,8,5,3,2,0,0.69,0.35,0.35,0.35,0.34,259,1.39,65,86,259,259,0.35,30,14,-1,3
+Matheus Fellipe Costa Pereira,24,831279600,Premier League,2020/2021,Forward,West Bromwich Albion,519,268,251,Brazil,6,3,3,1,0,1,2,1,1,0,0,1,1,0,13,5,8,0,0,0.52,0.35,0.17,0,0.36,519,2.25,40,87,0,260,0,69,15,-1,5
+Mathew Ryan,28,702716400,Premier League,2020/2021,Goalkeeper,Brighton & Hove Albion,540,270,270,Australia,6,3,3,0,0,0,0,0,0,0,0,1,0,1,11,6,5,1,0,0,0,0,0,0,0,1.83,49,90,540,0,0.17,96,85,71,8
+Matt Doherty,28,695548800,Premier League,2020/2021,Defender,Tottenham Hotspur,436,256,180,Republic of Ireland,5,3,2,0,0,0,0,0,0,0,0,1,0,1,3,2,1,1,0,0,0,0,0,0,0,0.62,145,87,436,0,0.21,224,183,7,16
+Matt Macey,26,779094000,Premier League,2020/2021,Goalkeeper,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Matt Phillips,29,668851200,Premier League,2020/2021,Midfielder,West Bromwich Albion,43,18,25,Scotland,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,11,43,0,2.09,-1,-1,-1,12
+Matt Ritchie,31,621414000,Premier League,2020/2021,Midfielder,Newcastle United,69,0,69,Scotland,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.3,69,69,0,0,0,-1,-1,-1,6
+Matt Targett,25,811407600,Premier League,2020/2021,Defender,Aston Villa,540,360,180,England,6,4,2,0,0,0,0,0,0,0,0,3,1,2,9,9,0,2,0,0,0,0,0,0,0,1.5,60,90,270,0,0.33,133,92,61,12
+Matthew Lowton,31,613378800,Premier League,2020/2021,Defender,Burnley,180,180,0,England,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,7
+Matty Cash,23,870937200,Premier League,2020/2021,Midfielder,Aston Villa,507,327,180,England,6,4,2,0,0,0,0,0,0,0,0,3,1,2,9,9,0,3,0,0,0,0,0,0,0,1.6,56,85,169,0,0.53,119,118,-1,10
+Max Kilman,23,864370800,Premier League,2020/2021,Defender,Wolverhampton Wanderers,360,270,90,England,4,3,1,0,0,0,1,0,1,0,0,3,2,1,1,1,0,0,0,0.25,0.25,0,0,0,0,0.25,360,90,0,360,0,126,37,1,17
+Max Lowe,23,863334000,Premier League,2020/2021,Defender,Sheffield United,100,100,0,England,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.9,100,50,0,0,0,-1,-1,-1,5
+Max Meyer,25,811407600,Premier League,2020/2021,Midfielder,Crystal Palace,0,0,0,Germany,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Max Thompson,18,1013241600,Premier League,2020/2021,Midfielder,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Maxime Le Marchand,30,624092400,Premier League,2020/2021,Defender,Fulham,122,32,90,France,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0.74,122,61,61,0,1.48,-1,-1,-1,11
+Meritan Shabani,21,921484800,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,0,0,0,Kosovo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Michael Hector,28,711529200,Premier League,2020/2021,Defender,Fulham,238,148,90,Jamaica,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,6,4,1,0,0,0,0,0,0,0,3.78,24,79,238,0,0.38,-1,-1,-1,21
+Michael Keane,27,726739200,Premier League,2020/2021,Defender,Everton,630,270,360,England,7,3,4,2,2,0,0,0,0,0,0,1,0,1,10,5,5,0,0,0.29,0,0.29,0.67,0,315,1.43,63,90,0,0,0,42,182,51,3
+Michael Obafemi,20,962866800,Premier League,2020/2021,Forward,Southampton,13,0,13,Republic of Ireland,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,-1,-1,-1,11
+Michael Verrips,23,849600000,Premier League,2020/2021,Goalkeeper,Sheffield United,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Michail Antonio,30,638611200,Premier League,2020/2021,Midfielder,West Ham United,485,230,255,England,6,3,3,3,1,2,0,0,0,0,0,2,1,1,8,3,5,1,0,0.56,0,0.56,0.39,0.71,162,1.48,61,81,485,0,0.19,17,154,-1,1
+Michy Batshuayi,27,749545200,Premier League,2020/2021,Forward,Crystal Palace,281,98,183,Belgium,5,1,2,0,0,0,1,0,1,0,0,0,0,0,2,0,2,0,0,0.32,0.32,0,0,0,0,0.64,141,56,0,281,0,172,19,-1,10
+Miguel Ángel Almirón Rejala,26,760867200,Premier League,2020/2021,Midfielder,Newcastle United,301,129,172,Paraguay,6,1,2,0,0,0,1,0,1,0,0,1,0,1,3,1,2,1,0,0.3,0.3,0,0,0,0,0.9,100,50,301,301,0.3,211,27,-1,10
+Mohamed Elneny,28,710838000,Premier League,2020/2021,Midfielder,Arsenal,360,90,270,Egypt,4,1,3,0,0,0,0,0,0,0,0,2,0,2,4,1,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,162,168,-1,15
+Mohamed Saïd Benrahma,25,808038000,Premier League,2020/2021,Forward,West Ham United,1,0,1,Algeria,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,20
+Mohamed Salah,28,708591600,Premier League,2020/2021,Forward,Liverpool,630,360,270,Egypt,7,4,3,7,4,3,0,0,0,3,0,1,0,1,15,6,9,0,0,1,0,1,1,1,90,2.14,42,90,0,0,0,5,145,-1,1
+Moise Kean,20,951724800,Premier League,2020/2021,Forward,Everton,13,12,1,Italy,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,17
+Moussa Djenepo,22,897894000,Premier League,2020/2021,Midfielder,Southampton,235,145,90,Mali,4,2,1,1,1,0,0,0,0,0,0,2,1,1,5,5,0,1,0,0.38,0,0.38,0.62,0,235,1.91,47,59,235,0,0.38,-1,-1,-1,5
+Moussa Sissoko,31,619254000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,404,224,180,France,5,2,2,0,0,0,0,0,0,0,0,1,0,1,5,4,1,0,0,0,0,0,0,0,0,1.11,81,81,0,0,0,203,187,-1,12
+N'Golo Kanté,29,670233600,Premier League,2020/2021,Midfielder,Chelsea,623,263,360,France,7,3,4,0,0,0,0,0,0,0,0,3,1,2,8,4,4,1,0,0,0,0,0,0,0,1.16,78,89,623,0,0.14,134,122,-1,20
+Naby Deco Keïta,25,792403200,Premier League,2020/2021,Midfielder,Liverpool,248,138,110,Guinea,4,2,2,0,0,0,0,0,0,0,0,1,0,1,7,3,4,0,0,0,0,0,0,0,0,2.54,35,62,0,0,0,-1,-1,-1,16
+Nampalys Mendy,28,709282800,Premier League,2020/2021,Midfielder,Leicester City,527,257,270,France,6,3,3,0,0,0,1,0,1,0,0,2,0,2,7,5,2,2,0,0.17,0.17,0,0,0,0,1.2,75,88,264,527,0.34,220,53,-1,19
+Nathan Aké,25,793094400,Premier League,2020/2021,Defender,Manchester City,289,180,109,Netherlands,4,2,1,1,1,0,0,0,0,0,0,1,1,0,6,5,1,2,0,0.31,0,0.31,0.5,0,289,1.87,48,72,145,0,0.62,37,121,73,4
+Nathan Redmond,26,762940800,Premier League,2020/2021,Midfielder,Southampton,292,125,167,England,4,1,2,0,0,0,0,0,0,0,0,2,2,0,4,0,4,0,0,0,0,0,0,0,0,1.23,73,73,0,0,0,142,138,-1,16
+Nathan Tella,21,931158000,Premier League,2020/2021,Midfielder,Southampton,48,22,26,England,3,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,3.75,24,16,0,0,0,-1,-1,-1,10
+Nathaniel Clyne,29,670838400,Premier League,2020/2021,Defender,Crystal Palace,162,0,162,England,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.11,81,81,0,0,0,-1,-1,-1,6
+Nathaniel Phillips,23,858931200,Premier League,2020/2021,Defender,Liverpool,90,90,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,8
+Neal Maupay,24,840006000,Premier League,2020/2021,Forward,Brighton & Hove Albion,540,270,270,France,6,3,3,4,1,3,1,0,1,2,0,1,0,1,11,6,5,0,0,0.83,0.17,0.67,0.33,1,135,1.83,49,90,0,540,0,11,61,-1,1
+Neco Williams,19,987145200,Premier League,2020/2021,Midfielder,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Neeskens Kebano,28,700214400,Premier League,2020/2021,Midfielder,Fulham,116,75,41,Congo DR,4,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,2.33,39,29,0,0,0,-1,-1,-1,19
+Neil Taylor,31,602841600,Premier League,2020/2021,Defender,Aston Villa,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nélson Semedo,26,753436800,Premier League,2020/2021,Defender,Wolverhampton Wanderers,421,258,163,Portugal,5,3,2,0,0,0,0,0,0,0,0,3,2,1,4,1,3,0,0,0,0,0,0,0,0,0.86,105,84,0,0,0,91,86,16,18
+Nemanja Matić,32,586422000,Premier League,2020/2021,Midfielder,Manchester United,164,74,90,Serbia,4,1,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,3.29,27,41,164,0,0.55,-1,-1,-1,7
+Nick Pope,28,703666800,Premier League,2020/2021,Goalkeeper,Burnley,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,12,5,7,0,0,0,0,0,0,0,0,2,45,90,0,0,0,115,124,83,12
+Nicolas Otamendi,32,571651200,Premier League,2020/2021,Defender,Manchester City,0,0,0,Argentina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nicolas Pépé,25,812358000,Premier League,2020/2021,Forward,Arsenal,203,83,120,Côte d'Ivoire,6,0,1,1,1,0,0,0,0,0,0,1,0,1,4,2,2,0,0,0.44,0,0.44,1.08,0,203,1.77,51,34,0,0,0,-1,-1,-1,6
+Niels Nkounkou,19,973065600,Premier League,2020/2021,Defender,Everton,69,0,69,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.3,69,69,69,0,1.3,-1,-1,-1,10
+Odion Jude Ighalo,31,613983600,Premier League,2020/2021,Forward,Manchester United,9,9,0,Nigeria,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,10,9,9,0,0,0,-1,-1,-1,10
+Ola Aina,24,844758000,Premier League,2020/2021,Defender,Fulham,270,90,180,Nigeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,6
+Oleksandr Zinchenko,23,850636800,Premier League,2020/2021,Midfielder,Manchester City,12,0,12,Ukraine,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,14
+Oliver Burke,23,860396400,Premier League,2020/2021,Midfielder,Sheffield United,256,74,182,Scotland,4,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0.7,128,64,0,0,0,-1,-1,-1,7
+Oliver Casey,20,971506800,Premier League,2020/2021,Defender,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Oliver McBurnie,24,833871600,Premier League,2020/2021,Forward,Sheffield United,432,286,146,Scotland,7,3,1,0,0,0,0,0,0,0,0,0,0,0,9,5,4,1,0,0,0,0,0,0,0,1.88,48,62,432,0,0.21,200,201,-1,4
+Oliver Norwood,29,671439600,Premier League,2020/2021,Midfielder,Sheffield United,217,217,0,Northern Ireland,4,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,1.66,54,54,0,0,0,-1,-1,-1,13
+Olivier Giroud,34,528447600,Premier League,2020/2021,Forward,Chelsea,30,0,30,France,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,-1,-1,-1,18
+Ollie Watkins,24,820310400,Premier League,2020/2021,Forward,Aston Villa,540,360,180,England,6,4,2,4,4,0,1,1,0,1,0,3,1,2,9,9,0,0,0,0.83,0.17,0.67,1,0,135,1.5,60,90,0,540,0,13,59,-1,2
+Oluwasemilogo Adesewo Ibidapo Ajayi,26,752832000,Premier League,2020/2021,Defender,West Bromwich Albion,450,180,270,Nigeria,5,2,3,0,0,0,0,0,0,0,0,0,0,0,13,5,8,1,0,0,0,0,0,0,0,2.6,35,90,450,0,0.2,213,214,90,21
+Oluwatosin Adarabioyo,23,875084400,Premier League,2020/2021,Defender,Fulham,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,23
+Onyinye Wilfred Ndidi,23,850723200,Premier League,2020/2021,Midfielder,Leicester City,180,90,90,Nigeria,2,1,1,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,18
+Oriol Romeu,29,685695600,Premier League,2020/2021,Midfielder,Southampton,592,235,357,Spain,7,3,4,1,1,0,0,0,0,0,0,3,2,1,7,2,5,2,0,0.15,0,0.15,0.38,0,592,1.06,85,85,296,0,0.3,86,156,-1,6
+Oskar Buur,22,891331200,Premier League,2020/2021,Defender,Wolverhampton Wanderers,22,0,22,Denmark,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,-1,-1,-1,12
+Owen Otasowie,0,0,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Pablo Fornals Malla,24,824976000,Premier League,2020/2021,Midfielder,West Ham United,592,247,345,Spain,7,3,4,2,0,2,2,1,1,0,0,2,1,1,9,2,7,1,0,0.61,0.3,0.3,0,0.52,296,1.37,66,85,592,296,0.15,38,26,-1,3
+Pablo Hernández Domínguez,35,482054400,Premier League,2020/2021,Midfielder,Leeds United,88,15,73,Spain,3,0,1,0,0,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,0,0,3.07,29,29,0,0,0,-1,-1,-1,15
+Pascal Groß,29,676969200,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,162,56,106,Germany,6,0,1,0,0,0,1,0,1,0,0,0,0,0,3,1,2,0,0,0.56,0.56,0,0,0,0,1.67,54,27,0,162,0,-1,-1,-1,14
+Pascal Struijk,21,934354800,Premier League,2020/2021,Defender,Leeds United,186,75,111,Netherlands,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,1,4,1,0,0,0,0,0,0,0,2.42,37,62,186,0,0.48,-1,-1,-1,16
+Patrick Bamford,27,747212400,Premier League,2020/2021,Forward,Leeds United,492,250,242,England,6,3,3,6,1,5,1,1,0,0,0,2,0,2,8,5,3,1,0,1.28,0.18,1.1,0.36,1.86,82,1.46,62,82,492,492,0.18,4,50,-1,1
+Patrick van Aanholt,30,651913200,Premier League,2020/2021,Defender,Crystal Palace,108,0,108,Netherlands,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,1.67,54,54,108,0,0.83,-1,-1,-1,20
+Paul Pogba,27,732182400,Premier League,2020/2021,Midfielder,Manchester United,365,279,86,France,6,3,1,0,0,0,0,0,0,0,0,1,1,0,9,8,1,0,0,0,0,0,0,0,0,2.22,41,61,0,0,0,128,105,-1,17
+Pedro Lomba Neto,20,952588800,Premier League,2020/2021,Forward,Wolverhampton Wanderers,573,326,247,Portugal,7,4,3,1,1,0,2,1,1,0,0,4,2,2,6,3,3,0,0,0.47,0.31,0.16,0.28,0,573,0.94,96,82,0,287,0,81,24,-1,5
+Phil Bardsley,35,488790000,Premier League,2020/2021,Defender,Burnley,270,90,180,Scotland,3,1,2,0,0,0,0,0,0,0,0,0,0,0,8,1,7,2,0,0,0,0,0,0,0,2.67,34,90,135,0,0.67,-1,-1,-1,17
+Phil Jagielka,38,398415600,Premier League,2020/2021,Defender,Sheffield United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Philip Foden,20,959497200,Premier League,2020/2021,Midfielder,Manchester City,386,153,233,England,6,2,2,2,0,2,0,0,0,0,0,2,1,1,5,3,2,0,0,0.47,0,0.47,0,0.77,193,1.17,77,64,0,0,0,22,114,-1,1
+Pierre-Emerick Aubameyang,31,614156400,Premier League,2020/2021,Forward,Arsenal,627,270,357,Gabon,7,3,4,2,0,2,1,1,0,1,0,2,0,2,7,3,4,2,0,0.43,0.14,0.29,0,0.5,314,1,90,90,314,627,0.29,41,71,-1,2
+Pierre-Emile Højbjerg,25,807606000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,630,360,270,Denmark,7,4,3,0,0,0,1,0,1,0,0,1,0,1,6,4,2,1,0,0.14,0.14,0,0,0,0,0.86,105,90,630,630,0.14,204,68,-1,7
+Raheem Sterling,25,786873600,Premier League,2020/2021,Forward,Manchester City,532,180,352,England,6,2,4,2,1,1,1,0,1,0,0,2,1,1,8,5,3,0,0,0.51,0.17,0.34,0.5,0.26,266,1.35,67,89,0,532,0,31,52,-1,2
+Raphael Dias Belloli,24,824284800,Premier League,2020/2021,Forward,Leeds United,15,8,7,Brazil,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,19
+Raúl Alonso Jiménez Rodríguez,29,673426800,Premier League,2020/2021,Forward,Wolverhampton Wanderers,630,360,270,Mexico,7,4,3,4,2,2,0,0,0,0,0,4,2,2,6,3,3,0,0,0.57,0,0.57,0.5,0.67,158,0.86,105,90,0,0,0,16,93,-1,1
+Rayan Aït Nouri,19,991810800,Premier League,2020/2021,Defender,Wolverhampton Wanderers,90,90,0,France,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,90,0,0,90,0,0,0,-1,-1,-1,2
+Reece James,20,944640000,Premier League,2020/2021,Defender,Chelsea,453,93,360,England,6,1,4,1,0,1,1,0,1,0,0,2,0,2,6,2,4,1,0,0.4,0.2,0.2,0,0.25,453,1.19,76,76,453,453,0.2,57,48,30,5
+Rekeem Harper,20,952502400,Premier League,2020/2021,Midfielder,West Bromwich Albion,21,21,0,England,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,8.57,11,21,0,0,0,-1,-1,-1,14
+Rhian Brewster,20,954576000,Premier League,2020/2021,Forward,Sheffield United,170,116,54,England,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.59,57,57,0,0,0,-1,-1,-1,19
+Rhys Williams,19,981187200,Premier League,2020/2021,Defender,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Richarlison de Andrade,23,863247600,Premier League,2020/2021,Forward,Everton,385,205,180,Brazil,5,3,2,1,0,1,2,2,0,1,0,1,0,1,5,4,1,2,1,0.7,0.47,0.23,0,0.5,385,1.17,77,77,128,193,0.7,51,7,-1,5
+Riyad Mahrez,29,667123200,Premier League,2020/2021,Midfielder,Manchester City,432,180,252,Algeria,5,2,3,1,1,0,1,1,0,0,0,2,1,1,7,5,2,0,0,0.42,0.21,0.21,0.5,0,432,1.46,62,86,0,432,0,54,42,-1,7
+Rob Holding,25,811580400,Premier League,2020/2021,Defender,Arsenal,360,90,270,England,4,1,3,0,0,0,0,0,0,0,0,2,0,2,4,1,3,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,169,166,18,17
+Robbie Brady,28,695376000,Premier League,2020/2021,Midfielder,Burnley,78,17,61,Republic of Ireland,3,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.15,78,26,0,0,0,-1,-1,-1,14
+Robert Lynch Sanchez,22,879840000,Premier League,2020/2021,Goalkeeper,Brighton & Hove Albion,90,0,90,Spain,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,20
+Robert Snodgrass,33,557996400,Premier League,2020/2021,Midfielder,West Ham United,0,0,0,Scotland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Roberto Firmino,29,686386800,Premier League,2020/2021,Forward,Liverpool,565,333,232,Brazil,7,4,3,1,1,0,2,0,2,0,0,1,0,1,13,6,7,1,0,0.48,0.32,0.16,0.27,0,565,2.07,43,81,565,283,0.16,80,20,-1,5
+Robin Koch,24,837586800,Premier League,2020/2021,Defender,Leeds United,540,270,270,Germany,6,3,3,0,0,0,0,0,0,0,0,2,0,2,9,5,4,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,152,150,65,17
+Robin Olsen,30,631785600,Premier League,2020/2021,Goalkeeper,Everton,90,0,90,Sweden,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,8
+Rodri,24,835426800,Premier League,2020/2021,Midfielder,Manchester City,540,180,360,Spain,6,2,4,0,0,0,0,0,0,0,0,2,1,1,8,5,3,2,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,106,109,-1,18
+Rodrigo,29,668246400,Premier League,2020/2021,Forward,Leeds United,321,170,151,Spain,6,2,1,1,1,0,0,0,0,0,0,2,0,2,3,2,1,0,0,0.28,0,0.28,0.53,0,321,0.84,107,54,0,0,0,43,151,-1,5
+Romain Saïss,30,638438400,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,518,248,270,Morocco,6,3,3,1,0,1,0,0,0,0,0,3,1,2,5,2,3,0,0,0.17,0,0.17,0,0.33,518,0.87,104,86,0,0,0,71,98,-1,3
+Romaine Theodore Sawyers,28,689068800,Premier League,2020/2021,Midfielder,West Bromwich Albion,308,169,139,St. Kitts and Nevis,5,2,2,0,0,0,0,0,0,0,0,1,1,0,9,3,6,0,0,0,0,0,0,0,0,2.63,34,62,0,0,0,217,218,-1,17
+Ross Barkley,26,755078400,Premier League,2020/2021,Midfielder,Aston Villa,400,281,119,England,6,3,1,2,1,1,0,0,0,0,0,1,0,1,9,9,0,0,0,0.45,0,0.45,0.32,0.76,200,2.03,44,67,0,0,0,24,117,-1,3
+Rúben Diogo Da Silva Neves,23,858240000,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,465,353,112,Portugal,7,4,1,0,0,0,0,0,0,0,0,4,2,2,5,2,3,1,0,0,0,0,0,0,0,0.97,93,66,465,0,0.19,90,77,-1,13
+Rúben Gonçalo Silva Nascimento Vinagre,21,923641200,Premier League,2020/2021,Defender,Wolverhampton Wanderers,172,82,90,Portugal,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,2.62,34,86,0,0,0,-1,-1,-1,16
+Ruben Loftus-Cheek,24,822384000,Premier League,2020/2021,Midfielder,Fulham,215,73,142,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.26,72,72,0,0,0,-1,-1,-1,10
+Rúben Santos Gato Alves Dias,23,863593200,Premier League,2020/2021,Defender,Manchester City,360,90,270,Portugal,4,1,3,0,0,0,0,0,0,0,0,2,1,1,2,0,2,1,0,0,0,0,0,0,0,0.5,180,90,360,0,0.25,102,87,5,13
+Rui Pedro dos Santos Patrício,32,571910400,Premier League,2020/2021,Goalkeeper,Wolverhampton Wanderers,630,360,270,Portugal,7,4,3,0,0,0,0,0,0,0,0,4,2,2,6,3,3,0,0,0,0,0,0,0,0,0.86,105,90,0,0,0,183,102,13,20
+Rúnar Alex Rúnarsson,25,793094400,Premier League,2020/2021,Goalkeeper,Arsenal,0,0,0,Iceland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ryan Bertrand,31,618303600,Premier League,2020/2021,Defender,Southampton,619,270,349,England,7,3,4,0,0,0,0,0,0,0,0,3,2,1,10,5,5,1,0,0,0,0,0,0,0,1.45,62,88,619,0,0.15,150,157,56,14
+Ryan Fraser,26,762076800,Premier League,2020/2021,Midfielder,Newcastle United,185,107,78,Scotland,5,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0.97,93,37,0,0,0,-1,-1,-1,8
+Ryan Fredericks,28,718700400,Premier League,2020/2021,Midfielder,West Ham United,229,139,90,England,3,2,1,0,0,0,1,0,1,0,0,1,1,0,4,2,2,2,0,0.39,0.39,0,0,0,0,1.57,57,76,115,229,0.79,-1,-1,-1,18
+Ryan Inniss,25,802335600,Premier League,2020/2021,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sadio Mané,28,702889200,Premier League,2020/2021,Forward,Liverpool,530,350,180,Senegal,6,4,2,4,1,3,1,1,0,0,0,1,0,1,8,6,2,2,0,0.85,0.17,0.68,0.26,1.5,133,1.36,66,88,265,530,0.34,10,57,-1,2
+Sam Field,22,894610800,Premier League,2020/2021,Midfielder,West Bromwich Albion,59,0,59,England,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.53,59,20,0,0,0,-1,-1,-1,11
+Sam Johnstone,27,733046400,Premier League,2020/2021,Goalkeeper,West Bromwich Albion,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,1,0,13,5,8,0,0,0,0,0,0,0,0,2.17,42,90,0,0,0,212,213,86,13
+Sam Woods,22,905497200,Premier League,2020/2021,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sander Berge,22,887443200,Premier League,2020/2021,Midfielder,Sheffield United,554,284,270,Norway,7,3,3,1,0,1,0,0,0,1,0,0,0,0,8,3,5,2,0,0.16,0,0.16,0,0.33,554,1.3,69,79,277,0,0.32,82,136,-1,2
+Scott Dann,33,540288000,Premier League,2020/2021,Defender,Crystal Palace,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,13
+Scott McTominay,23,850032000,Premier League,2020/2021,Midfielder,Manchester United,397,307,90,England,5,3,1,0,0,0,0,0,0,0,0,1,1,0,7,6,1,0,0,0,0,0,0,0,0,1.59,57,79,0,0,0,125,76,-1,15
+Sead Kolašinac,27,740559600,Premier League,2020/2021,Defender,Arsenal,90,90,0,Bosnia and Herzegovina,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,9
+Séamus Coleman,31,592556400,Premier League,2020/2021,Defender,Everton,359,179,180,Republic of Ireland,5,3,2,0,0,0,1,0,1,0,0,1,0,1,5,4,1,0,0,0.25,0.25,0,0,0,0,1.25,72,72,0,359,0,188,35,35,18
+Sean Longstaff,22,878198400,Premier League,2020/2021,Midfielder,Newcastle United,103,90,13,England,4,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0.87,103,26,0,0,0,-1,-1,-1,9
+Sébastien Haller,26,772268400,Premier League,2020/2021,Forward,West Ham United,124,46,78,France,6,0,1,1,1,0,0,0,0,0,0,2,1,1,2,1,1,0,0,0.73,0,0.73,1.96,0,124,1.45,62,21,0,0,0,-1,-1,-1,4
+Serge Aurier,27,725184000,Premier League,2020/2021,Defender,Tottenham Hotspur,180,90,90,Côte d'Ivoire,2,1,1,1,0,1,1,0,1,0,0,0,0,0,3,2,1,0,0,1,0.5,0.5,0,1,180,1.5,60,90,0,180,0,-1,-1,-1,3
+Sergio Aguero,32,581238000,Premier League,2020/2021,Forward,Manchester City,111,65,46,Argentina,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.81,111,56,0,0,0,-1,-1,-1,10
+Sergio Reguilón Rodríguez,23,850723200,Premier League,2020/2021,Defender,Tottenham Hotspur,270,180,90,Spain,3,2,1,0,0,0,2,2,0,0,0,0,0,0,4,3,1,1,0,0.67,0.67,0,0,0,0,1.33,68,90,270,135,0.33,-1,-1,-1,19
+Shane Long,33,538300800,Premier League,2020/2021,Forward,Southampton,30,16,14,Republic of Ireland,5,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,30,6,0,0,0,-1,-1,-1,12
+Shkodran Mustafi,28,703494000,Premier League,2020/2021,Defender,Arsenal,44,41,3,Germany,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,2.05,44,22,0,0,0,-1,-1,-1,19
+Solomon March,26,774687600,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,573,250,323,England,7,3,4,1,1,0,1,0,1,0,0,1,0,1,11,5,6,0,0,0.31,0.16,0.16,0.36,0,573,1.73,52,82,0,573,0,78,63,-1,4
+Stefan Marius Johansen,29,663321600,Premier League,2020/2021,Midfielder,Fulham,0,0,0,Norway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stephen Henderson,32,578559600,Premier League,2020/2021,Goalkeeper,Crystal Palace,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Steven Alzate,22,905238000,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,352,180,172,England,5,2,2,0,0,0,0,0,0,0,0,1,0,1,10,6,4,1,0,0,0,0,0,0,0,2.56,35,70,352,0,0.26,105,133,-1,13
+Steven Bergwijn,23,876294000,Premier League,2020/2021,Forward,Tottenham Hotspur,152,146,6,Netherlands,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,-1,-1,-1,13
+Stuart Armstrong,28,701942400,Premier League,2020/2021,Midfielder,Southampton,424,244,180,Scotland,5,3,2,0,0,0,2,1,1,0,0,3,2,1,4,3,1,0,0,0.42,0.42,0,0,0,0,0.85,106,85,0,212,0,116,9,-1,8
+Stuart Dallas,29,672044400,Premier League,2020/2021,Midfielder,Leeds United,540,270,270,Northern Ireland,6,3,3,0,0,0,0,0,0,0,0,2,0,2,9,5,4,1,0,0,0,0,0,0,0,1.5,60,90,540,0,0.17,151,149,-1,18
+Takumi Minamino,25,790243200,Premier League,2020/2021,Forward,Liverpool,55,7,48,Japan,4,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,0,0,4.91,18,14,0,0,0,-1,-1,-1,10
+Tammy Abraham,23,875775600,Premier League,2020/2021,Forward,Chelsea,287,101,186,England,6,1,2,1,0,1,1,0,1,0,0,3,1,2,3,0,3,0,0,0.63,0.31,0.31,0,0.48,287,0.94,96,48,0,287,0,36,23,-1,10
+Tanguy Ndombele,23,851760000,Premier League,2020/2021,Midfielder,Tottenham Hotspur,358,164,194,France,7,2,3,1,0,1,0,0,0,0,0,1,0,1,3,1,2,2,0,0.25,0,0.25,0,0.46,358,0.75,119,51,179,0,0.5,47,225,-1,4
+Tariq Lamptey,20,970297200,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,543,270,273,England,7,3,4,1,0,1,1,1,0,0,0,1,0,1,11,6,5,2,0,0.33,0.17,0.17,0,0.33,543,1.82,49,78,272,543,0.33,67,55,-1,3
+Theo Walcott,31,606038400,Premier League,2020/2021,Forward,Southampton,192,12,180,England,3,0,2,0,0,0,1,0,1,0,0,0,0,0,4,0,4,0,0,0.47,0.47,0,0,0,0,1.88,48,64,0,192,0,-1,-1,-1,9
+Thiago Alcantara,29,671353200,Premier League,2020/2021,Midfielder,Liverpool,134,0,134,Spain,2,0,1,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0,1.34,67,67,0,0,0,-1,-1,-1,9
+Thiago Silva,36,464684400,Premier League,2020/2021,Defender,Chelsea,343,90,253,Brazil,4,1,3,0,0,0,0,0,0,0,0,3,1,2,3,0,3,0,0,0,0,0,0,0,0,0.79,114,86,0,0,0,123,80,11,14
+Thomas Doyle,19,1003302000,Premier League,2020/2021,Midfielder,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Thomas Partey,27,739954800,Premier League,2020/2021,Midfielder,Arsenal,187,90,97,Ghana,3,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0.48,187,62,187,0,0.48,-1,-1,-1,7
+Tim Ream,33,560415600,Premier League,2020/2021,Defender,Fulham,450,270,180,USA,5,3,2,0,0,0,0,0,0,0,0,0,0,0,10,8,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,138,135,77,22
+Timo Werner,24,826099200,Premier League,2020/2021,Forward,Chelsea,611,270,341,Germany,7,3,4,3,2,1,1,1,0,0,0,3,1,2,8,4,4,0,0,0.59,0.15,0.44,0.67,0.26,204,1.18,76,87,0,611,0,25,66,-1,3
+Timothy Castagne,24,818150400,Premier League,2020/2021,Defender,Leicester City,540,270,270,Belgium,6,3,3,1,0,1,2,1,1,0,0,2,0,2,7,5,2,1,0,0.5,0.33,0.17,0,0.33,540,1.17,77,90,540,270,0.17,72,17,29,6
+Timothy Fosu-Mensah,22,883728000,Premier League,2020/2021,Defender,Manchester United,81,81,0,Netherlands,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,2.22,41,81,81,0,1.11,-1,-1,-1,18
+Toby Alderweireld,31,604828800,Premier League,2020/2021,Defender,Tottenham Hotspur,360,270,90,Belgium,4,3,1,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,223,202,17,11
+Tom Cairney,29,664358400,Premier League,2020/2021,Midfielder,Fulham,450,270,180,Scotland,5,3,2,1,1,0,0,0,0,0,0,0,0,0,10,8,2,2,0,0.2,0,0.2,0.33,0,450,2,45,90,225,0,0.4,60,160,-1,3
+Tom Davies,22,899190000,Premier League,2020/2021,Midfielder,Everton,90,90,0,England,3,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,90,30,0,0,0,-1,-1,-1,16
+Tomáš Souček,25,793872000,Premier League,2020/2021,Midfielder,West Ham United,630,270,360,Czech Republic,7,3,4,0,0,0,0,0,0,0,0,2,1,1,10,3,7,1,0,0,0,0,0,0,0,1.43,63,90,630,0,0.14,157,155,-1,15
+Trent Alexander-Arnold,22,907743600,Premier League,2020/2021,Defender,Liverpool,629,359,270,England,7,4,3,0,0,0,1,1,0,0,0,1,0,1,15,6,9,1,0,0.14,0.14,0,0,0,0,2.15,42,90,629,629,0.14,145,73,85,19
+Tyler Roberts,21,916128000,Premier League,2020/2021,Forward,Leeds United,174,100,74,Wales,4,1,1,0,0,0,0,0,0,0,0,1,0,1,4,3,1,0,0,0,0,0,0,0,0,2.07,44,44,0,0,0,-1,-1,-1,12
+Tyrick Mitchell,21,936169200,Premier League,2020/2021,Defender,Crystal Palace,540,270,270,England,6,3,3,0,0,0,0,0,0,0,0,1,1,0,7,2,5,1,0,0,0,0,0,0,0,1.17,77,90,540,0,0.17,177,174,26,17
+Tyrone Mings,27,732009600,Premier League,2020/2021,Defender,Aston Villa,540,360,180,England,6,4,2,2,1,1,1,1,0,0,0,3,1,2,9,9,0,2,0,0.5,0.17,0.33,0.25,0.5,270,1.5,60,90,270,540,0.33,33,60,60,4
+Vicente Guaita,33,537264000,Premier League,2020/2021,Goalkeeper,Crystal Palace,630,270,360,Spain,7,3,4,0,0,0,0,0,0,0,0,1,1,0,9,2,7,2,0,0,0,0,0,0,0,1.29,70,90,315,0,0.29,174,172,38,11
+Victor Nilsson Lindelöf,26,774428400,Premier League,2020/2021,Defender,Manchester United,450,270,180,Sweden,5,3,2,0,0,0,0,0,0,0,0,1,1,0,6,4,2,0,0,0,0,0,0,0,0,1.2,75,90,0,0,0,130,110,33,13
+Virgil van Dijk,29,678956400,Premier League,2020/2021,Defender,Liverpool,371,180,191,Netherlands,5,2,3,1,1,0,0,0,0,0,0,1,0,1,11,4,7,1,0,0.24,0,0.24,0.5,0,371,2.67,34,74,371,0,0.24,50,141,91,6
+Vitor Machado Ferreira,20,950428800,Premier League,2020/2021,Midfielder,Wolverhampton Wanderers,21,0,21,Portugal,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,14
+Vladimír Coufal,28,714466800,Premier League,2020/2021,Defender,West Ham United,360,90,270,Czech Republic,4,1,3,0,0,0,1,1,0,0,0,1,0,1,6,1,5,2,0,0.25,0.25,0,0,0,0,1.5,60,90,180,360,0.5,225,36,62,7
+Wayne Hennessey,33,538473600,Premier League,2020/2021,Goalkeeper,Crystal Palace,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wes Foderingham,29,663840000,Premier League,2020/2021,Goalkeeper,Sheffield United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wes Morgan,36,443520000,Premier League,2020/2021,Defender,Leicester City,0,0,0,Jamaica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wesley Fofana,19,977040000,Premier League,2020/2021,Midfielder,Leicester City,180,90,90,France,2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,90,180,0,0.5,-1,-1,-1,10
+Wilfredo Daniel Caballero,39,370508400,Premier League,2020/2021,Goalkeeper,Chelsea,90,0,90,Argentina,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,17
+Wilfried Zaha,27,721382400,Premier League,2020/2021,Midfielder,Crystal Palace,630,270,360,Côte d'Ivoire,7,3,4,5,2,3,1,0,1,2,0,1,1,0,9,2,7,2,0,0.86,0.14,0.71,0.67,0.75,126,1.29,70,90,315,630,0.29,9,75,-1,1
+Will Norris,27,745138800,Premier League,2020/2021,Goalkeeper,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+William Smallbone,20,951120000,Premier League,2020/2021,Midfielder,Southampton,112,35,77,England,2,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,3.21,28,56,0,0,0,-1,-1,-1,15
+Willian,32,587113200,Premier League,2020/2021,Forward,Arsenal,452,154,298,Brazil,6,2,4,0,0,0,2,0,2,0,0,2,0,2,5,2,3,0,0,0.4,0.4,0,0,0,0,1,90,75,0,226,0,171,10,-1,13
+Willy Boly,29,665568000,Premier League,2020/2021,Defender,Wolverhampton Wanderers,630,360,270,France,7,4,3,0,0,0,0,0,0,0,0,4,2,2,6,3,3,0,0,0,0,0,0,0,0,0.86,105,90,0,0,0,139,101,14,9
+Xherdan Shaqiri,29,687078000,Premier League,2020/2021,Midfielder,Liverpool,20,20,0,Switzerland,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4.5,4.5,0,0,0,0,0,0,20,0,20,0,-1,-1,-1,21
+Yann Valery,21,919670400,Premier League,2020/2021,Defender,Southampton,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Yerry Fernando Mina González,26,780303600,Premier League,2020/2021,Defender,Everton,630,270,360,Colombia,7,3,4,1,1,0,0,0,0,0,0,1,0,1,10,5,5,1,0,0.14,0,0.14,0.33,0,630,1.43,63,90,630,0,0.14,87,191,46,4
+Youri Tielemans,23,862988400,Premier League,2020/2021,Midfielder,Leicester City,540,270,270,Belgium,6,3,3,1,0,1,0,0,0,1,0,2,0,2,7,5,2,3,0,0.17,0,0.17,0,0.33,540,1.17,77,90,180,0,0.5,74,224,-1,4
+Yves Bissouma,24,841388400,Premier League,2020/2021,Midfielder,Brighton & Hove Albion,539,180,359,Mali,6,2,4,1,0,1,0,0,0,0,0,1,0,1,11,4,7,2,1,0.17,0,0.17,0,0.25,539,1.84,49,90,180,0,0.5,66,90,-1,5
+Zack Steffen,25,796809600,Premier League,2020/2021,Goalkeeper,Manchester City,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Łukasz Fabiański,35,482659200,Premier League,2020/2021,Goalkeeper,West Ham United,630,270,360,Poland,7,3,4,0,0,0,0,0,0,0,0,2,1,1,10,3,7,0,0,0,0,0,0,0,0,1.43,63,90,0,0,0,154,152,50,11
